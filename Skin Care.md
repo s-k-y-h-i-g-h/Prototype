@@ -1,0 +1,9 @@
+- DMAE
+- Vitamin C
+- Vitamin E
+- Q10
+- Epitalon
+- Retinol
+- Moisturiser
+- Sun exposure
+- Exfoliation

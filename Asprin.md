@@ -1,0 +1,2 @@
+- Similarities to spermidine
+- Effects of low doses thoughout the day
