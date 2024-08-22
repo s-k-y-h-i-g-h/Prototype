@@ -21,7 +21,7 @@
 > - Exercise
 > - Klotho
 > - PF4
-> - hyaluronan acid
+> - Hyaluronan acid
 > - Taurine
 > - Acarbose
 > - Spermidine
