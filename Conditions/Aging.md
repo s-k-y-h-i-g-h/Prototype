@@ -19,18 +19,18 @@
 > - Macronutrient balance
 > - Sleep quality
 > - Exercise
-> - klotho
+> - Klotho
 > - PF4
 > - hyaluronan acid
-> - taurine
-> - acarbose
-> - spermidine
+> - Taurine
+> - Acarbose
+> - Spermidine
 > - NAD+ enhancers
 > - Nonsteroidal anti-inflammatory drugs
-> - lithium
+> - Lithium
 > - Reverse transcriptase inhibitors
 > - systemic circulating factors
-> - glucosamine,
+> - Glucosamine
 > - Glycine
 > - 17α-oestradiol
 > - Quercetin, Piperlongumine and analogs, Fisetin, Curcumin, Procyanidin C1, Gingerenone A
