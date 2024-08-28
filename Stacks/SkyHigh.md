@@ -22,6 +22,7 @@
 | Fish oil           | 2 pills | Breakfast | Oral       |
 | Resveratrol        | ?       | Breakfast | Oral       |
 | Baclofen           | 20mg    | Breakfast | Oral       |
+| Modafinil          | 200mg   | Breakfast | Oral       |
 | Asprin             | 150mg   | Breakfast | Oral       |
 | Boron              | 10mg    | Breakfast | Oral       |
 | ALA                | ?       | Breakfast | Oral       |
