@@ -17,13 +17,12 @@
 - [JCM | Free Full-Text | Cognitive Stress Regulation in Schizophrenia Patients and Healthy Individuals: Brain and Behavior (mdpi.com)](https://www.mdpi.com/2077-0383/12/7/2749)
 
 # Autonomic Dysfunction
-
 - [Autonomic nervous system dysfunction in schizophrenia: impact on cognitive and metabolic health - PMC (nih.gov)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8076312/)
 - [Early Signs of Schizophrenia and Autonomic Nervous System Dysregulation: A Literature Review - PMC (nih.gov)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8662712/)
 
 # Treatments
 ## Ginko Biloba
-- https://onlinelibrary.wiley.com/doi/10.1155/2013/915691
+- [A Systematic Review and Meta-Analysis of Ginkgo biloba in Neuropsychiatric Disorders: From Ancient Tradition to Modern-Day Medicine](https://onlinelibrary.wiley.com/doi/10.1155/2013/915691)
 > [Ginko Biloba] treatment reduced positive symptoms in patients with schizophrenia and improved cognitive function and activities of daily living in patients with dementia. No effect of Gb on negative symptoms in schizophrenic patients was found.
 
 ## CBD
