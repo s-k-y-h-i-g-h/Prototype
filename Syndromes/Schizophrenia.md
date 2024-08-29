@@ -43,6 +43,16 @@
 > CBD may be particularly effective in the early stages of the disorder, such as in patients at clinical high risk and those with first episode psychosis
 >
 
+## Sarcosine
+- [Sarcosine as an add-on treatment to antipsychotic medication for people with schizophrenia: a systematic review and meta-analysis of randomized controlled trials](https://pubmed.ncbi.nlm.nih.gov/33538213/)
+- [A possible role for sarcosine in the management of schizophrenia](https://www.cambridge.org/core/journals/the-british-journal-of-psychiatry/article/possible-role-for-sarcosine-in-the-management-of-schizophrenia/54CAFD1EE0E6F5B59DACB163FE60C368)
+- [Two grams of sarcosine in schizophrenia – is it too much? A potential role of glutamate-serotonin interaction](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3921092/)
+
+## Other
+- [Will New Antipsychotics for Schizophrenia Be Game Changers?](https://www.psychologytoday.com/intl/blog/psych-unseen/202309/will-new-antipsychotics-for-schizophrenia-be-game-changers)
+- [Novel and Emerging Pharmacologic Treatments for Schizophrenia](https://neurotorium.org/novel-and-emerging-pharmacologic-treatments-for-schizophrenia/)
+- [Novel Compounds in the Treatment of Schizophrenia—A Selective Review](https://www.mdpi.com/2076-3425/13/8/1193)
+
 ## Meditation
 - [Mindfulness-Based Interventions for People with Schizophrenia: A Systematic Review and Meta-Analysis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7369977/)
 - [The effects of Mindfulness Meditation on hallucination and delusion in severe schizophrenia patients with more than 20 years’ medical history](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6436583/)
