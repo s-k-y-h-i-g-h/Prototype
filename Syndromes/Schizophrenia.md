@@ -1,12 +1,8 @@
 # Oxidative Stress
 
 - [Oxidative stress in schizophrenia: An integrated approach - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0149763410001727)
-
 > Recent clinical studies have shown antioxidant treatment to be effective in ameliorating schizophrenic symptoms.
-> 
-
 > supplementation of omega-3 poly unsaturated fatty acids in combination with ascorbic acid and α-tocopherol is effective in improving psychopathology
-> 
 - [Oxidative Stress in Schizophrenia - PMC (nih.gov)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3131721/)
 - [Antioxidant treatments for schizophrenia - PubMed (nih.gov)](https://pubmed.ncbi.nlm.nih.gov/26848926/)
 - [Antioxidants | Free Full-Text | Schizophrenia Synaptic Pathology and Antipsychotic Treatment in the Framework of Oxidative and Mitochondrial Dysfunction: Translational Highlights for the Clinics and Treatment (mdpi.com)](https://www.mdpi.com/2076-3921/12/4/975)
@@ -27,21 +23,14 @@
 
 # Treatments
 ## Ginko Biloba
-
 - https://onlinelibrary.wiley.com/doi/10.1155/2013/915691
-
 > [Ginko Biloba] treatment reduced positive symptoms in patients with schizophrenia and improved cognitive function and activities of daily living in patients with dementia. No effect of Gb on negative symptoms in schizophrenic patients was found.
-> 
 
 ## CBD
 
 - [Cannabidiol as a potential treatment for psychosis - PMC (nih.gov)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6843725/)
-
 > CBD is safe, well-tolerated and may have antipsychotic effects in patients with psychosis
-> 
-
 > CBD may be particularly effective in the early stages of the disorder, such as in patients at clinical high risk and those with first episode psychosis
->
 
 ## Sarcosine
 - [Sarcosine as an add-on treatment to antipsychotic medication for people with schizophrenia: a systematic review and meta-analysis of randomized controlled trials](https://pubmed.ncbi.nlm.nih.gov/33538213/)
@@ -52,10 +41,22 @@
 - [Will New Antipsychotics for Schizophrenia Be Game Changers?](https://www.psychologytoday.com/intl/blog/psych-unseen/202309/will-new-antipsychotics-for-schizophrenia-be-game-changers)
 - [Novel and Emerging Pharmacologic Treatments for Schizophrenia](https://neurotorium.org/novel-and-emerging-pharmacologic-treatments-for-schizophrenia/)
 - [Novel Compounds in the Treatment of Schizophrenia—A Selective Review](https://www.mdpi.com/2076-3425/13/8/1193)
+- [Beyond antipsychotics: a twenty-first century update for preclinical development of schizophrenia therapeutics](https://www.nature.com/articles/s41398-022-01904-2)
+
+## CBT
+- [Cognitive Behavioural Therapy for Psychosis: A Health Technology Assessment](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6235075/)
+> CBT for psychosis compared with usual care significantly improved overall psychotic symptoms ... positive symptoms ... auditory symptoms ... delusions ... negative symptoms
+> CBT for psychosis showed inconsistent results at end of treatment for overall psychotic symptoms, positive symptoms, auditory hallucinations, and delusions
+> Compared with usual care or any control, CBT for psychosis significantly improved psychotic symptoms, based on evidence of moderate to adequate quality
 
 ## Meditation
 - [Mindfulness-Based Interventions for People with Schizophrenia: A Systematic Review and Meta-Analysis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7369977/)
+> There is evidence that supports the effectiveness and safety of MBIs for the treatment of people with schizophrenia
+> The results obtained by MBIs are comparable to those obtained by cognitive-behavioral therapy for psychosis
+> given the heterogeneity of the applied interventions and the methodological limitations found in the reviewed trials, the results should be interpreted with caution
 - [The effects of Mindfulness Meditation on hallucination and delusion in severe schizophrenia patients with more than 20 years’ medical history](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6436583/)
+> PANSS positive symptoms and negative symptoms both decreased following intervention
+> quality of life index in SF‐36 and mindfulness score in FFMQ improved significantly following intervention
 - [Mindfulness in schizophrenia: Associations with self-reported motivation, emotion regulation, dysfunctional attitudes, and negative symptoms](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4591204/)
 
 # Risk Factors
@@ -74,3 +75,11 @@
 
 ## Urbanicity
 - [Meta-analysis of the association of urbanicity with schizophrenia](https://pubmed.ncbi.nlm.nih.gov/23015685/)
+
+# Life Expectancy
+- [text](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6235075/)
+> People with schizophrenia have a life expectancy 15 to 20 years shorter than the general population; most of these premature deaths are due to cardiovascular and chronic respiratory diseases
+> Between 1993 and 2012 in Ontario, people with schizophrenia experienced 3 times greater mortality rates ... with circulatory disease accounting for most deaths
+
+## Prevention of Diseases
+- Add medicines/supplements which lower the risk of cardiovascular, chronic respiratory and circulatory diseases here
