@@ -25,14 +25,15 @@
 - [Autonomic nervous system dysfunction in schizophrenia: impact on cognitive and metabolic health - PMC (nih.gov)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8076312/)
 - [Early Signs of Schizophrenia and Autonomic Nervous System Dysregulation: A Literature Review - PMC (nih.gov)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8662712/)
 
-# Reduction of Positive Symptoms
+# Treatments
+## Ginko Biloba
 
 - https://onlinelibrary.wiley.com/doi/10.1155/2013/915691
 
 > [Ginko Biloba] treatment reduced positive symptoms in patients with schizophrenia and improved cognitive function and activities of daily living in patients with dementia. No effect of Gb on negative symptoms in schizophrenic patients was found.
 > 
 
-# Reduction of Psychotic Symptoms
+## CBD
 
 - [Cannabidiol as a potential treatment for psychosis - PMC (nih.gov)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6843725/)
 
@@ -41,6 +42,11 @@
 
 > CBD may be particularly effective in the early stages of the disorder, such as in patients at clinical high risk and those with first episode psychosis
 >
+
+## Meditation
+- [Mindfulness-Based Interventions for People with Schizophrenia: A Systematic Review and Meta-Analysis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7369977/)
+- [The effects of Mindfulness Meditation on hallucination and delusion in severe schizophrenia patients with more than 20 years’ medical history](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6436583/)
+- [Mindfulness in schizophrenia: Associations with self-reported motivation, emotion regulation, dysfunctional attitudes, and negative symptoms](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4591204/)
 
 # Risk Factors
 ## Social Defeat
