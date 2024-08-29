@@ -46,6 +46,12 @@
 ## Social Defeat
 - [write stuff about D2 activity being elevated when experiencing social defeat and how suppressing D2 leads to a reduction of symptoms. Explore what D3 does.]
 - [The social defeat hypothesis of schizophrenia: a parsimonious explanation for multiple psychosis risk factors?](https://ncbi.nlm.nih.gov/pmc/articles/PMC9874977)
+- [Low status, humiliation, dopamine and risk of schizophrenia](https://www.cambridge.org/core/journals/psychological-medicine/article/low-status-humiliation-dopamine-and-risk-of-schizophrenia/F5B48AB9D0E8E0EE6830E1D3E6C837A2)
+- [D2/D3 dopamine supports the precision of mental state inferences and self-relevance of joint social outcomes](https://www.nature.com/articles/s44220-024-00220-6)
+
+## Social Stress
+- [Chronic social stressors and striatal dopamine functioning in humans: A systematic review of SPECT and PET studies](https://www.nature.com/articles/s41380-024-02581-x)
+> there is insufficient evidence that chronic social stressors upregulate striatal dopamine functioning in humans
 
 ## Genetics
 - [Genetics of schizophrenia (Review)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7465115/)
