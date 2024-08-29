@@ -41,3 +41,14 @@
 
 > CBD may be particularly effective in the early stages of the disorder, such as in patients at clinical high risk and those with first episode psychosis
 >
+
+# Risk Factors
+## Social Defeat
+- [write stuff about D2 activity being elevated when experiencing social defeat and how suppressing D2 leads to a reduction of symptoms. Explore what D3 does.]
+- [The social defeat hypothesis of schizophrenia: a parsimonious explanation for multiple psychosis risk factors?](https://ncbi.nlm.nih.gov/pmc/articles/PMC9874977)
+
+## Genetics
+- [Genetics of schizophrenia (Review)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7465115/)
+
+## Urbanicity
+- [Meta-analysis of the association of urbanicity with schizophrenia](https://pubmed.ncbi.nlm.nih.gov/23015685/)
