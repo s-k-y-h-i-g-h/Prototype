@@ -24,6 +24,10 @@
 ## Ginko Biloba
 - [A Systematic Review and Meta-Analysis of Ginkgo biloba in Neuropsychiatric Disorders: From Ancient Tradition to Modern-Day Medicine](https://onlinelibrary.wiley.com/doi/10.1155/2013/915691)
 > [Ginko Biloba] treatment reduced positive symptoms in patients with schizophrenia and improved cognitive function and activities of daily living in patients with dementia. No effect of Gb on negative symptoms in schizophrenic patients was found.
+- [A double-blind, placebo-controlled trial of extract of Ginkgo biloba added to haloperidol in treatment-resistant patients with schizophrenia](https://pubmed.ncbi.nlm.nih.gov/11775047/)
+> EGb treatment may enhance the effectiveness of antipsychotic drugs and reduce their extrapyramidal side effects
+- [Efficacy and safety of extract of Ginkgo biloba as an adjunct therapy in chronic schizophrenia: A systematic review of randomized, double-blind, placebo-controlled studies with meta-analysis](https://pubmed.ncbi.nlm.nih.gov/25980333/)
+> result showed that EGb had a significant difference in ameliorating total and negative symptoms of chronic schizophrenia as an adjuvant therapy to antipsychotics
 
 ## CBD
 
