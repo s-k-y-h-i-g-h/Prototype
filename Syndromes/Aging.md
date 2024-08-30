@@ -1,6 +1,12 @@
 # Lifespan
+- [define: lifespan](https://www.bing.com/search?q=define%3A+lifespan)
+> the length of time for which a person or animal lives or a thing functions:
+> "the human lifespan"
 
 # Healthspan
+- [define: healthspan](https://www.bing.com/search?q=define%3A+healthspan)
+> the part of a person’s life during which they are generally in good health:
+> "the goal is to enhance and extend healthspan"
 
 # Mechanisms of Aging
 - [Molecular mechanisms of aging and anti-aging strategies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11118732)
