@@ -27,7 +27,7 @@
 | Asprin               | 150mg                   | Breakfast | Oral       | Longevity       |
 | Boron                | 10mg                    | Breakfast | Oral       | Mood, Cognition |
 | ALA                  | ?                       | Breakfast | Oral       | Longevity       |
-| Ginko Biloba extract | 2x12000mg               | Breakfast | Oral       | Schizophrenia   |
+| Ginko Biloba extract | 12000mg                 | Breakfast | Oral       | Schizophrenia   |
 | CBD                  | ?                       | Breakfast | Oral       | Schizophrenia   |
 | Olanzapine           | 15mg                    | Breakfast | Oral       | Schizophrenia   |
 | Noopept              | 10mg                    | Breakfast | Sublingual | Cognition       |
@@ -40,6 +40,7 @@
 | Taurine              | 1g                      | Lunch     | Oral       | Longevity       |
 | DMAE                 | 200mg                   | Lunch     | Oral       | Cognition       |
 | Asprin               | 150mg                   | Lunch     | Oral       | Longevity       |
+| Ginko Biloba extract | 12000mg                 | Lunch     | Oral       | Schizophrenia   |
 | NSI-189              | 40mg                    | Lunch     | Sublingual | Mood, cognition |
 | Noopept              | 10mg                    | Lunch     | Sublingual | Cognition       |
 | Estradiol Valerate   | 2mg                     | Dinner    | Oral       | GID             |

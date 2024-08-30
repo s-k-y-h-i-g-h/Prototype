@@ -20,6 +20,17 @@
 - [Autonomic nervous system dysfunction in schizophrenia: impact on cognitive and metabolic health - PMC (nih.gov)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8076312/)
 - [Early Signs of Schizophrenia and Autonomic Nervous System Dysregulation: A Literature Review - PMC (nih.gov)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8662712/)
 
+# Sleep
+- [Targeting sleep oscillations to improve memory in schizophrenia](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7316628/)
+> Increasing spindles or sigma power (12-15 Hz), which corresponds to the spindle frequency band, either pharmacologically via zolpidem ... improves sleep-dependent memory consolidation
+- [Therapeutic use of melatonin in schizophrenia: A systematic review](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8394692/)
+> Adjunctive melatonin therapy has some positive outcomes for sleep, metabolic profile and tardive dyskinesia in patients with schizophrenia
+> The only significant change in cognitive function associated with melatonin treatment was improved memory on a verbal learning task post-treatment (8 mg/d for six months)
+- [Therapeutic use of melatonin in schizophrenia-more than meets the eye!](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8968506/)
+- [Is there a role for melatonin in the treatment of schizophrenia?](https://onlinelibrary.wiley.com/doi/full/10.1002/pnp.755)
+- [Treating Sleep Problems in Patients with Schizophrenia](https://pubmed.ncbi.nlm.nih.gov/26751571/)
+> sleep problems in schizophrenia should be treated with evidence-based interventions, and that the interventions may have the added benefit of lessening the psychotic experiences
+
 # Treatments
 ## Ginko Biloba
 - [A Systematic Review and Meta-Analysis of Ginkgo biloba in Neuropsychiatric Disorders: From Ancient Tradition to Modern-Day Medicine](https://onlinelibrary.wiley.com/doi/10.1155/2013/915691)
@@ -60,6 +71,7 @@
 - [The effects of Mindfulness Meditation on hallucination and delusion in severe schizophrenia patients with more than 20 years’ medical history](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6436583/)
 > PANSS positive symptoms and negative symptoms both decreased following intervention  
 > quality of life index in SF‐36 and mindfulness score in FFMQ improved significantly following intervention  
+> our results demonstrated the promising potential of mindfulness meditation on the management of severe chronic schizophrenia patients
 - [Mindfulness in schizophrenia: Associations with self-reported motivation, emotion regulation, dysfunctional attitudes, and negative symptoms](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4591204/)
 
 # Risk Factors

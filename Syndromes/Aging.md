@@ -1,7 +1,9 @@
-- [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11118732](Molecular mechanisms of aging and anti-aging strategies)
+# Lifespan
 
-> Mechanisms of Aging
-> 
+# Healthspan
+
+# Mechanisms of Aging
+- [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11118732](Molecular mechanisms of aging and anti-aging strategies)
 > - Mitochondria
 > - Autophagy
 > - NAD+
@@ -9,8 +11,8 @@
 > - Telomere shortening
 > - Cellular senescence
 
-> Lifespan/Healthspan Increasing Substances
-> 
+# Longevity Increasing Strategies and Substances
+- [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11118732](Molecular mechanisms of aging and anti-aging strategies)
 > - Rapamycin
 > - Sirolimus
 > - Resveratrol
@@ -42,3 +44,8 @@
 > - Bufalin, cinobufagin, convallatoxin, digoxin, ouabain, peruvocide, proscillaridin A
 > - Fenofibrate
 > - Azithromycin, roxithromycin
+
+# Useful Projects
+- [Lifespan.io](https://www.lifespan.io/)
+- [Bryan Johnson](https://en.wikipedia.org/wiki/Bryan_Johnson#Project_Blueprint)
+- [Bryan Johnson's Blueprint Protocol](https://protocol.bryanjohnson.com)
