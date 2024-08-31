@@ -12,3 +12,7 @@
 - [The impact of stress on pain - The Physiological Society (physoc.org)](https://www.physoc.org/magazine-articles/the-impact-of-stress-on-pain/)
 - [Stress-related stomach pain: When to see a doctor - UChicago Medicine](https://www.uchicagomedicine.org/forefront/gastrointestinal-articles/2024/january/stress-stomach-pain-when-to-see-a-doctor)
 - [Chronic Pain and Chronic Stress: Two Sides of the Same Coin? - PMC (nih.gov)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5546756/)
+
+# Eustress
+
+- [Eustress](https://en.wikipedia.org/wiki/Eustress)
