@@ -34,7 +34,8 @@
 # Treatments
 ## Ginko Biloba
 - [A Systematic Review and Meta-Analysis of Ginkgo biloba in Neuropsychiatric Disorders: From Ancient Tradition to Modern-Day Medicine](https://onlinelibrary.wiley.com/doi/10.1155/2013/915691)
-> [Ginko Biloba] treatment reduced positive symptoms in patients with schizophrenia and improved cognitive function and activities of daily living in patients with dementia. No effect of Gb on negative symptoms in schizophrenic patients was found.
+> [Ginko Biloba] treatment reduced positive symptoms in patients with schizophrenia and improved cognitive function and activities of daily living in patients with dementia.  
+> Our data support the use of Gb in patients with dementia and as an adjunctive therapy in schizophrenic patients.  
 - [A double-blind, placebo-controlled trial of extract of Ginkgo biloba added to haloperidol in treatment-resistant patients with schizophrenia](https://pubmed.ncbi.nlm.nih.gov/11775047/)
 > EGb treatment may enhance the effectiveness of antipsychotic drugs and reduce their extrapyramidal side effects
 - [Efficacy and safety of extract of Ginkgo biloba as an adjunct therapy in chronic schizophrenia: A systematic review of randomized, double-blind, placebo-controlled studies with meta-analysis](https://pubmed.ncbi.nlm.nih.gov/25980333/)
@@ -75,8 +76,12 @@
 - [Mindfulness in schizophrenia: Associations with self-reported motivation, emotion regulation, dysfunctional attitudes, and negative symptoms](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4591204/)
 
 # Risk Factors
+## Caffeine
+- [Caffeine-Induced Psychosis](https://www.cambridge.org/core/journals/cns-spectrums/article/abs/caffeineinduced-psychosis/2256285A0D03C906380242E1ECCE187B)
+> caffeine affects dopamine transmission and has been reported to worsen psychosis in people with schizophrenia
+
 ## Social Defeat
-- [write stuff about D2 activity being elevated when experiencing social defeat and how suppressing D2 leads to a reduction of symptoms. Explore what D3 does.]  
+- [write stuff about D2 activity being elevated when experiencing social defeat and how suppressing D2 leads to a reduction of symptoms. Explore what D3 does.]
 - [The social defeat hypothesis of schizophrenia: a parsimonious explanation for multiple psychosis risk factors?](https://ncbi.nlm.nih.gov/pmc/articles/PMC9874977)
 - [Low status, humiliation, dopamine and risk of schizophrenia](https://www.cambridge.org/core/journals/psychological-medicine/article/low-status-humiliation-dopamine-and-risk-of-schizophrenia/F5B48AB9D0E8E0EE6830E1D3E6C837A2)
 - [D2/D3 dopamine supports the precision of mental state inferences and self-relevance of joint social outcomes](https://www.nature.com/articles/s44220-024-00220-6)
