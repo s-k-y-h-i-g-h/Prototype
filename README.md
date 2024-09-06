@@ -2,7 +2,7 @@
 
 A [transhumanist](https://en.wikipedia.org/wiki/Transhumanism) approach to life.
 
-> trans·hu·man·ism  
+> **trans·hu·man·ism**  
 > [tranzˈ(h)yo͞oməˌnizəm, tran(t)sˈ(h)yo͞oməˌnizəm]  
 > noun  
 > transhumanism (noun)  
@@ -34,7 +34,7 @@ A [transhumanist](https://en.wikipedia.org/wiki/Transhumanism) approach to life.
 - [DMAE](Substances/DMAE.md)
 - [Kratom](Substances/Kratom.md)
 
-# Syndromes
+# Syndromes and Conditions
 - [Addiction](Conditions%20and%20Syndromes/Addiction.md)
 - [Aging](Conditions%20and%20Syndromes/Aging.md)
 - [Herpes Simplex](Conditions%20and%20Syndromes/Herpes%20Simplex.md)
