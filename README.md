@@ -63,3 +63,4 @@ A transhumanist approach to life.
 - [Vendors](Vendors.md)
 
 # How to Contribute
+Join [our Discord server](https://discord.gg/j43t5jAv).
