@@ -3,7 +3,7 @@
 - Gender Identity Disorder
 
 # Goals
-- Treating schizophrenia and GID
+- Treat schizophrenia and GID
 - Longevity
 - Mood enhancement
 - Cognitive enhancement
