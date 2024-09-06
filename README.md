@@ -8,6 +8,8 @@ A [transhumanist](https://en.wikipedia.org/wiki/Transhumanism) approach to life.
 > transhumanism (noun)  
 > the belief or theory that the human race can evolve beyond its current physical and mental limitations, especially by means of science and technology.  
 
+This project is intended to turn you into a prototype of a transhuman. It covers everything from your posture to how to take care of your skin to enhancing your cognitive ability and how to make sure you feel good. There is also a list of vendors for nootropics/supplements/medications with the best prices out there.
+
 - [Cognitive Enhancement](Cognitive%20Enhancement.md)
 - [Emotional Enhancement](Emotional%20Enhancement.md)
 - [Longevity](Conditions%20and%20Syndromes/Aging.md)
