@@ -64,8 +64,3 @@ Also (not clinically approved):
 
 ## Other Substances
 - [Discovery of potent telomerase activators: Unfolding new therapeutic and anti-aging perspectives](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6755196/)
-
-# Useful Projects
-- [Lifespan.io](https://www.lifespan.io/)
-- [Bryan Johnson](https://en.wikipedia.org/wiki/Bryan_Johnson#Project_Blueprint)
-- [Bryan Johnson's Blueprint Protocol](https://protocol.bryanjohnson.com)

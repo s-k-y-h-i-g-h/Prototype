@@ -1,1 +1,0 @@
-- [Medical Improvement of the Cognitive Brain Function by Arushanian](https://cosmicnootropic.com/wp-content/uploads/2022/10/Books-about-Nootropics.-Arushanian.Chapters-1-2-with-the-cover.pdf)

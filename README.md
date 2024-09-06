@@ -50,6 +50,10 @@ A transhumanist approach to life.
 
 # Resources
 - [Books](Books.md)
+- [Lifespan.io](https://www.lifespan.io/)
+- [Bryan Johnson](https://en.wikipedia.org/wiki/Bryan_Johnson#Project_Blueprint)
+- [Bryan Johnson's Blueprint Protocol](https://protocol.bryanjohnson.com)
+- [Medical Improvement of the Cognitive Brain Function by Arushanian](https://cosmicnootropic.com/wp-content/uploads/2022/10/Books-about-Nootropics.-Arushanian.Chapters-1-2-with-the-cover.pdf)
 
 # Communities
 - [Reddit Nootropics](https://www.reddit.com/r/Nootropics/)
