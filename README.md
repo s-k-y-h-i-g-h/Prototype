@@ -11,6 +11,7 @@ A transhumanist approach to life.
 - [Transhumanism](https://en.wikipedia.org/wiki/Transhumanism)
 - [Cognitive Enhancement](Cognitive%20Enhancement.md)
 - [Emotional Enhancement](Emotional%20Enhancement.md)
+- [Longevity](Conditions%20and%20Syndromes/Aging.md)
 
 # Best Practices
 - [Bacteria Prevention](Best%20Practices/Bacteria%20Prevention.md)
