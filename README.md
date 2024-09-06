@@ -1,6 +1,6 @@
 # Prototype
 
-Prototype is a transhumanist approach to life.
+A transhumanist approach to life.
 
 > trans·hu·man·ism  
 > [tranzˈ(h)yo͞oməˌnizəm, tran(t)sˈ(h)yo͞oməˌnizəm]  
