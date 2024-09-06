@@ -18,6 +18,7 @@
 > - Cellular senescence
 
 # Longevity Increasing Strategies and Substances
+## 1
 - [Molecular mechanisms of aging and anti-aging strategies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11118732)
 > - Rapamycin
 > - Sirolimus
@@ -50,6 +51,18 @@
 > - Bufalin, cinobufagin, convallatoxin, digoxin, ouabain, peruvocide, proscillaridin A
 > - Fenofibrate
 > - Azithromycin, roxithromycin
+
+## 2
+- [Rapamycin for longevity: opinion article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6814615/)
+> metformin, aspirin, ACE inhibitors, angiotensin receptor blockers and PDE5 inhibitors
+Also (not clinically approved):
+> low doses of pan-mTOR, mdm-2 and MEK inhibitors, lithium
+
+## Rapamycin
+- [Rapamycin for longevity: opinion article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6814615/)
+
+## Other Substances
+- [Discovery of potent telomerase activators: Unfolding new therapeutic and anti-aging perspectives](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6755196/)
 
 # Useful Projects
 - [Lifespan.io](https://www.lifespan.io/)

@@ -53,6 +53,7 @@
 - [Two grams of sarcosine in schizophrenia – is it too much? A potential role of glutamate-serotonin interaction](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3921092/)
 
 ## Other
+
 - [Will New Antipsychotics for Schizophrenia Be Game Changers?](https://www.psychologytoday.com/intl/blog/psych-unseen/202309/will-new-antipsychotics-for-schizophrenia-be-game-changers)
 - [Novel and Emerging Pharmacologic Treatments for Schizophrenia](https://neurotorium.org/novel-and-emerging-pharmacologic-treatments-for-schizophrenia/)
 - [Novel Compounds in the Treatment of Schizophrenia—A Selective Review](https://www.mdpi.com/2076-3425/13/8/1193)
