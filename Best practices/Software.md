@@ -1,16 +1,4 @@
-# Documents
-
-## Office
-
-## Notes
-
-## Tasks and Meetings
-
-## Diagrams
-
 # Logs
-
-## Time Tracking
 
 ## Exercise Activity
 
@@ -18,6 +6,4 @@
 
 ## Personal Finance
 
-# Version Control
-
-## Backups
+## Drug Consumption
