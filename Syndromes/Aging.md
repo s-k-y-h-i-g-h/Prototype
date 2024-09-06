@@ -57,6 +57,7 @@
 > metformin, aspirin, ACE inhibitors, angiotensin receptor blockers and PDE5 inhibitors
 Also (not clinically approved):
 > low doses of pan-mTOR, mdm-2 and MEK inhibitors, lithium
+- Everolimus
 
 ## Rapamycin
 - [Rapamycin for longevity: opinion article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6814615/)
