@@ -59,4 +59,7 @@ A transhumanist approach to life.
 - [Reddit Nootropics](https://www.reddit.com/r/Nootropics/)
 - [Biohacking - Neuropharmacology Discord Server](https://discord.gg/BsZSPrve)
 
+# Vendors
+- [Vendors](Vendors.md)
+
 # How to Contribute
