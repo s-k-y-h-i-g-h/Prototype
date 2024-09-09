@@ -65,6 +65,10 @@
 - [PRL-8-53](https://en.wikipedia.org/wiki/PRL-8-53)
 > displays possible cholinergic properties
 
+### Increase Production
+- [DMAE](https://neurolaunch.com/dimethylaminoethanol)
+> primary effect is believed to be its role in increasing the production of acetylcholine
+
 ### α4β2 Agonists
 - [Phenylpiracetam](https://en.wikipedia.org/wiki/Phenylpiracetam)
 > binds to α4β2 nicotinic acetylcholine receptors in the mouse brain cortex
