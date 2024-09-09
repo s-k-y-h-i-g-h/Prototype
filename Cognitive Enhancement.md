@@ -88,6 +88,21 @@
 - [Selegiline](https://en.wikipedia.org/wiki/Selegiline)
 > a selective and irreversible inhibitor of monoamine oxidase B (MAO-B), increasing brain levels of dopamine
 
+## BDNF (Brain-Derived Neurotrophic Factor)
+### Increase
+- [Dihexa](https://genx.bio/blog/dihexa-peptide-cognitive-miracle-worker/)
+>  its ability to increase levels of neurotrophic factors, such as brain derived neurotrophic factor (BDNF)
+
+## NGF (Nerve Growth Factor)
+### Increase
+- [Dihexa](https://genx.bio/blog/dihexa-peptide-cognitive-miracle-worker/)
+>  its ability to increase levels of neurotrophic factors ... nerve growth factor (NGF)
+
+## HGF (Hepatocyte Growth Factor)
+### Modulators
+- [Dihexa](https://wholisticresearch.com/dihexa/)
+> a compound that modulates the activity of hepatocyte growth factor (HGF) and its receptor, c-Met
+
 ## Vitamins
 - [PQQ](https://en.wikipedia.org/wiki/Pyrroloquinoline_quinone)
 > a "longevity vitamin" not essential for immediate survival, but necessary for long-term health
