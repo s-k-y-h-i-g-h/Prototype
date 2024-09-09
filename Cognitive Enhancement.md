@@ -10,6 +10,10 @@
 > studies suggest that the pharmacological properties of Noopept are derived from its action as an activator of Hypoxia-inducible factor (HIF-1).
 
 ## GABA
+### Pro-Drug
+- [Picamilon](https://en.wikipedia.org/wiki/Picamilon)
+> It is believed that picamilon is hydrolyzed into GABA and niacin
+
 ### GABA-A Agonists
 - [Nefiracetam](https://en.wikipedia.org/wiki/Nefiracetam)
 > shows high affinity for the GABAA receptor (IC50) = 8.5 nM), where it is presumed to be an agonist.
@@ -28,6 +32,9 @@
 > weakly stimulates dopamine release
 
 ## Acetylcholine
+### Precursors
+- [Phosphatidylcholine](https://en.wikipedia.org/wiki/Phosphatidylcholine)
+
 ### α4β2 Agonists
 - [Phenylpiracetam](https://en.wikipedia.org/wiki/Phenylpiracetam)
 > binds to α4β2 nicotinic acetylcholine receptors in the mouse brain cortex
