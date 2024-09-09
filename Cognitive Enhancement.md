@@ -9,9 +9,19 @@
 - [Noopept](https://en.wikipedia.org/wiki/N-Phenylacetyl-L-prolylglycine_ethyl_ester)
 > studies suggest that the pharmacological properties of Noopept are derived from its action as an activator of Hypoxia-inducible factor (HIF-1).
 
-## GABA-A Agonists
-- [Nefiracetam]()
+## GABA
+### GABA-A Agonists
+- [Nefiracetam](https://en.wikipedia.org/wiki/Nefiracetam)
 > shows high affinity for the GABAA receptor (IC50) = 8.5 nM), where it is presumed to be an agonist.
+
+### GABA-B Agonists
+- [Phenibut](https://en.wikipedia.org/wiki/Phenibut)
+> acts as a full agonist of the GABAB receptor
+
+## Acetylcholine
+### α4β2 Agonists
+- [Phenylpiracetam](https://en.wikipedia.org/wiki/Phenylpiracetam)
+> binds to α4β2 nicotinic acetylcholine receptors in the mouse brain cortex
 
 ## Not Yet Understood
 - [Oxiracetam](https://en.wikipedia.org/wiki/Oxiracetam)
