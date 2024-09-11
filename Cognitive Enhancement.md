@@ -77,6 +77,11 @@
 - [Pramiracetam](https://rhtp.org/pramiracetam/)
 > it stimulates the high-affinity choline uptake, a precursor to acetylcholine
 
+## NMDA
+### Co-agonists
+- [D-Serine](https://pubmed.ncbi.nlm.nih.gov/29413526)
+> a physiological coagonist of NMDA receptors
+
 ## MAO
 ### MAO-A
 #### Inhibitors
@@ -103,9 +108,20 @@
 - [Dihexa](https://wholisticresearch.com/dihexa/)
 > a compound that modulates the activity of hepatocyte growth factor (HGF) and its receptor, c-Met
 
+## SV2A
+### Binds
+- [Levetiracetam](https://en.wikipedia.org/wiki/Levetiracetam)
+> the drug binds to SV2A
+
+## Calcium Channel
+### Inhibitors
+- [Levetiracetam](https://en.wikipedia.org/wiki/Levetiracetam)
+>  inhibits presynaptic calcium channels
+
 ## Vitamins
 - [PQQ](https://en.wikipedia.org/wiki/Pyrroloquinoline_quinone)
 > a "longevity vitamin" not essential for immediate survival, but necessary for long-term health
 
 ## Not Yet Understood
 - [Oxiracetam](https://en.wikipedia.org/wiki/Oxiracetam)
+> the mechanism of action of the racetam drug family is still a matter of research
