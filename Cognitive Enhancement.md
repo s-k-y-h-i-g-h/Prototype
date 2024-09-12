@@ -1,9 +1,12 @@
 # Mechanisms of Action
-## AMPA PAMs
+## AMPA 
+### PAMs
 - [Aniracetam](https://en.wikipedia.org/wiki/Aniracetam)
 > has been shown to positively modulate the AMPA receptor.
 - [Piracetam](https://en.wikipedia.org/wiki/Piracetam)
 > is a positive allosteric modulator of the AMPA receptor, although this action is very weak and its clinical effects may not necessarily be mediated by this action. It is hypothesized to act on ion channels or ion carriers, thus leading to increased neuron excitability
+- [IDRA-21](https://en.wikipedia.org/wiki/IDRA-21)
+> is a positive allosteric modulator of the AMPA receptor
 
 ## HIF-1
 ### Activators
@@ -53,6 +56,10 @@
 - [Pemoline](https://en.wikipedia.org/wiki/Pemoline)
 > weakly stimulates dopamine release
 
+### Increase Extracellular Activity
+- [Modafinil](https://en.wikipedia.org/wiki/Modafinil)
+> studies have shown that elevated concentrations of norepinephrine and serotonin can occur as an indirect effect following modafinil administration due to increased extracellular dopamine activity.
+
 ### Activators
 - [SAMe](https://www.psychologytoday.com/us/articles/200203/the-sam-e-story?msockid=24c4967d2a9a676c081d82b12b7a6635)
 > activates such big-time biochemicals as the neurotransmitters ... dopamine
@@ -81,6 +88,11 @@
 ### Co-agonists
 - [D-Serine](https://pubmed.ncbi.nlm.nih.gov/29413526)
 > a physiological coagonist of NMDA receptors
+
+## Orexin
+### Increase Hypothalamic Activity
+- [Modafinil](https://en.wikipedia.org/wiki/Modafinil)
+> Orexin neurons play a crucial role in promoting wakefulness and regulating arousal states. Modafinil may increase signaling within hypothalamic orexin pathways, potentially contributing to its wake-promoting effects.
 
 ## MAO
 ### MAO-A
@@ -125,3 +137,5 @@
 ## Not Yet Understood
 - [Oxiracetam](https://en.wikipedia.org/wiki/Oxiracetam)
 > the mechanism of action of the racetam drug family is still a matter of research
+- [Modafinil](https://en.wikipedia.org/wiki/Modafinil)
+> Although modafinil may have interactions with neurotransmitter systems, its exact mode of action is not fully understood.
