@@ -1,0 +1,5 @@
+- [Nootropics](Substances/Nootropics.md)
+- Meditation
+- Exercise
+- Techniques for improving cognitive ability
+- Testing cognitive ability
