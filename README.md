@@ -50,6 +50,7 @@ A [transhumanist](https://en.wikipedia.org/wiki/Transhumanism) approach to life.
 # Stacks
 ## SkyHigh
 - [Version 1](Stacks/SkyHigh.md)
+- [Modular](Stacks/SkyHigh%20Modular.md)
 
 # Resources
 - [Books](Books.md)
