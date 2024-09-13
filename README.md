@@ -26,6 +26,7 @@ A [transhumanist](https://en.wikipedia.org/wiki/Transhumanism) approach to life.
 - [Skin Care](Best%Practices/Skin%20Care.md)
 - [Sleep](Best%Practices/Sleep.md)
 - [Software](Best%Practices/Software.md)
+- [Testing Your Results](Best%20Practices/Testing%20Your%20Results.md)
 
 # Food
 - [Emulsifiers](Food/Emulsifiers.md)
