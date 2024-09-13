@@ -5,10 +5,10 @@
 - [Diatery reference intakes for water and macronutrients](https://www.ncbi.nlm.nih.gov/books/NBK56068/table/summarytables.t4/?report=objectonly)
 
 ## Average Requirements
-- [Estimated Average Requirements](https://www.ncbi.nlm.nih.gov/books/NBK545442/table/appJ_tab1/?report=objectonly)
+- [Estimated average requirements](https://www.ncbi.nlm.nih.gov/books/NBK545442/table/appJ_tab1/?report=objectonly)
 
 ## Macronutrient Distribution Ranges
-- [Acceptable Macronutrient Distribution Ranges](https://www.ncbi.nlm.nih.gov/books/NBK56068/table/summarytables.t5/?report=objectonly)
+- [Acceptable macronutrient distribution ranges](https://www.ncbi.nlm.nih.gov/books/NBK56068/table/summarytables.t5/?report=objectonly)
   
 ## Upper Intakes
 - [Tolerable upper intake levels for vitamins](https://www.ncbi.nlm.nih.gov/books/NBK56068/table/summarytables.t7/?report=objectonly)
