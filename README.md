@@ -1,4 +1,4 @@
-# Prototype
+# Introduction
 
 A [transhumanist](https://en.wikipedia.org/wiki/Transhumanism) approach to life.
 
@@ -8,6 +8,7 @@ A [transhumanist](https://en.wikipedia.org/wiki/Transhumanism) approach to life.
 > transhumanism (noun)  
 > the belief or theory that the human race can evolve beyond its current physical and mental limitations, especially by means of science and technology.  
 
+# The Goods
 - [Food](Food.md)
 - [Body and Brain Enhancement](Body%20and%20Brain%20Enhancement.md)
 - [Cognitive Enhancers](Cognitive%20Enhancers.md)
