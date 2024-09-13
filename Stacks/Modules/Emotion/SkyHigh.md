@@ -1,11 +1,2 @@
-# Condititions
-N/A
-
-# Goals
-N/A
-
-# Modules
-
-# Stack
 | Substance          | Amount  | When?     | ROA        | For? |
 | ------------------ | ------- | --------- | ---------- | ---- |

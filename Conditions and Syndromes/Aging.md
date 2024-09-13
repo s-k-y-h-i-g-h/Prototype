@@ -17,6 +17,8 @@
 > - Telomere shortening
 > - Cellular senescence
 
+These are inter-dependent. Fixing one helps fix the others. (source?)
+
 # Longevity Increasing Strategies and Substances
 ## 1
 - [Molecular mechanisms of aging and anti-aging strategies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11118732)
