@@ -11,7 +11,7 @@ A [transhumanist](https://en.wikipedia.org/wiki/Transhumanism) approach to life.
 # The Goods
 - [Food](Food.md)
 - [Body and Brain Enhancement](Body%20and%20Brain%20Enhancement.md)
-- [Cognitive Enhancers](Cognitive%20Enhancers.md)
+- [Cognitive Enhancement](Cognitive%20Enhancement.md)
 - [Emotional Enhancement](Emotional%20Enhancement.md)
 - [Longevity](Conditions%20and%20Syndromes/Aging.md)
 
