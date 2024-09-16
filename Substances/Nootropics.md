@@ -60,6 +60,11 @@
 - [Modafinil](https://en.wikipedia.org/wiki/Modafinil)
 > studies have shown that elevated concentrations of norepinephrine and serotonin can occur as an indirect effect following modafinil administration due to increased extracellular dopamine activity.
 
+## Norepinephrine
+### Inhibitor
+- [Bifemelane](https://en.wikipedia.org/wiki/Bifemelane)
+> acts (weakly) as a norepinephrine reuptake inhibitor
+
 ### Activators
 - [SAMe](https://www.psychologytoday.com/us/articles/200203/the-sam-e-story?msockid=24c4967d2a9a676c081d82b12b7a6635)
 > activates such big-time biochemicals as the neurotransmitters ... dopamine
@@ -95,6 +100,9 @@
 > Orexin neurons play a crucial role in promoting wakefulness and regulating arousal states. Modafinil may increase signaling within hypothalamic orexin pathways, potentially contributing to its wake-promoting effects.
 
 ## MAO
+- [Bimefmelane](https://en.wikipedia.org/wiki/Bifemelane)
+> acts as a monoamine oxidase inhibitor of both isoenzymes, with competitive (reversible) inhibition of MAO-A (K i = 4.20 μ M) (making it a reversible inhibitor of monoamine oxidase A (RIMA)) and non-competitive (irreversible) inhibition of MAO-B (K i = 46.0 μ M)
+
 ### MAO-A
 #### Inhibitors
 - [Selegiline](https://en.wikipedia.org/wiki/Selegiline)
