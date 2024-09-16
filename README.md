@@ -19,15 +19,15 @@ A [transhumanist](https://en.wikipedia.org/wiki/Transhumanism) approach to life.
 
 # Best Practices
 - [Bacteria Prevention](Best%20Practices/Bacteria%20Prevention.md)
-- [BMI](Best%Practices/BMI.md)
-- [Breathing](Best%Practices/Breathing.md)
-- [Exercise](Best%Practices/Exercise.md)
-- [Meditation](Best%Practices/Meditation.md)
-- [Mould Prevention](Best%Practices/Mould%20Prevention.md)
-- [Posture](Best%Practices/Posture.md)
-- [Skin Care](Best%Practices/Skin%20Care.md)
-- [Sleep](Best%Practices/Sleep.md)
-- [Software](Best%Practices/Software.md)
+- [BMI](Best%20Practices/BMI.md)
+- [Breathing](Best%20Practices/Breathing.md)
+- [Exercise](Best%20Practices/Exercise.md)
+- [Meditation](Best%20Practices/Meditation.md)
+- [Mould Prevention](Best%20Practices/Mould%20Prevention.md)
+- [Posture](Best%20Practices/Posture.md)
+- [Skin Care](Best%20Practices/Skin%20Care.md)
+- [Sleep](Best%20Practices/Sleep.md)
+- [Software](Best%20Practices/Software.md)
 - [Testing Your Results](Best%20Practices/Testing%20Your%20Results.md)
 
 # Food
