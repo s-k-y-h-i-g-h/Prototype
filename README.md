@@ -1,5 +1,7 @@
 # Introduction
 
+Fuck red, blue and black pills. You are about to be [Limitless](https://en.wikipedia.org/wiki/Limitless_(film))pilled.
+
 A [transhumanist](https://en.wikipedia.org/wiki/Transhumanism) approach to life.
 
 > **trans·hu·man·ism**  
