@@ -17,12 +17,27 @@
 - [Roxadustat](https://en.wikipedia.org/wiki/Roxadustat)
 > a HIF prolyl-hydroxylase inhibitor that increases endogenous production of erythropoietin and stimulates production of hemoglobin and red blood cells
 
-## GlyT1
-### Inhibitors
+## HA (Histamine)
+### Increases Levels
+- [CDP Choline](https://th.bing.com/th/id/OIP.cq4KasqPB-3KQ-RddZjmvAHaMc?rs=1&pid=ImgDetMain)
+
+### Stimulates
+- [Modafinil](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2654794/)
+> stimulates histamine (HA)
+
+## Glycine
+### GlyT1
+#### Inhibitors
 - [Sarcosine](https://examine.com/supplements/sarcosine/)
 > main mechanism involves inhibiting a transporter, called GlyT1
 
+### Increases Levels
+- [CDP Choline](https://th.bing.com/th/id/OIP.cq4KasqPB-3KQ-RddZjmvAHaMc?rs=1&pid=ImgDetMain)
+
 ## GABA
+### Increases Levels
+- [CDP Choline](https://th.bing.com/th/id/OIP.cq4KasqPB-3KQ-RddZjmvAHaMc?rs=1&pid=ImgDetMain)
+
 ### Pro-Drug
 - [Picamilon](https://en.wikipedia.org/wiki/Picamilon)
 > It is believed that picamilon is hydrolyzed into GABA and niacin
@@ -43,7 +58,24 @@
 - [SAMe](https://www.psychologytoday.com/us/articles/200203/the-sam-e-story?msockid=24c4967d2a9a676c081d82b12b7a6635)
 > activates such big-time biochemicals as the neurotransmitters serotonin
 
+### Stimulates
+- [Modafinil](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2654794/)
+> stimulates ... serotonin (5-HT)
+
+### Increases Levels Of
+- [CDP Choline](https://th.bing.com/th/id/OIP.cq4KasqPB-3KQ-RddZjmvAHaMc?rs=1&pid=ImgDetMain)
+
+### Interacts
+- [Bacopa Monnieri](https://examine.com/supplements/bacopa-monnieri/)
+> likely interacts with the serotonin ... systems
+
 ## Dopamine
+### Interacts
+- [Bacopa Monnieri](https://examine.com/supplements/bacopa-monnieri/)
+> likely interacts with the dopamine ... systems
+### Increases Levels
+- [CDP Choline](https://th.bing.com/th/id/OIP.cq4KasqPB-3KQ-RddZjmvAHaMc?rs=1&pid=ImgDetMain)
+
 ### Potentiators
 - [PRL-8-53](https://en.wikipedia.org/wiki/PRL-8-53)
 > potentiates dopamine
@@ -69,7 +101,18 @@
 - [SAMe](https://www.psychologytoday.com/us/articles/200203/the-sam-e-story?msockid=24c4967d2a9a676c081d82b12b7a6635)
 > activates such big-time biochemicals as the neurotransmitters ... dopamine
 
+### Increases Levels
+- [CDP Choline](https://th.bing.com/th/id/OIP.cq4KasqPB-3KQ-RddZjmvAHaMc?rs=1&pid=ImgDetMain)
+
+### Stimulates
+- [Modafinil](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2654794/)
+> stimulates ... norepinephrine (NE)
+
 ## Acetylcholine
+### Interacts With
+- [Bacopa Monnieri](https://examine.com/supplements/bacopa-monnieri/)
+> likely interacts with the acetylcholine ... systems
+
 ### Precursors
 - [Phosphatidylcholine](https://en.wikipedia.org/wiki/Phosphatidylcholine)
 
@@ -122,6 +165,11 @@
 ### Increase
 - [Dihexa](https://genx.bio/blog/dihexa-peptide-cognitive-miracle-worker/)
 >  its ability to increase levels of neurotrophic factors ... nerve growth factor (NGF)
+
+## Dendrites
+### Increases Growth
+- [Bacopa Monnieri](https://examine.com/supplements/bacopa-monnieri/)
+> may promote neuronal communication by increasing the growth of dendrites (branches off of neurons)
 
 ## HGF (Hepatocyte Growth Factor)
 ### Modulators

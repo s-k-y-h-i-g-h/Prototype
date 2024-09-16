@@ -10,6 +10,8 @@
 > is more bioavailable than thiamine salts, providing higher levels of thiamine in muscle, brain, liver, and kidney.
 > acts by modulating the advanced glycation end products (AGEs). It can also act through non-AGE dependent pathways.
 >  In the case of diabetes, benfotiamine increases transketolase activity, an important enzyme in glucose metabolism, and as a result, blocks three of the major molecular pathways leading to hyperglycemic damage. It prevents the increase in UDP-N-acetylglucosamine (UDP-GlcNAc) and enhances hexosamine pathway activity that decreases the buildup of detrimental glucose metabolites that can lead to advanced glycation end products (AGE). Benfotiamine also normalizes protein kinase C (PKC) activity and prevents nuclear factor-kappaB (NF-κB) activation in the retina of diabetics.5 In addition, benfotiamine corrects imbalances in the polyol pathway by decreasing aldose reductase activity, sorbitol concentrations, and intracellular glucose, thereby protecting endothelial cells from glucose-induced damage.6 Benfotiamine also corrects glucose-induced endothelial cell damage by normalizing cell replication rates7 and decreasing apoptosis.
+- [Bacopa Monnieri](https://examine.com/supplements/bacopa-monnieri/)
+> has antioxidant and anti-inflammatory properties
 
 # Things to Do
 - Exercise
