@@ -18,7 +18,7 @@ A [transhumanist](https://en.wikipedia.org/wiki/Transhumanism) approach to life.
 - [Longevity](Conditions%20and%20Syndromes/Aging.md)
 
 # Contents
-- [Contents][Contents.md]
+- [Contents](Contents.md)
 
 # Vendors
 - [Vendors](Vendors.md)
