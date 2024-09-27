@@ -54,8 +54,8 @@
 > | --- | --- | --- |
 - [Increased dopamine tone during meditation-induced change of consciousness - PubMed (nih.gov)](https://pubmed.ncbi.nlm.nih.gov/11958969/)
 
-> 
-> 
+# MDMA Neurotoxicity Reduction
+
 
 # Amphetamine Neurotoxicty Reduction
 
