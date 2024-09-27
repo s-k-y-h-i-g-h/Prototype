@@ -4,6 +4,8 @@ N/A
 # Goals
 N/A
 
+# Practices
+
 # Modules
 - [General](Modules/General/SkyHigh.md)
 - [Cognition](Modules/Cognition/SkyHigh.md)

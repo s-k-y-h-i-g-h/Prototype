@@ -6,6 +6,8 @@ N/A
 
 # Modules
 
+# Practices
+
 # Stack
 | Substance          | Amount  | When?     | ROA        | For? |
 | ------------------ | ------- | --------- | ---------- | ---- |
