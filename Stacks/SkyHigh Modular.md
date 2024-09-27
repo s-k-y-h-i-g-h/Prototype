@@ -2,9 +2,17 @@
 N/A
 
 # Goals
-N/A
+- Treat schizophrenia and GID
+- Longevity
+- Mood enhancement
+- Cognitive enhancement
+- Memory enhancement
+- Achieve all RDAs
+- Achieve enlightenment
 
 # Practices
+- Mindfulness meditation 1 hour per day
+- Reading about spirituality 30 minutes per day
 
 # Modules
 - [General](Modules/General/SkyHigh.md)

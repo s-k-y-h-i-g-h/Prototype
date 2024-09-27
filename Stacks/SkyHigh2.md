@@ -9,10 +9,13 @@
 - Cognitive enhancement
 - Memory enhancement
 - Achieve all RDAs
+- Achieve enlightenment
 
 # Modules
 
 # Practices
+- Mindfulness meditation 1 hour per day
+- Reading about spirituality 30 minutes per day
 
 # Stack
 | Substance     | Amount                  | When?     | ROA        | For?            |
