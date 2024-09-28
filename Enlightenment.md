@@ -1,6 +1,6 @@
 # Definitions
 
-This is the cessation of suffering. Expident means are sometimes recommended to reach a state of enlightenment. This article is a collection and mish mash of definitions and practices from multiple religions and schools of thought. The thing that I am adding is a transhumanist element. I believe and have experienced the cessation of suffering through technological and scientific means. I am just another example. I am nobody. Please bear that in mind.
+This is the cessation of suffering. Expident means are sometimes recommended to reach a state of enlightenment. This article is a collection and mish mash of definitions and practices from multiple religions and schools of thought.
 
 # Expident Means
 - [Definition](https://www.nichirenlibrary.org/en/ott/PART-1/2)
