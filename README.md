@@ -16,7 +16,6 @@ A [transhumanist](https://en.wikipedia.org/wiki/Transhumanism) approach to life.
 - [Cognitive Enhancement](Cognitive%20Enhancement.md)
 - [Emotional Enhancement](Emotional%20Enhancement.md)
 - [Longevity](Conditions%20and%20Syndromes/Aging.md)
-- [Enlightenment](Enlightenment.md)
 
 # Contents
 - [Contents](Contents.md)
