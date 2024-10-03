@@ -52,6 +52,10 @@
 - [A possible role for sarcosine in the management of schizophrenia](https://www.cambridge.org/core/journals/the-british-journal-of-psychiatry/article/possible-role-for-sarcosine-in-the-management-of-schizophrenia/54CAFD1EE0E6F5B59DACB163FE60C368)
 - [Two grams of sarcosine in schizophrenia – is it too much? A potential role of glutamate-serotonin interaction](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3921092/)
 
+## Taurine
+- [Adjunctive Taurine in First-Episode Psychosis: A Phase 2, Double-Blind, Randomized, Placebo-Controlled Study](https://pubmed.ncbi.nlm.nih.gov/27835719)
+> appears to improve psychopathology in patients with first-episode psychosis.
+
 ## Other
 
 - [Will New Antipsychotics for Schizophrenia Be Game Changers?](https://www.psychologytoday.com/intl/blog/psych-unseen/202309/will-new-antipsychotics-for-schizophrenia-be-game-changers)

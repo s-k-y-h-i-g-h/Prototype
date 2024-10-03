@@ -15,3 +15,4 @@
 - [Alkonchem](https://www.alkonchem.com/)
 - [Zion Pharma](https://aniracetam.eu/)
 - [PureRaws](https://purerawz.co/)
+- [HeroPharm](https://heropharm.pl/)

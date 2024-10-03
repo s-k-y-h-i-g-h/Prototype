@@ -8,6 +8,7 @@
 - [The Hagakure](https://archive.org/download/hagakure/hagakure.pdf)
 - [The Baghavad Gita](https://bhagavad-gita.org/index-english.html)
 - [The Quoran](https://www.clearquran.com/)
+- [Tao Te Ching](https://classics.mit.edu/Lao/taote.html)
 
 # Military
 - [The Art of War](https://classics.mit.edu/Tzu/artwar.html)
