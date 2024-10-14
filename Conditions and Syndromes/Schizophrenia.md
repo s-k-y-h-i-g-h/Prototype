@@ -51,6 +51,8 @@
 - [Sarcosine as an add-on treatment to antipsychotic medication for people with schizophrenia: a systematic review and meta-analysis of randomized controlled trials](https://pubmed.ncbi.nlm.nih.gov/33538213/)
 - [A possible role for sarcosine in the management of schizophrenia](https://www.cambridge.org/core/journals/the-british-journal-of-psychiatry/article/possible-role-for-sarcosine-in-the-management-of-schizophrenia/54CAFD1EE0E6F5B59DACB163FE60C368)
 - [Two grams of sarcosine in schizophrenia – is it too much? A potential role of glutamate-serotonin interaction](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3921092/)
+- [Hypomania after augmenting venlafaxine and olanzapine with sarcosine in a patient with schizophrenia: a case study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4356443/)
+> sarcosine induced important affect changes when added to antidepressive and antipsychotic treatment, which supports the hypothesis of clinically important glutamate–serotonin interaction.
 
 ## Taurine
 - [Adjunctive Taurine in First-Episode Psychosis: A Phase 2, Double-Blind, Randomized, Placebo-Controlled Study](https://pubmed.ncbi.nlm.nih.gov/27835719)

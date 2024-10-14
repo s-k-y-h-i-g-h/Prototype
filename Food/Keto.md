@@ -1,0 +1,3 @@
+- Few carbs
+- Lots of protein and fat
+- Causes body to burn fat for energy instead of sugars
