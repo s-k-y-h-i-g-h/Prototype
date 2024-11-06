@@ -1,10 +1,11 @@
+| Substance  | MoA1                                                            | MoA2 | MoA3 | MoA4 | MoA5 |
+| :--------- | :-------------------------------------------------------------- | :--- | :--- | :--- | :--- |
+| Aniracetam | [AMPA PAM](https://en.wikipedia.org/wiki/Aniracetam)            |      |      |      |      |
+| Piracetam  | [allosteric modulator](https://en.wikipedia.org/wiki/Piracetam) |      |      |      |
+
 # Mechanisms of Action
 ## AMPA 
 ### PAMs
-- [Aniracetam](https://en.wikipedia.org/wiki/Aniracetam)
-> has been shown to positively modulate the AMPA receptor.
-- [Piracetam](https://en.wikipedia.org/wiki/Piracetam)
-> is a positive allosteric modulator of the AMPA receptor, although this action is very weak and its clinical effects may not necessarily be mediated by this action. It is hypothesized to act on ion channels or ion carriers, thus leading to increased neuron excitability
 - [IDRA-21](https://en.wikipedia.org/wiki/IDRA-21)
 > is a positive allosteric modulator of the AMPA receptor
 

@@ -1,0 +1,9 @@
+- Use studies and textbooks as your main sources of information
+- Use AI and verify what it tells you
+- Summarise what you learn in a set of documents
+- Share what you learn with others
+- Use chatrooms to get help with doing things/understanding things
+- Use forums and social media if chatrooms do not work
+- Expose yourself to conversations and threads where you can learn new but relevant things
+- Watch videos at double speed to save time
+- Use YouTube for how-tos and tutorials

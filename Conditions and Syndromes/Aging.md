@@ -71,5 +71,12 @@ Also (not clinically approved):
 > Supplementation with 17α-Estradiol increases the median lifespan of male mice by 19%, while not affecting female lifespan. This treatment does not lead to feminization of male mice. 17α-Estradiol furthermore alleviates age-related metabolic and inflammatory dysfunction and improves glucose tolerance in male mice. The exact reason for this sex-specific increase in lifespan is unknown, however, the effect on male lifespan is gone in castrated mice, suggesting that the metabolic response to 17α-Estradiol requires the presence of male gonadal hormones. Whether these results are translatable to humans is currently unknown.
 - [Health benefits attributed to 17α-estradiol, a lifespan-extending compound, are mediated through estrogen receptor α](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7744101/)
 
+# Reading
+- [Reading Skills: How Many Pages Should You Read per Hour?](https://selfimprovepublishing.com/reading-skills-how-many-pages-should-you-read-per-hour/)
+> According to Bustle, who quotes a study, the sweet spot is 30 minutes of reading each day to live longer than those who read less. This means roughly 20 pages each day will be beneficial.
+
 ## Other Substances
 - [Discovery of potent telomerase activators: Unfolding new therapeutic and anti-aging perspectives](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6755196/)
+
+## Other Methods
+- Exercise
