@@ -1,5 +1,5 @@
 # Things to Take
-- [Nootropics](Substances/Nootropics.md)
+- [Nootropics](Substances/Substances.md)
 
 # Things to Do
 - Meditation

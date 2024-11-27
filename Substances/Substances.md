@@ -1,5 +1,5 @@
-| Substance  | MoA1                                                            | MoA2 | MoA3 | MoA4 | MoA5 |
-| :--------- | :-------------------------------------------------------------- | :--- | :--- | :--- | :--- |
+| Substance  | Dose | Average Duration MoA1                                                            | MoA2 | MoA3 | MoA4 | MoA5 |
+| :--------- | -- | -- | :-------------------------------------------------------------- | :--- | :--- | :--- | :--- |
 | Aniracetam | [AMPA PAM](https://en.wikipedia.org/wiki/Aniracetam)            |      |      |      |      |
 | Piracetam  | [allosteric modulator](https://en.wikipedia.org/wiki/Piracetam) |      |      |      |
 

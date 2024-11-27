@@ -42,7 +42,6 @@
 > result showed that EGb had a significant difference in ameliorating total and negative symptoms of chronic schizophrenia as an adjuvant therapy to antipsychotics
 
 ## CBD
-
 - [Cannabidiol as a potential treatment for psychosis - PMC (nih.gov)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6843725/)
 > CBD is safe, well-tolerated and may have antipsychotic effects in patients with psychosis  
 > CBD may be particularly effective in the early stages of the disorder, such as in patients at clinical high risk and those with first episode psychosis  
@@ -54,12 +53,37 @@
 - [Hypomania after augmenting venlafaxine and olanzapine with sarcosine in a patient with schizophrenia: a case study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4356443/)
 > sarcosine induced important affect changes when added to antidepressive and antipsychotic treatment, which supports the hypothesis of clinically important glutamate–serotonin interaction.
 
+## Modafinil
+- [A randomized, double-blind, placebo-controlled trial of modafinil for negative symptoms in schizophrenia](https://pubmed.ncbi.nlm.nih.gov/17503979/)
+> Although no effect on negative symptoms was found, adjunctive therapy with modafinil may result in global improvements in patients with schizophrenia who have prominent negative symptoms.
+
+## Armodafinil
+- [Armodafinil as adjunctive therapy in adults with cognitive deficits associated with schizophrenia: a 4-week, double-blind, placebo-controlled study](https://pubmed.ncbi.nlm.nih.gov/20816042/)
+> In this 4-week study, adjunctive armodafinil was not associated with an improvement in cognitive measures, but armodafinil 200 mg/d appeared to mitigate the negative symptoms of schizophrenia. Treatment was generally well tolerated.
+
 ## Taurine
 - [Adjunctive Taurine in First-Episode Psychosis: A Phase 2, Double-Blind, Randomized, Placebo-Controlled Study](https://pubmed.ncbi.nlm.nih.gov/27835719)
 > appears to improve psychopathology in patients with first-episode psychosis.
 
-## Other
+## L-Tyrosine
+- [Support for limited brain availability of tyrosine in patients with schizophrenia](https://pubmed.ncbi.nlm.nih.gov/15972118/)
+>  One line of research suggests that patients with schizophrenia have altered brain levels of the essential amino acid tyrosine, the precursor for the synthesis of dopamine. The most common hypothesis is that less tyrosine is available because of competition with elevated levels of other amino acids. By consequence, the synthesis of dopamine in the brain will decrease.
+- [L-tyrosine pharmacotherapy of schizophrenia: preliminary data](https://pubmed.ncbi.nlm.nih.gov/8149360/)
+> The objective of this inpatient study was to increase dopaminergic neural transmission along mesocortical projections in patients by increasing the precursor availability of L-tyrosine for dopamine biosynthesis. Theoretically, this approach might lessen both negative and positive symptoms of schizophrenia
 
+## NAC
+
+## Glycine
+
+## Omega-3 Fatty Acids
+
+## Probiotics
+
+## Sulforaphane
+
+## Taurine
+
+## Other
 - [Will New Antipsychotics for Schizophrenia Be Game Changers?](https://www.psychologytoday.com/intl/blog/psych-unseen/202309/will-new-antipsychotics-for-schizophrenia-be-game-changers)
 - [Novel and Emerging Pharmacologic Treatments for Schizophrenia](https://neurotorium.org/novel-and-emerging-pharmacologic-treatments-for-schizophrenia/)
 - [Novel Compounds in the Treatment of Schizophrenia—A Selective Review](https://www.mdpi.com/2076-3425/13/8/1193)

@@ -1,4 +1,0 @@
-- https://examine.com/supplements/dmae/research/
-- Alzheimers prevention
-- Age related cognitive decline prevention
-- Anti-oxidant

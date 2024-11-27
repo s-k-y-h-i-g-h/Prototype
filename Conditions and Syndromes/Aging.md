@@ -63,6 +63,14 @@ Also (not clinically approved):
 > low doses of pan-mTOR, mdm-2 and MEK inhibitors, lithium
 - Everolimus
 
+## 3
+## Mitochondria
+## Autophagy
+## NAD+
+## Stem cell exhaustion
+## Telomere shortening
+## Cellular senescence
+
 ## Rapamycin
 - [Rapamycin for longevity: opinion article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6814615/)
 
@@ -75,8 +83,24 @@ Also (not clinically approved):
 - [Reading Skills: How Many Pages Should You Read per Hour?](https://selfimprovepublishing.com/reading-skills-how-many-pages-should-you-read-per-hour/)
 > According to Bustle, who quotes a study, the sweet spot is 30 minutes of reading each day to live longer than those who read less. This means roughly 20 pages each day will be beneficial.
 
+# Telomere Lengthening
+## mRNA
+- [Scientists find way to increase length of human telomeres](https://www.medicalnewstoday.com/articles/288515#New-method-increased-telomere-length-by-up-to-10)
+## Vitamin D
+## Sleep
+## Prevent Stress
+## Risks
+- [Genes behind longer telomeres linked to raised risk of brain cancer](https://www.medicalnewstoday.com/articles/277964)
 ## Other Substances
 - [Discovery of potent telomerase activators: Unfolding new therapeutic and anti-aging perspectives](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6755196/)
 
 ## Other Methods
 - Exercise
+
+# Preventing Grey Hair
+- [The Psychology of Gray Hair](https://www.sciencedirect.com/science/article/pii/S1534580720301040)
+- [Red Light Therapy](https://www.bing.com/search?q=red+light+therapy+grey+hair&qs=n&form=QBRE&sp=-1&lq=0&pq=red+light+therapy+grey+hair&sc=8-27&sk=&cvid=245462F56C9F46849BDEB2D4CF71658A&ghsh=0&ghacc=0&ghpl=)
+
+# Preventing Grey Matter Reduction
+- happens around the age of 50
+- meditation increases grey matter

@@ -1,1 +1,0 @@
-- [Effects of varenicline on cognitive performance in heavy drinkers: Dose-response effects and associations with drinking outcomes](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5797996/)

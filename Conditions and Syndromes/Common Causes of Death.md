@@ -1,0 +1,1 @@
+- How to promote each of them
