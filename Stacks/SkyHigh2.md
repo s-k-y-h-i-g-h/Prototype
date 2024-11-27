@@ -34,6 +34,7 @@
 | Fish oil             | 1 pills                 | Breakfast | Oral       | RDA, longevity  |
 | Boron                | 10mg                    | Breakfast | Oral       | Mood, cognition |
 | Ginko Biloba extract | 12000mg                 | Breakfast | Oral       | Schizophrenia   |
+| Sarcosine                | 4g                    | Breakfast | Oral       | Schizophrenia |
 | NAC                | 2g                    | Breakfast | Oral       | Schizophrenia |
 | Taurine                | 4g                    | Breakfast | Oral       | Longevity, schizophrenia |
 | Glycine                | 4g                    | Breakfast | Oral       | Schizophrenia |
