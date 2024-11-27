@@ -17,7 +17,7 @@
 
 # Stack
 | Substance                   | Amount  | When?     | ROA  | For?                     |
-
+| --------------------------- | ------- | --------- | ---- | ------------------------ |
 | Multivitamin (26 nutrients) | 1 pill  | Breakfast | Oral | RDA                      |
 | Calcium                     | 800mg   | Breakfast | Oral | RDA                      |
 | Calcium                     | 800mg   | Breakfast | Oral | RDA                      |
