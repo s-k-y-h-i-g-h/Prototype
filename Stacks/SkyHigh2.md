@@ -9,7 +9,6 @@
 - Cognitive enhancement
 - Memory enhancement
 - Achieve all RDAs
-- Achieve enlightenment
 
 # Modules
 
