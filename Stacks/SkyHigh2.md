@@ -26,6 +26,8 @@
 | DMAE             | 200mg                       | Breakfast | Oral       | Cognition       |
 | AlphaGPC             | ?                       | Breakfast | Oral       | Cognition       |
 | Metformin            | ?                       | Breakfast | Oral       | Longevity       |
+| Quercetine            | ?                       | Breakfast | Oral       | Longevity       |
+| Glucosamine            | ?                       | Breakfast | Oral       | Joints       |
 | Spironolactone       | 200mg                     | Breakfast | Oral       | GID             |
 | Estradiol Valerate   | 2mg                     | Breakfast | Oral       | GID             |
 | Progesterone         | 200mg                   | Breakfast | Oral       | GID             |
