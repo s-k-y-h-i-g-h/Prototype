@@ -1,7 +1,24 @@
-# Things to Take
-- [Nootropics](Substances/Substances.md)
+# Memory
+## Formation
+## Recall
 
-# Things to Do
+# Concentration
+
+# Attention
+
+# Multi-Tasking
+
+# Mood
+
+# IQ
+
+# Creativity
+
+# Sleep
+
+# Energy
+
+# Methods
 - Meditation
 - Exercise
 - Techniques for improving cognitive ability

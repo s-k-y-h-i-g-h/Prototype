@@ -26,11 +26,12 @@
 | AlphaGPC                    | ?       | Breakfast | Oral | Cognition                |
 | Metformin                   | ?       | Breakfast | Oral | Longevity                |
 | Quercetine                  | ?       | Breakfast | Oral | Longevity                |
+| CoQ10                       | ?       | Breakfast | Oral | Prevent deficiency       |
 | Glucosamine                 | ?       | Breakfast | Oral | Joints                   |
 | Spironolactone              | 200mg   | Breakfast | Oral | GID                      |
 | Estradiol Valerate          | 2mg     | Breakfast | Oral | GID                      |
 | Estradiol Valerate          | 2mg     | Breakfast | Oral | GID                      |
-| Fish oil                    | 1 pills | Breakfast | Oral | RDA, longevity           |
+| Fish oil                    | 1 pill  | Breakfast | Oral | RDA, longevity           |
 | Boron                       | 10mg    | Breakfast | Oral | Mood, cognition          |
 | Ginko Biloba extract        | 12000mg | Breakfast | Oral | Schizophrenia            |
 | Sarcosine                   | 4g      | Breakfast | Oral | Schizophrenia            |
