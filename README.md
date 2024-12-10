@@ -1,6 +1,6 @@
 # Introduction
 
-Fuck red, blue and black pills. You are about to be [Limitless](https://en.wikipedia.org/wiki/Limitless_(film))pilled.
+Forget [red](https://www.dictionary.com/e/slang/red-pill/), [blue](https://en.wikipedia.org/wiki/Red_pill_and_blue_pill) and [black](https://www.newsweek.com/newsweek-com-swalling-black-pill-inside-mind-incel-1757788) pills. You are about to be [Limitless](https://en.wikipedia.org/wiki/Limitless_(film))pilled.
 
 This is book details evidence based approaches to self improvement. Self improvement is a science, not an art. There are right and wrong answers. I believe that people should be making informed decisions about their health and habits.
 
