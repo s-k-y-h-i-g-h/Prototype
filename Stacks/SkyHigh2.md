@@ -28,6 +28,7 @@
 | Quercetine                  | ?       | Breakfast | Oral | Longevity                |
 | CoQ10                       | ?       | Breakfast | Oral | Prevent deficiency       |
 | Glucosamine                 | ?       | Breakfast | Oral | Joints                   |
+| Lemon Balm                  | 2g       | Breakfast | Oral | Anxiolytic               |
 | Spironolactone              | 200mg   | Breakfast | Oral | GID                      |
 | Estradiol Valerate          | 2mg     | Breakfast | Oral | GID                      |
 | Estradiol Valerate          | 2mg     | Breakfast | Oral | GID                      |
@@ -43,7 +44,8 @@
 | L-Tyrosine                  | 4g      | Brunch    | Oral | Schizophrenia            |
 | Glycine                     | 4g      | Lunch     | Oral | Schizophrenia            |
 | L-Tyrosine                  | 4g      | Lunch     | Oral | Schizophrenia            |
+| Lemon Balm                  | 2g       | Lunch | Oral | Anxiolytic               |
+| Spironolactone              | 200mg   | Lunch    | Oral | GID                      |
+| Estradiol Valerate          | 2mg     | Lunch    | Oral | GID                      |
 | Glycine                     | 4g      | Dinner    | Oral | Schizophrenia            |
 | L-Tyrosine                  | 4g      | Dinner    | Oral | Schizophrenia            |
-| Spironolactone              | 200mg   | Dinner    | Oral | GID                      |
-| Estradiol Valerate          | 2mg     | Dinner    | Oral | GID                      |

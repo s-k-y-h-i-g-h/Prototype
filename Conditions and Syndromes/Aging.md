@@ -21,6 +21,8 @@
 
 These are inter-dependent. Fixing one helps fix the others. (source?)
 
+- [Israeli study links blood sugar levels, brain aging process](https://www.ynetnews.com/health_science/article/sygjvxrzje)
+
 # Longevity Increasing Strategies and Substances
 ## 1
 - [Molecular mechanisms of aging and anti-aging strategies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11118732)

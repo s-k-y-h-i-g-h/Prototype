@@ -1,1 +1,1 @@
-- Looking in the mirror increases self-esteem
+- Looking in the mirror and saying nice things to yourself increases self-esteem
