@@ -24,7 +24,7 @@
 | AlphaGPC                    | ?       | Breakfast | Oral | Cognition                |
 | Metformin                   | ?       | Breakfast | Oral | Longevity                |
 | Quercetine                  | ?       | Breakfast | Oral | Longevity                |
-| CoQ10                       | ?       | Breakfast | Oral | Prevent deficiency       |
+| CoQ10                       | ?       | Breakfast | Oral | Longevity       |
 | Glucosamine                 | ?       | Breakfast | Oral | Joints                   |
 | Lemon Balm                  | 2g       | Breakfast | Oral | Anxiolytic               |
 | Spironolactone              | 200mg   | Breakfast | Oral | GID                      |
