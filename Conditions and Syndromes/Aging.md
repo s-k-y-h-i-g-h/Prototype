@@ -23,7 +23,7 @@ These are inter-dependent. Fixing one helps fix the others. (source?)
 
 - [Israeli study links blood sugar levels, brain aging process](https://www.ynetnews.com/health_science/article/sygjvxrzje)
 
-# Longevity Increasing Strategies and Substances
+# Increasing Longevity
 ## 1
 - [Molecular mechanisms of aging and anti-aging strategies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11118732)
 > - Rapamycin
@@ -65,14 +65,6 @@ Also (not clinically approved):
 > low doses of pan-mTOR, mdm-2 and MEK inhibitors, lithium
 - Everolimus
 
-## 3
-## Mitochondria
-## Autophagy
-## NAD+
-## Stem cell exhaustion
-## Telomere shortening
-## Cellular senescence
-
 ## Rapamycin
 - [Rapamycin for longevity: opinion article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6814615/)
 
@@ -81,21 +73,25 @@ Also (not clinically approved):
 > Supplementation with 17α-Estradiol increases the median lifespan of male mice by 19%, while not affecting female lifespan. This treatment does not lead to feminization of male mice. 17α-Estradiol furthermore alleviates age-related metabolic and inflammatory dysfunction and improves glucose tolerance in male mice. The exact reason for this sex-specific increase in lifespan is unknown, however, the effect on male lifespan is gone in castrated mice, suggesting that the metabolic response to 17α-Estradiol requires the presence of male gonadal hormones. Whether these results are translatable to humans is currently unknown.
 - [Health benefits attributed to 17α-estradiol, a lifespan-extending compound, are mediated through estrogen receptor α](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7744101/)
 
-# Reading
+## CoQ10
+- [Coenzyme Q10 Supplementation in Aging and Disease](https://pmc.ncbi.nlm.nih.gov/articles/PMC5807419/)
+> There is evidence that supplementation positively affects mitochondrial deficiency syndrome and the symptoms of aging
+>  Cardiovascular disease and inflammation are alleviated by the antioxidant effect of CoQ10
+
+## Reading
 - [Reading Skills: How Many Pages Should You Read per Hour?](https://selfimprovepublishing.com/reading-skills-how-many-pages-should-you-read-per-hour/)
 > According to Bustle, who quotes a study, the sweet spot is 30 minutes of reading each day to live longer than those who read less. This means roughly 20 pages each day will be beneficial.
 
-# Telomere Lengthening
-## mRNA
+## Telomere Lengthening
 - [Scientists find way to increase length of human telomeres](https://www.medicalnewstoday.com/articles/288515#New-method-increased-telomere-length-by-up-to-10)
+- [Discovery of potent telomerase activators: Unfolding new therapeutic and anti-aging perspectives](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6755196/)
+
+### Risks
+- [Genes behind longer telomeres linked to raised risk of brain cancer](https://www.medicalnewstoday.com/articles/277964)
+
 ## Vitamin D
 ## Sleep
 ## Prevent Stress
-## Risks
-- [Genes behind longer telomeres linked to raised risk of brain cancer](https://www.medicalnewstoday.com/articles/277964)
-## Other Substances
-- [Discovery of potent telomerase activators: Unfolding new therapeutic and anti-aging perspectives](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6755196/)
-
 ## Other Methods
 - Exercise
 

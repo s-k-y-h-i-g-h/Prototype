@@ -18,7 +18,7 @@ A [transhumanist](https://en.wikipedia.org/wiki/Transhumanism) approach to life.
 - [Longevity](Conditions%20and%20Syndromes/Aging.md)
 
 ## Best Practices
-- [Logs](Best%20Practices/Logs.md)
+- [Managing Information](Best%20Practices/Managing%20Information.md)
 - [Meditation](Best%20Practices/Meditation.md)
 - [Breathing techniques](Best%20Practices/Breathing%20Techniques.md)
 - [Hair care](Best%20Practices/Hair%20Care.md)
