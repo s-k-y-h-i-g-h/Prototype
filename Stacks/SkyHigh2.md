@@ -20,8 +20,6 @@
 | --------------------------- | ------- | --------- | ---- | ------------------------ |
 | Multivitamin (26 nutrients) | 1 pill  | Breakfast | Oral | RDA                      |
 | Calcium                     | 800mg   | Breakfast | Oral | RDA                      |
-| Calcium                     | 800mg   | Breakfast | Oral | RDA                      |
-| Creatine                    | 5g      | Breakfast | Oral | Strength                 |
 | Creatine                    | 5g      | Breakfast | Oral | Strength                 |
 | AlphaGPC                    | ?       | Breakfast | Oral | Cognition                |
 | Metformin                   | ?       | Breakfast | Oral | Longevity                |
