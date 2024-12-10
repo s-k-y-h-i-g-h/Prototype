@@ -29,7 +29,6 @@
 | Lemon Balm                  | 2g       | Breakfast | Oral | Anxiolytic               |
 | Spironolactone              | 200mg   | Breakfast | Oral | GID                      |
 | Estradiol Valerate          | 2mg     | Breakfast | Oral | GID                      |
-| Estradiol Valerate          | 2mg     | Breakfast | Oral | GID                      |
 | Fish oil                    | 1 pill  | Breakfast | Oral | RDA, longevity           |
 | Boron                       | 10mg    | Breakfast | Oral | Mood, cognition          |
 | Ginko Biloba extract        | 12000mg | Breakfast | Oral | Schizophrenia            |
