@@ -28,4 +28,4 @@ You should write down ideas in Obsidian/Notion/AnyType/OneNote. Consider that yo
 # Public Notes
 If you intend to share your notes/articles with other people then you should consider hosting a project in GitHub and writing everything in Markdown like I have done with prototype. It's a zero click hosting solution.
 
-![GitHut image](../images/GitHub.png)
+![GitHub image](../images/GitHub.png)
