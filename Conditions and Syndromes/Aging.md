@@ -24,7 +24,7 @@ These are inter-dependent. Fixing one helps fix the others. (source?)
 - [Israeli study links blood sugar levels, brain aging process](https://www.ynetnews.com/health_science/article/sygjvxrzje)
 
 # Increasing Longevity
-## 1
+## List A
 - [Molecular mechanisms of aging and anti-aging strategies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11118732)
 > - Rapamycin
 > - Sirolimus
@@ -58,7 +58,7 @@ These are inter-dependent. Fixing one helps fix the others. (source?)
 > - Fenofibrate
 > - Azithromycin, roxithromycin
 
-## 2
+## List B
 - [Rapamycin for longevity: opinion article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6814615/)
 > metformin, aspirin, ACE inhibitors, angiotensin receptor blockers and PDE5 inhibitors
 Also (not clinically approved):

@@ -14,11 +14,12 @@ A [transhumanist](https://en.wikipedia.org/wiki/Transhumanism) approach to life.
 
 # The Goods
 - [Food](Food.md)
+- [Health supplements](Health%20Supplements.md)
 - [Cognitive Enhancement](Cognitive%20Enhancement.md)
 - [Longevity](Conditions%20and%20Syndromes/Aging.md)
 
 ## Best Practices
-- [Managing Information](Best%20Practices/Managing%20Information.md)
+- [Managing information](Best%20Practices/Managing%20Information.md)
 - [Meditation](Best%20Practices/Meditation.md)
 - [Breathing techniques](Best%20Practices/Breathing%20Techniques.md)
 - [Hair care](Best%20Practices/Hair%20Care.md)

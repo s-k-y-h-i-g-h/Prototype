@@ -16,3 +16,8 @@
 # Eustress
 
 - [Eustress](https://en.wikipedia.org/wiki/Eustress)
+
+# Anti-Stress Compounds
+## L-Tyrosine
+- [Tyrosine: Benefits, Side Effects and Dosage](https://www.healthline.com/nutrition/tyrosine#TOC_TITLE_HDR_2)
+> Its greatest anti-stress effects have been observed when it’s taken in doses of 45-68 mg per pound (100–150 mg per kg) [7–10 grams for a 150-pound (68.2-kg) person] of body weight about 60 minutes before a stressful event.

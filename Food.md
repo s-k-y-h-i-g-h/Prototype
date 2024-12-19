@@ -17,14 +17,21 @@
 # How to Get the Nutrients You Need
 ## Food
 ### Foods Which Are Good For You
-- [Fruit](Food/Fruit.md)
-- [Honey](Food/Honey.md)
+#### Oranges
+- https://www.healthline.com/nutrition/orange-juice-benefits#TOC_TITLE_HDR_8
+
+#### Strawberries
+- https://www.webmd.com/diet/health-benefits-strawberry
+
+#### Pineapples
+- [Beneficial Properties of Bromelain](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8709142/)
+> anti-viral, anti-inflammatory, cardioprotective and anti-coagulatory
+
+#### Honey
+- https://www.webmd.com/diet/honey-health-benefits
 
 ### Foods to Avoid
-
-## Food Supplements
-
-## Food vs Food Supplements
-
-# Things to Watch Out For
 - [Some Emulsifiers](Food/Emulsifiers.md)
+
+## Nutritional Supplements
+## Food vs Nutritional Supplements
