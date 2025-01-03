@@ -78,6 +78,10 @@ Also (not clinically approved):
 > There is evidence that supplementation positively affects mitochondrial deficiency syndrome and the symptoms of aging
 >  Cardiovascular disease and inflammation are alleviated by the antioxidant effect of CoQ10
 
+## Glycine
+- [Glycine and aging: Evidence and mechanisms](https://www.sciencedirect.com/science/article/pii/S1568163723000818?via%3Dihub)
+>  evidence suggests that glycine prolongs life by mimicking methionine restriction and activating autophagy.
+
 ## Reading
 - [Reading Skills: How Many Pages Should You Read per Hour?](https://selfimprovepublishing.com/reading-skills-how-many-pages-should-you-read-per-hour/)
 > According to Bustle, who quotes a study, the sweet spot is 30 minutes of reading each day to live longer than those who read less. This means roughly 20 pages each day will be beneficial.
@@ -86,10 +90,56 @@ Also (not clinically approved):
 - [Scientists find way to increase length of human telomeres](https://www.medicalnewstoday.com/articles/288515#New-method-increased-telomere-length-by-up-to-10)
 - [Discovery of potent telomerase activators: Unfolding new therapeutic and anti-aging perspectives](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6755196/)
 
+### Telomerase Gene Therapy
+- [Combining rejuvenation interventions in rodents: a milestone in biomedical gerontology whose time has come](https://www.tandfonline.com/doi/pdf/10.1080/14728222.2024.2330425)
+
 ### Risks
 - [Genes behind longer telomeres linked to raised risk of brain cancer](https://www.medicalnewstoday.com/articles/277964)
 
-## Vitamin D
+## Navitoclax
+- [Combining rejuvenation interventions in rodents: a milestone in biomedical gerontology whose time has come](https://www.tandfonline.com/doi/pdf/10.1080/14728222.2024.2330425)
+
+## Telomerase
+### Meditation
+- [Brief, daily meditation enhances attention, memory, mood, and emotional regulation in non-experienced meditators](https://www.sciencedirect.com/science/article/abs/pii/S016643281830322X?via%3Dihub)
+> benefits reported include ... increased telomerase activity
+
+### Telomerase Gene Therapy
+- [Combining rejuvenation interventions in rodents: a milestone in biomedical gerontology whose time has come](https://www.tandfonline.com/doi/pdf/10.1080/14728222.2024.2330425)
+
+## Heterochronic Hematopoietic Stem Cell Replacement
+- [Combining rejuvenation interventions in rodents: a milestone in biomedical gerontology whose time has come](https://www.tandfonline.com/doi/pdf/10.1080/14728222.2024.2330425)
+
+## NMN and NR
+- [Dr. David Sinclair: The Biology of Slowing & Reversing Aging](https://www.youtube.com/watch?v=n9IxomBusuw&t=3s)
+> take 1-2g NMN/day
+
+## Resveratrol
+- [Dr. David Sinclair: The Biology of Slowing & Reversing Aging](https://www.youtube.com/watch?v=n9IxomBusuw&t=3s)
+> 1000mg/day with food
+
+## Oleic acid
+- [Is fat a key to longevity?](https://www.nature.com/articles/nrm.2017.45)
+> giving oleic acid and other MUFAs as dietary supplements was sufficient to increase longevity even in physiological conditions.
+
+## Statins
+- [Is fat a key to longevity?](https://www.nature.com/articles/nrm.2017.45)
+> gets cholesterol down
+> helps with heart health
+> PSK-9 inhibitors as an alternative to statins - may help longevity
+
+## CRP
+- [Dr. David Sinclair: The Biology of Slowing & Reversing Aging](https://www.youtube.com/watch?v=n9IxomBusuw&t=3s)
+> it's levels go up with mortality
+To get it down:
+> eat less, eat more vegetables, anti-inflammatories
+> get your CRP measured by your doctor
+
+# Fisetin
+- [How does fisetin improve longevity?](https://longevity.technology/lifestyle/how-does-fisetin-improve-longevity)
+> Many research studies on longevity and antiaging have included fisetin as a potential substance from plants to prolong lifespan. Fisetin can potentially increase lifespan by 10 percent by reversing aging’s natural process and preventing diseases related to aging. 
+
+# Vitamin D
 ## Sleep
 ## Prevent Stress
 ## Other Methods
@@ -102,3 +152,4 @@ Also (not clinically approved):
 # Preventing Grey Matter Reduction
 - happens around the age of 50
 - meditation increases grey matter
+

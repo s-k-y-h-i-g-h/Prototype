@@ -4,7 +4,10 @@
 
 # Meditation
 
-[Meditation and Its Regulatory Role on Sleep - PMC (nih.gov)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3328970/)
+- [Meditation and Its Regulatory Role on Sleep - PMC (nih.gov)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3328970/)
+
+- [How Meditation Works & Science-Based Effective Meditations | Huberman Lab Podcast #96](https://www.youtube.com/watch?v=wTBSGgbIvsY)
+> meditating twice a day for 20 minutes might reduce the need for sleep (this is debated)
 
 # Sleep Deprivation - Counter-acting Cognitive Impairments
 

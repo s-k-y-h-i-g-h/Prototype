@@ -8,3 +8,6 @@
 > - Bempedoic acid
 > - Sirtuins
 > - Acarbose (caloric restriction mimetic)
+
+# Preventing Heart Attacks and Strokes
+- Low dose asprin

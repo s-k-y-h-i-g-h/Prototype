@@ -33,16 +33,15 @@
 | Boron                       | 10mg    | Breakfast | Oral | Mood, cognition          |
 | Ginko Biloba extract        | 12000mg | Breakfast | Oral | Schizophrenia            |
 | Sarcosine                   | 4g      | Breakfast | Oral | Schizophrenia            |
-| NAC                         | 2g      | Breakfast | Oral | Schizophrenia            |
+| NAC                         | 2g      | Breakfast | Oral | Longevity, schizophrenia            |
 | Taurine                     | 4g      | Breakfast | Oral | Longevity, schizophrenia |
 | Glycine                     | 4g      | Breakfast | Oral | Schizophrenia            |
 | L-Tyrosine                  | 4g      | Breakfast | Oral | Schizophrenia            |
-| Glycine                     | 4g      | Brunch    | Oral | Schizophrenia            |
-| L-Tyrosine                  | 4g      | Brunch    | Oral | Schizophrenia            |
+| Asprin                  | 75mg      | Breakfast | Oral | Heart attack/stroke prevention |
+| Rhodiola Rosea                  | 1g      | Breakfast | Oral | Stress resistance |
 | Glycine                     | 4g      | Lunch     | Oral | Schizophrenia            |
 | L-Tyrosine                  | 4g      | Lunch     | Oral | Schizophrenia            |
 | Lemon Balm                  | 2g       | Lunch | Oral | Anxiolytic               |
 | Spironolactone              | 200mg   | Lunch    | Oral | GID                      |
 | Estradiol Valerate          | 2mg     | Lunch    | Oral | GID                      |
-| Glycine                     | 4g      | Dinner    | Oral | Schizophrenia            |
-| L-Tyrosine                  | 4g      | Dinner    | Oral | Schizophrenia            |
+| Rhodiola Rosea                  | 1g      | Lunch | Oral | Stress resistance |

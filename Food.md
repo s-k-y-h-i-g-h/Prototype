@@ -14,24 +14,24 @@
 - [Tolerable upper intake levels for vitamins](https://www.ncbi.nlm.nih.gov/books/NBK56068/table/summarytables.t7/?report=objectonly)
 - [Tolerable upper intake levels for elements](https://www.ncbi.nlm.nih.gov/books/NBK545442/table/appJ_tab9/?report=objectonly)
 
-# How to Get the Nutrients You Need
-## Food
-### Foods Which Are Good For You
-#### Oranges
+# Food
+## Foods Which Are Good For You
+### Oranges
 - https://www.healthline.com/nutrition/orange-juice-benefits#TOC_TITLE_HDR_8
 
-#### Strawberries
+### Strawberries
 - https://www.webmd.com/diet/health-benefits-strawberry
 
-#### Pineapples
+### Pineapples
 - [Beneficial Properties of Bromelain](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8709142/)
 > anti-viral, anti-inflammatory, cardioprotective and anti-coagulatory
 
-#### Honey
+### Honey
 - https://www.webmd.com/diet/honey-health-benefits
 
-### Foods to Avoid
-- [Some Emulsifiers](Food/Emulsifiers.md)
+### Pickles
+- [Developing a Rational Approach to Supplementation for Health & Performance | Huberman Lab Podcast](https://www.youtube.com/watch?v=tLS6t3FVOTI)
+> get pickles from the refrigerated section because they can help improve your gut microbiota
 
-## Nutritional Supplements
-## Food vs Nutritional Supplements
+## Foods to Avoid
+- [Some Emulsifiers](Food/Emulsifiers.md)

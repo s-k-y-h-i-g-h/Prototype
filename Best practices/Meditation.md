@@ -20,5 +20,5 @@
 - [Frontiers | Atypical Anxiety-Related Amygdala Reactivity and Functional Connectivity in Sant Mat Meditation (frontiersin.org)](https://www.frontiersin.org/journals/behavioral-neuroscience/articles/10.3389/fnbeh.2018.00298/full)
 
 # Effects
-
-## Stress Reduction
+- [Brief, daily meditation enhances attention, memory, mood, and emotional regulation in non-experienced meditators](https://www.sciencedirect.com/science/article/abs/pii/S016643281830322X?via%3Dihub)
+> 8 but not 4 weeks of brief, daily meditation decreased negative mood state and enhanced attention, working memory, and recognition memory as well as decreased state anxiety scores on the TSST. Furthermore, we report that meditation-induced changes in emotional regulation are more strongly linked to improved affective state than improved cognition
