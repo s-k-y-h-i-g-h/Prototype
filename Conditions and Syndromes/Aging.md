@@ -18,6 +18,7 @@
 > - Stem cell exhaustion
 > - Telomere shortening
 > - Cellular senescence
+What specific mechanisms of action cause death?
 
 These are inter-dependent. Fixing one helps fix the others. (source?)
 
@@ -122,6 +123,10 @@ Also (not clinically approved):
 - [Is fat a key to longevity?](https://www.nature.com/articles/nrm.2017.45)
 > giving oleic acid and other MUFAs as dietary supplements was sufficient to increase longevity even in physiological conditions.
 
+## Carnosine
+- [https://pubmed.ncbi.nlm.nih.gov/27344459/](Carnosine and the processes of ageing)
+> Carnosine's possible anti-ageing mechanisms are therefore discussed; the evidence suggests that inhibition of the mechanistic target of rapamycin and carbonyl scavenging may be involved.
+
 ## Statins
 - [Is fat a key to longevity?](https://www.nature.com/articles/nrm.2017.45)
 > gets cholesterol down
@@ -138,6 +143,9 @@ To get it down:
 # Fisetin
 - [How does fisetin improve longevity?](https://longevity.technology/lifestyle/how-does-fisetin-improve-longevity)
 > Many research studies on longevity and antiaging have included fisetin as a potential substance from plants to prolong lifespan. Fisetin can potentially increase lifespan by 10 percent by reversing aging’s natural process and preventing diseases related to aging. 
+
+# Phytoene
+- [Food Compound May Extend Lifespan and Reduce Alzheimer’s Symptoms](https://neurosciencenews.com/phytoene-longevity-alzheimers-27695/)
 
 # Vitamin D
 ## Sleep

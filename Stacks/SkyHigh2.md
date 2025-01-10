@@ -35,10 +35,15 @@
 | Sarcosine                   | 4g      | Breakfast | Oral | Schizophrenia            |
 | NAC                         | 2g      | Breakfast | Oral | Longevity, schizophrenia            |
 | Taurine                     | 4g      | Breakfast | Oral | Longevity, schizophrenia |
+| Resveratrol                     | 1g      | Breakfast | Oral | Longevity |
+| NMN                     | 1g      | Breakfast | Oral | Longevity |
+| Black pepper extract                     | 100mg      | Breakfast | Oral | Nutrient absorption |
+| Avocado oil (oleic acid)                     | 1g      | Breakfast | Oral | Longevity |
 | Glycine                     | 4g      | Breakfast | Oral | Schizophrenia            |
 | L-Tyrosine                  | 4g      | Breakfast | Oral | Schizophrenia            |
 | Asprin                  | 75mg      | Breakfast | Oral | Heart attack/stroke prevention |
 | Rhodiola Rosea                  | 1g      | Breakfast | Oral | Stress resistance |
+| DMHA                  | 200mg      | Breakfast | Oral | Cognitive and mood enhancement |
 | Glycine                     | 4g      | Lunch     | Oral | Schizophrenia            |
 | L-Tyrosine                  | 4g      | Lunch     | Oral | Schizophrenia            |
 | Lemon Balm                  | 2g       | Lunch | Oral | Anxiolytic               |
