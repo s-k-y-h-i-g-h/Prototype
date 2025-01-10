@@ -29,8 +29,8 @@
 | Lemon Balm                  | 1g          | Breakfast | Oral | Anxiolytic                          |
 | Spironolactone              | 200mg       | Breakfast | Oral | GID                                 |
 | Estradiol Valerate          | 2mg         | Breakfast | Oral | GID                                 |
-| Fish oil                    | 2 pills     | Breakfast | Oral | RDA, longevity                      |
-| Boron                       | 10mg        | Breakfast | Oral | Mood, cognition                     |
+| Cod liver oil               | 2g          | Breakfast | Oral | RDA, longevity                      |
+| Boron                       | 10mg        | Breakfast | Oral | Cognitive and mood enhancement      |
 | Ginko Biloba extract        | 12000mg     | Breakfast | Oral | Schizophrenia                       |
 | Sarcosine                   | 4g          | Breakfast | Oral | Schizophrenia                       |
 | NAC                         | 2g          | Breakfast | Oral | Longevity, schizophrenia            |
@@ -44,6 +44,7 @@
 | Asprin                      | 75mg        | Breakfast | Oral | Heart attack/stroke prevention      |
 | Rhodiola Rosea              | 1g          | Breakfast | Oral | Stress resistance                   |
 | DMHA                        | 200mg       | Breakfast | Oral | Cognitive and mood enhancement      |
+| Caffeine (coffee)           | 60mg        | Breakfast | Oral | Cognitive and mood enhancement      |
 | Lemon Balm                  | 1g          | Lunch     | Oral | Anxiolytic                          |
 | Spironolactone              | 200mg       | Lunch     | Oral | GID                                 |
 | Estradiol Valerate          | 2mg         | Lunch     | Oral | GID                                 |
