@@ -49,5 +49,6 @@
 | Spironolactone              | 200mg       | Lunch     | Oral | GID                                 |
 | Estradiol Valerate          | 2mg         | Lunch     | Oral | GID                                 |
 | Rhodiola Rosea              | 1g          | Lunch     | Oral | Stress resistance                   |
+| Decaffinated coffee         | 1 tsp       | Lunch     | Oral | Various                             |
 | L-Tryptophan                | 8g          | Dinner    | Oral | Mood enhancement, stress resistance |
 | Olanzapine                  | 20mg - 40mg | As needed | Oral | Schizophrenia                       |
