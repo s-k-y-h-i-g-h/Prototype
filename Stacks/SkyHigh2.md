@@ -8,7 +8,7 @@
 - Mood enhancement
 - Cognitive enhancement
 - Memory enhancement
-- Achieve all RDAs
+- Get RDAs of essential nutrients
 
 # Modules
 
