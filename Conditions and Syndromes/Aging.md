@@ -18,7 +18,6 @@
 > - Stem cell exhaustion
 > - Telomere shortening
 > - Cellular senescence
-What specific mechanisms of action cause death?
 
 These are inter-dependent. Fixing one helps fix the others. (source?)
 
@@ -113,19 +112,19 @@ Also (not clinically approved):
 
 ## NMN and NR
 - [Dr. David Sinclair: The Biology of Slowing & Reversing Aging](https://www.youtube.com/watch?v=n9IxomBusuw&t=3s)
-> take 1-2g NMN/day
+> [take 1-2g NMN/day]
 
 ## Resveratrol
 - [Dr. David Sinclair: The Biology of Slowing & Reversing Aging](https://www.youtube.com/watch?v=n9IxomBusuw&t=3s)
-> 1000mg/day with food
+> [1000mg/day with food]
 
 ## Oleic acid
 - [Is fat a key to longevity?](https://www.nature.com/articles/nrm.2017.45)
 > giving oleic acid and other MUFAs as dietary supplements was sufficient to increase longevity even in physiological conditions.
 
-## Carnosine
+## L-Carnosine
 - [https://pubmed.ncbi.nlm.nih.gov/27344459/](Carnosine and the processes of ageing)
-> Carnosine's possible anti-ageing mechanisms are therefore discussed; the evidence suggests that inhibition of the mechanistic target of rapamycin and carbonyl scavenging may be involved.
+> [L-] Carnosine's possible anti-ageing mechanisms are therefore discussed; the evidence suggests that inhibition of the mechanistic target of rapamycin and carbonyl scavenging may be involved.
 
 ## Statins
 - [Is fat a key to longevity?](https://www.nature.com/articles/nrm.2017.45)
@@ -140,18 +139,23 @@ To get it down:
 > eat less, eat more vegetables, anti-inflammatories
 > get your CRP measured by your doctor
 
-# Fisetin
+## Fisetin
 - [How does fisetin improve longevity?](https://longevity.technology/lifestyle/how-does-fisetin-improve-longevity)
 > Many research studies on longevity and antiaging have included fisetin as a potential substance from plants to prolong lifespan. Fisetin can potentially increase lifespan by 10 percent by reversing aging’s natural process and preventing diseases related to aging. 
 
-# Phytoene
+## Phytoene
 - [Food Compound May Extend Lifespan and Reduce Alzheimer’s Symptoms](https://neurosciencenews.com/phytoene-longevity-alzheimers-27695/)
 
-# Vitamin D
+## Vitamin D
 ## Sleep
 ## Prevent Stress
-## Other Methods
-- Exercise
+## Exercise
+
+## Epigenetic Reprogramming
+
+## Desatanib
+- [Senolytic Treatment with Dasatinib and Quercetin Confirmed to Reduce the Burden of Senescent Cells in Human Patients](https://www.fightaging.org/archives/2019/09/senolytic-treatment-with-dasatinib-and-quercetin-confirmed-to-reduce-the-burden-of-senescent-cells-in-human-patients/)
+> the combination of dasatinib and quercetin is the oldest of the senolytic treatments used in animal studies. Senolytic therapies are those that selectively destroy senescent cells in old tissues in order to produce rejuvenation, turning back the progression of numerous age-related conditions.
 
 # Preventing Grey Hair
 - [The Psychology of Gray Hair](https://www.sciencedirect.com/science/article/pii/S1534580720301040)

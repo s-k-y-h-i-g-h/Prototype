@@ -11,3 +11,6 @@
 
 # Preventing Heart Attacks and Strokes
 - Low dose asprin
+
+# Arthritis Relief
+- Rosa rugosa

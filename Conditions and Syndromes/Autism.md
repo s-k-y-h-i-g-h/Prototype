@@ -15,3 +15,6 @@
 # Treatment
 - [https://pmc.ncbi.nlm.nih.gov/articles/PMC3964746/](Redox Regulation and the Autistic Spectrum: Role of Tryptophan Catabolites, Immuno-inflammation, Autoimmunity and the Amygdala)
 > many studies have shown efficacy of antioxidant and anti-inflammatory treatments, as well as treatment targeted to amygdala functioning, including hydrogen, oxytocin and NAD+, vitamin and mineral supplementation, naltrexone, DSMA metal detoxification, GSH and N-acetylcysteine. It should be noted that many of the pharmaceutical used to treat ASD are also powerful antioxidants and anti-inflammatories, including antidepressants
+
+## L-Carnosine
+- [https://pubmed.ncbi.nlm.nih.gov/33170378/](Effect of L-Carnosine as adjunctive therapy in the management of children with autism spectrum disorder: a randomized controlled study)

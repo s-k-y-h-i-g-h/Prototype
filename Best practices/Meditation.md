@@ -22,3 +22,6 @@
 # Effects
 - [Brief, daily meditation enhances attention, memory, mood, and emotional regulation in non-experienced meditators](https://www.sciencedirect.com/science/article/abs/pii/S016643281830322X?via%3Dihub)
 > 8 but not 4 weeks of brief, daily meditation decreased negative mood state and enhanced attention, working memory, and recognition memory as well as decreased state anxiety scores on the TSST. Furthermore, we report that meditation-induced changes in emotional regulation are more strongly linked to improved affective state than improved cognition
+
+# Risks
+- [Meditation can backfire, worsening mental health problems](https://www.msn.com/en-gb/health/other/meditation-can-backfire-worsening-mental-health-problems/ar-AA1p0Qjr?mosat=dark&is2ndWV=true&PC=EMMX101)
