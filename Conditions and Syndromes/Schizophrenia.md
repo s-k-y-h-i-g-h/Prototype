@@ -83,6 +83,20 @@
 
 ## Taurine
 
+## D-Serine
+
+## D-Alanine
+
+## Melatonin
+- [Therapeutic use of melatonin in schizophrenia: A systematic review](https://pubmed.ncbi.nlm.nih.gov/34513608/)
+> Adjunctive melatonin therapy has some positive outcomes for sleep, metabolic profile and tardive dyskinesia in patients with schizophrenia. No beneficial effect of melatonin was observed on outcomes of cognition or benzodiazepine discontinuation.
+- [Melatonin: an overlooked factor in schizophrenia and in the inhibition of anti-psychotic side effects](https://link.springer.com/article/10.1007/s11011-012-9307-9)
+> Melatonin levels and melatonin circadian rhythm are significantly decreased in schizophrenic patients. The adjunctive use of melatonin in schizophrenia may augment the efficacy of antipsychotics through its anti-inflammatory and antioxidative effects. Further, melatonin would be expected to improve sleep disorders in schizophrenia and side effects of anti-psychotics, such as tardive dyskinesia, metaboilic syndrome and hypertension. It is proposed that melatonin also impacts on the tryptophan catabolic pathway via its effect on stress response and cortisol secretion, thereby impacting on cortex associated cognition, amygdala associated affect and striatal motivational processing. The secretion of melatonin is decreased in schizophrenia, contributing to its etiology, pathophysiology and management. Melatonin is likely to have impacts on the metabolic side effects of anti-psychotics that contribute to subsequent decreases in life-expectancy.
+
+## Selegiline
+- [Selegiline in the treatment of negative symptoms of schizophrenia](https://www.cambridge.org/core/books/abs/progress-in-neurotherapeutics-and-neuropsychopharmacology/selegiline-in-the-treatment-of-negative-symptoms-of-schizophrenia/C719A20BB87FC348E20380D10906ECC5)
+> potential of selegiline to alleviate some of the parkinsonian-like emotional deficits of schizo-phrenics
+
 ## Other
 - [Will New Antipsychotics for Schizophrenia Be Game Changers?](https://www.psychologytoday.com/intl/blog/psych-unseen/202309/will-new-antipsychotics-for-schizophrenia-be-game-changers)
 - [Novel and Emerging Pharmacologic Treatments for Schizophrenia](https://neurotorium.org/novel-and-emerging-pharmacologic-treatments-for-schizophrenia/)
@@ -131,6 +145,8 @@
 - [text](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6235075/)
 > People with schizophrenia have a life expectancy 15 to 20 years shorter than the general population; most of these premature deaths are due to cardiovascular and chronic respiratory diseases  
 > Between 1993 and 2012 in Ontario, people with schizophrenia experienced 3 times greater mortality rates ... with circulatory disease accounting for most deaths  
+- [Melatonin: an overlooked factor in schizophrenia and in the inhibition of anti-psychotic side effects](https://link.springer.com/article/10.1007/s11011-012-9307-9)
+> Melatonin is likely to have impacts on the metabolic side effects of anti-psychotics that contribute to subsequent decreases in life-expectancy.
 
 ## Prevention of Diseases
 - Add medicines/supplements which lower the risk of cardiovascular, chronic respiratory and circulatory diseases here  
