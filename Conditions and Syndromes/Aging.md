@@ -114,6 +114,9 @@ Also (not clinically approved):
 - [Dr. David Sinclair: The Biology of Slowing & Reversing Aging](https://www.youtube.com/watch?v=n9IxomBusuw&t=3s)
 > [take 1-2g NMN/day]
 
+### Risks
+- [Metabolite accumulation from oral NMN supplementation drives aging-specific kidney inflammation](https://pubmed.ncbi.nlm.nih.gov/38645109/)
+
 ## Resveratrol
 - [Dr. David Sinclair: The Biology of Slowing & Reversing Aging](https://www.youtube.com/watch?v=n9IxomBusuw&t=3s)
 > [1000mg/day with food]
