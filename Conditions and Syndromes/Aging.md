@@ -82,11 +82,11 @@ These are inter-dependent. Fixing one helps fix the others. (source?)
 > - ACE inhibitors
 > - Angiotensin receptor blockers
 > - PDE5 inhibitors
-
-Also (not clinically approved):
-- Low doses of pan-mTOR
-- mdm-2 and MEK inhibitors
-- Lithium
+> [Also (not clinically approved):]
+> - Low doses of pan-mTOR
+> - mdm-2 and MEK inhibitors
+> - Lithium
+> - Next-generation rapalogs
 
 ## Rapamycin
 - [Rapamycin for longevity: opinion article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6814615/)
