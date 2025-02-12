@@ -24,3 +24,5 @@
 - [Meds](https://www.meds.com.mx/index.php)
 - [Inhouse Pharmacy](https://www.inhousepharmacy.vu/)
 - [Favskinhouse](https://favskinhouse.com/home.html)
+- [Chemiax](https://chemiax.com/)
+- [LIMITLESS CHEMS](https://limitlesschems.com/)

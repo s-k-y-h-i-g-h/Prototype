@@ -18,6 +18,9 @@
 
 # Energy
 
+# NZT
+> Clausenamide and methylphenylpiracetam and sip-r8-ha gets close tho
+
 # Stress Resistance
 ## Rhodiola Rosea
 - [Rhodiola Rosea](https://examine.com/supplements/rhodiola-rosea/?show_conditions=true)

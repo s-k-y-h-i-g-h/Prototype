@@ -24,7 +24,7 @@ These are inter-dependent. Fixing one helps fix the others. (source?)
 - [Israeli study links blood sugar levels, brain aging process](https://www.ynetnews.com/health_science/article/sygjvxrzje)
 
 # Increasing Longevity
-## List A
+- [Climbing the longevity pyramid: overview of evidence-driven healthcare prevention strategies for human longevity](https://www.frontiersin.org/journals/aging/articles/10.3389/fragi.2024.1495029/full?form=MG0AV3)
 - [Molecular mechanisms of aging and anti-aging strategies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11118732)
 > - Rapamycin
 > - Sirolimus
@@ -48,22 +48,45 @@ These are inter-dependent. Fixing one helps fix the others. (source?)
 > - Glucosamine
 > - Glycine
 > - 17α-oestradiol
-> - Quercetin, Piperlongumine and analogs, Fisetin, Curcumin, Procyanidin C1, Gingerenone A
+> - Quercetin
+> - Piperlongumine and analogs
+> - Fisetin
+> - Curcumin
+> - Procyanidin C1
+> - Gingerenone A
 > - Dasatinib, Nintedanib, R406
 > - ABT-263
-> - 17-DMAG and other HSP90 inhibitors, 25-hydroxycholesterol
-> - ARV825, I-BET151, I-BET762, JQ1, OTX015, PFI-1JQ1
-> - RG-7112, USP7 inhibitors P5091 and P22077
-> - Bufalin, cinobufagin, convallatoxin, digoxin, ouabain, peruvocide, proscillaridin A
+> - 17-DMAG and other HSP90 inhibitors
+> - 25-hydroxycholesterol
+> - ARV825
+> - I-BET151
+> - I-BET762
+> - JQ1
+> - OTX015
+> - PFI-1JQ1
+> - RG-7112
+> - USP7 inhibitors P5091 and P22077
+> - Bufalin
+> - Cinobufagin
+> - Convallatoxin
+> - Digoxin
+> - Ouabain
+> - Peruvocide
+> - Proscillaridin A
 > - Fenofibrate
-> - Azithromycin, roxithromycin
-
-## List B
+> - Azithromycin
+> - Roxithromycin
 - [Rapamycin for longevity: opinion article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6814615/)
-> metformin, aspirin, ACE inhibitors, angiotensin receptor blockers and PDE5 inhibitors
+> - Metformin
+> - Aspirin
+> - ACE inhibitors
+> - Angiotensin receptor blockers
+> - PDE5 inhibitors
+
 Also (not clinically approved):
-> low doses of pan-mTOR, mdm-2 and MEK inhibitors, lithium
-- Everolimus
+- Low doses of pan-mTOR
+- mdm-2 and MEK inhibitors
+- Lithium
 
 ## Rapamycin
 - [Rapamycin for longevity: opinion article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6814615/)
