@@ -26,3 +26,5 @@
 - [Favskinhouse](https://favskinhouse.com/home.html)
 - [Chemiax](https://chemiax.com/)
 - [LIMITLESS CHEMS](https://limitlesschems.com/)
+- [Nootropics Base](https://nootropicsbase.com/)
+- [Chemiax](https://chemiax.com/)

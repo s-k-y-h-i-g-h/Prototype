@@ -176,6 +176,11 @@ To get it down:
 - [Melatonin as an Anti-Aging Therapy for Age-Related Cardiovascular and Neurodegenerative Diseases](https://pmc.ncbi.nlm.nih.gov/articles/PMC9204094/)
 >  exogenous melatonin has been proposed as a multitasking molecule capable of retarding several processes related to aging such as circadian rhythm dysregulation, metabolic alterations, inflammation, oxidative stress, and mitochondrial dysfunction. The anti-inflammatory and anti-oxidative effects of melatonin, especially at the mitochondrial level, may exert protective actions against inflammaging processes. Thus, exogenously administered melatonin may prevent and mitigate multiple cardiovascular diseases, as well as neurodegenerative pathologies such as Parkinson’s and Alzheimer’s diseases, whose development and advance are preceded and influenced by inflammaging events
 
+## Polyamines (Spermidine, Spermine, Putrescine)
+- [Polyamines in aging and disease](https://www.aging-us.com/article/100361/text?form=MG0AV3)
+> Changes in polyamine levels have been associated with aging and diseases. Their levels decline continuously with age and polyamine (spermidine or high-polyamine diet) supplementation increases life span in model organisms.
+- [The Molecular Role of Polyamines in Age-Related Diseases: An Update](https://www.mdpi.com/1422-0067/24/22/16469?form=MG0AV3)
+
 ## Time-Restricted Feeding
 ## Vitamin D
 ## Sleep

@@ -120,6 +120,12 @@
 > our results demonstrated the promising potential of mindfulness meditation on the management of severe chronic schizophrenia patients
 - [Mindfulness in schizophrenia: Associations with self-reported motivation, emotion regulation, dysfunctional attitudes, and negative symptoms](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4591204/)
 
+# Treatments Under Investigation
+## Polyamines and Spermidine
+- [ Implication of the polyamine system in mental disorders](https://www.jpn.ca/content/jpn/33/2/102.full.pdf?form=MG0AV3)
+> changes in the levels of the individual polyamines, have been observed in multiple conditions, including schizophrenia
+>  The polyamines are ubiquitous aliphatic molecules comprising ... spermidine 
+
 # Risk Factors
 ## Caffeine
 - [Caffeine-Induced Psychosis](https://www.cambridge.org/core/journals/cns-spectrums/article/abs/caffeineinduced-psychosis/2256285A0D03C906380242E1ECCE187B)
