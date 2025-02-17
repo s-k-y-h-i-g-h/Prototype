@@ -181,11 +181,19 @@ To get it down:
 > Changes in polyamine levels have been associated with aging and diseases. Their levels decline continuously with age and polyamine (spermidine or high-polyamine diet) supplementation increases life span in model organisms.
 - [The Molecular Role of Polyamines in Age-Related Diseases: An Update](https://www.mdpi.com/1422-0067/24/22/16469?form=MG0AV3)
 
+## Coffee
+- [Coffee drinking is associated with increased longevity](https://www.escardio.org/The-ESC/Press-Office/Press-releases/Coffee-drinking-is-associated-with-increased-longevity?form=MG0AV3)
+>  All types of coffee were linked with a reduction in death from any cause. The greatest risk reduction seen with two to three cups per day, which compared to no coffee drinking was associated with a 14%, 27% and 11% lower likelihood of death for decaffeinated, ground, and instant preparations, respectively.
+
 ## Time-Restricted Feeding
 ## Vitamin D
 ## Sleep
 ## Prevent Stress
 ## Exercise
+## Strong Social Relationships
+- [Social Relationships and Mortality Risk: A Meta-analytic Review](https://journals.plos.org/plosmedicine/article?id=10.1371%2Fjournal.pmed.1000316&form=MG0AV3)
+- [Social connection and mortality in UK Biobank: a prospective cohort analysis](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-023-03055-7?form=MG0AV3)
+> This work suggests (1) a potential threshold effect for friends/family visits, (2) that those who live alone with additional concurrent markers of structural isolation may represent a high-risk population, (3) that beneficial associations for some types of social connection might not be felt when other types of social connection are absent
 
 ## Epigenetic Reprogramming
 
