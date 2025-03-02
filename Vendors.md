@@ -29,3 +29,4 @@
 - [Nootropics Base](https://nootropicsbase.com/)
 - [Chemiax](https://chemiax.com/)
 - [Alibaba](https://www.alibaba.com/)
+- [Innovare Biotech](https://innovare.bio/)

@@ -11,8 +11,9 @@ A [transhumanist](https://en.wikipedia.org/wiki/Transhumanism) approach to life.
 # The Goods
 - [Food](Food.md)
 - [Health supplements](Health%20Supplements.md)
-- [Cognitive Enhancement](Cognitive%20Enhancement.md)
+- [Cognitive enhancement](Cognitive%20Enhancement.md)
 - [Longevity](Conditions%20and%20Syndromes/Aging.md)
+- [Preventing common illnesses](Conditions%20and%20Syndromes/Preventing%20Common%20Illnesses.md)
 
 ## Best Practices
 - [Avoid pornography](Best%20Practices/Avoid%20Pornography.md)
@@ -25,7 +26,6 @@ A [transhumanist](https://en.wikipedia.org/wiki/Transhumanism) approach to life.
 - [Learning](Best%20Practices/Learning.md)
 - [Managing information](Best%20Practices/Managing%20Information.md)
 - [Meditation](Best%20Practices/Meditation.md)
-- [Mould prevention](Best%20Practices/Mould%20Prevention.md)
 - [Posture](Best%20Practices/Posture.md)
 - [Self esteem](Best%20Practices/Self%20Esteem.md)
 - [Skin Care](Best%20Practices/Skin%20Care.md)
