@@ -30,5 +30,4 @@
 - [Chemiax](https://chemiax.com/)
 - [LIMITLESS CHEMS](https://limitlesschems.com/)
 - [Nootropics Base](https://nootropicsbase.com/)
-- [Alibaba](https://www.alibaba.com/)
 - [Innovare Biotech](https://innovare.bio/)
