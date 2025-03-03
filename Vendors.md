@@ -1,3 +1,8 @@
+<script>
+  console.log('This is a JavaScript code embedded in Markdown');
+  alert('Hello, world!');
+</script>
+
 # Vendor Search Engine
 - [Search the vendors below](https://cse.google.com/cse?cx=f4760fba4073243bd)
 
