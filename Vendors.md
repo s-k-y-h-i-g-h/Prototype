@@ -1,6 +1,5 @@
 # Vendor Search Engine
 - [Search the vendors below](https://cse.google.com/cse?cx=f4760fba4073243bd)
-a
 
 # Vendors
 - [Umbrella Labs](https://umbrellalabs.is/)
