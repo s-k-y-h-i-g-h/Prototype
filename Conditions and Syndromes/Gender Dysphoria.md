@@ -1,0 +1,1 @@
+- [Transgender and gender-diverse individuals are more likely to be autistic and report higher autistic traits](https://www.cam.ac.uk/research/news/transgender-and-gender-diverse-individuals-are-more-likely-to-be-autistic-and-report-higher-autistic?form=MG0AV3)

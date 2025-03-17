@@ -6,6 +6,7 @@
 - [10 Reasons Why Gaming is Good for You](https://www.gamedesigning.org/why-video-games-are-good/)
 - [Can video games make us healthier?](https://www.who.int/europe/news/item/08-12-2021-can-video-games-make-us-healthier)
 - [Yes, Video Games are Good...for Your Mind and Body](https://www.idtech.com/blog/video-games-are-good-for-you)
+- [Open-world games reduce stress and improve psychological well-being](https://www.msn.com/en-gb/health/other/open-world-games-reduce-stress-and-improve-psychological-well-being/ar-AA1A0ylG)
 
 # The Bad
 

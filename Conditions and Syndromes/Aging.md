@@ -1,3 +1,5 @@
+
+
 # Immortal Species
 
 # Lifespan
@@ -19,9 +21,16 @@
 > - Telomere shortening
 > - Cellular senescence
 
+(Add sources which have longer lists of mechanisms)
+
 These are inter-dependent. Fixing one helps fix the others. (source?)
 
 - [Israeli study links blood sugar levels, brain aging process](https://www.ynetnews.com/health_science/article/sygjvxrzje)
+
+# Longevity Treatments
+| Name | Dose Range | Mechanisms | Restores declining levels? | Notes |
+| ---- | ---------- | ---------- | --------------------------- | ---- |
+
 
 # Increasing Longevity
 - [Climbing the longevity pyramid: overview of evidence-driven healthcare prevention strategies for human longevity](https://www.frontiersin.org/journals/aging/articles/10.3389/fragi.2024.1495029/full?form=MG0AV3)
