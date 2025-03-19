@@ -4,3 +4,4 @@
 
 # Best Practices
 - [Here’s Why You Should Be Using an Electric Toothbrush](https://health.clevelandclinic.org/should-i-be-using-an-electric-toothbrush)
+- Flossing

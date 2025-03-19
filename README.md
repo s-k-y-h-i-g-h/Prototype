@@ -12,11 +12,10 @@ A [transhumanist](https://en.wikipedia.org/wiki/Transhumanism) approach to life.
 - **Essential nutrients**: Nutrients your body needs and cannot produce on its own.
 - **Nootropics**: 
 
-## Method
+# Method
 - [Develop your stack](Best%20Practices/Develop%20Your%20Stack.md)
 
-
-### Apply Best Practices
+## Apply Best Practices
 - [Improve your diet](Food.md)
 - [Avoid pornography](Best%20Practices/Avoid%20Pornography.md)
 - [Bacteria prevention](Best%20Practices/Bacteria%20Prevention.md)
@@ -34,18 +33,6 @@ A [transhumanist](https://en.wikipedia.org/wiki/Transhumanism) approach to life.
 - [Sleep](Best%20Practices/Sleep.md)
 - [Test your results](Best%20Practices/Test%20Your%20Results.md)
 - [Video games](Best%20Practices/Video%20Games.md)
-
-# Notes About Various Syndromes and Conditions
-- [Addiction](Conditions%20and%20Syndromes/Addiction.md)
-- [Aging](Conditions%20and%20Syndromes/Aging.md)
-- [Autism](Conditions%20and%20Syndromes/Autism.md)
-- [Common illnesses](Conditions%20and%20Syndromes/Common%20Illnesses.md)
-- [Diabetes](Conditions%20and%20Syndromes/Diabetes.md)
-- [Drug neurotoxicity](Conditions%20and%20Syndromes/Drug%20Neurotoxicity.md)
-- [Herpes Simplex](Conditions%20and%20Syndromes/Herpes%20Simplex.md)
-- [Malnutrition](Conditions%20and%20Syndromes/Malnutrition.md)
-- [Schizophrenia](Conditions%20and%20Syndromes/Schizophrenia.md)
-- [Stress](Conditions%20and%20Syndromes/Stress.md)
 
 # My Stacks
 - [Version 1](Stacks/v1.md)

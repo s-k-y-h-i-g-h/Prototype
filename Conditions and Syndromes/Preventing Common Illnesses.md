@@ -1,4 +1,0 @@
-
-
-# Arthritis Relief
-- Rosa rugosa

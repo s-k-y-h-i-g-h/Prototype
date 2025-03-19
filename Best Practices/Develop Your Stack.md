@@ -22,6 +22,12 @@ Keep track of what you eat and assess the quantity of essential nutrients in you
 ### Omega-3 and Omega-6
 These need to be consumed in the right ratio. The ideal omega-6 to omega-3 ratio is around 4:1 or lower.
 
+### L-Tryptophan
+Competes with other amino acids when crossing the BBB. Take this on an empty stomach or before eating things which contain protein.
+
+### L-Tyrosine
+Competes with other amino acids when crossing the BBB. Take this on an empty stomach or before eating things which contain protein.
+
 ## Prevent Health From Declining
 ### Non-Essential Supplements
 - Anti-inflmmatories
@@ -40,7 +46,19 @@ These need to be consumed in the right ratio. The ideal omega-6 to omega-3 ratio
 - IGF-1
 - Glycine
 
-## Protect Yourself From Common Illnesses
+## Protect Yourself From Common Illnesses and Problems
+- [Addiction](Conditions%20and%20Syndromes/Addiction.md)
+- [Aging](Conditions%20and%20Syndromes/Aging.md)
+- [Anxiety](Conditions%20and%20Syndromes/Anxiety.md)
+- [Autism](Conditions%20and%20Syndromes/Autism.md)
+- [Common illnesses](Conditions%20and%20Syndromes/Common%20Illnesses.md)
+- [Depression](Conditions%20and%20Syndromes/Depression.md)
+- [Diabetes](Conditions%20and%20Syndromes/Diabetes.md)
+- [Drug neurotoxicity](Conditions%20and%20Syndromes/Drug%20Neurotoxicity.md)
+- [Herpes Simplex](Conditions%20and%20Syndromes/Herpes%20Simplex.md)
+- [Schizophrenia](Conditions%20and%20Syndromes/Schizophrenia.md)
+- [Stress](Conditions%20and%20Syndromes/Stress.md)
+
 ### Prevention Via Disease Pathways
 - [Dr. Peter Attia: Supplements for Longevity & Their Efficacy](https://www.youtube.com/watch?v=79p1X_7rAMo)
 > [Prevent the onset of diseases with]
@@ -65,5 +83,5 @@ Aburto NJ, Hanson S, Gutierrez H, et al. Effect of increased potassium intake on
 > Another meta-analysis found an inverse relationship between potassium intake and the risk of stroke. The higher potassium intake was associated with a reduced risk of stroke.16 Approximately 3,500 milligrams (mg) of potassium per day were needed to see the reduced risk.
 
 # Enhance Your Body and Brain Beyond Their Natural Capabilities
-- [Cognitive enhancement](Cognitive%20Enhancement.md)
-- [Increase your longevity](Conditions%20and%20Syndromes/Aging.md)
+- [Cognitive enhancement](../Cognitive%20Enhancement.md)
+- [Ageing prevention](../Conditions%20and%20Syndromes/Aging.md)
