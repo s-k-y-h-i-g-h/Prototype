@@ -2,20 +2,21 @@
 
 A [transhumanist](https://en.wikipedia.org/wiki/Transhumanism) approach to life.
 
-> **trans·hu·man·ism**  
-> *[tranzˈ(h)yo͞oməˌnizəm, tran(t)sˈ(h)yo͞oməˌnizəm]*  
-> *noun*  
-> *transhumanism (noun)*  
-> the belief or theory that the human race can evolve beyond its current physical and mental limitations, especially by means of science and technology.  
+## Glossary
+- **Trans·hu·man·ism**  
+    > *[tranzˈ(h)yo͞oməˌnizəm, tran(t)sˈ(h)yo͞oməˌnizəm]*  
+    > *noun*  
+    > *transhumanism (noun)*  
+    > the belief or theory that the human race can evolve beyond its current physical and mental limitations, especially by means of science and technology.  
+- **Stack**: A combination of substances which provide various benefits which are taken together. Most substances are consumed daily. Some substances are consumed several times a day.
+- **Essential nutrients**: Nutrients your body needs and cannot produce on its own.
+- **Nootropics**: 
 
-# The Goods
-- [Food](Food.md)
-- [Health supplements](Health%20Supplements.md)
-- [Cognitive enhancement](Cognitive%20Enhancement.md)
-- [Longevity](Conditions%20and%20Syndromes/Aging.md)
-- [Preventing common illnesses](Conditions%20and%20Syndromes/Preventing%20Common%20Illnesses.md)
+## Method
+- [Develop your stack](Best%20Practices/Develop%20Your%20Stack.md)
 
-## Best Practices
+### Apply Best Practices
+- [Improve your diet](Food.md)
 - [Avoid pornography](Best%20Practices/Avoid%20Pornography.md)
 - [Bacteria prevention](Best%20Practices/Bacteria%20Prevention.md)
 - [Breathing techniques](Best%20Practices/Breathing%20Techniques.md)
@@ -28,12 +29,12 @@ A [transhumanist](https://en.wikipedia.org/wiki/Transhumanism) approach to life.
 - [Meditation](Best%20Practices/Meditation.md)
 - [Posture](Best%20Practices/Posture.md)
 - [Self esteem](Best%20Practices/Self%20Esteem.md)
-- [Skin Care](Best%20Practices/Skin%20Care.md)
+- [Skin care](Best%20Practices/Skin%20Care.md)
 - [Sleep](Best%20Practices/Sleep.md)
-- [Testing Your Results](Best%20Practices/Testing%20Your%20Results.md)
+- [Test your results](Best%20Practices/Test%20Your%20Results.md)
 - [Video games](Best%20Practices/Video%20Games.md)
 
-# Syndromes and Conditions
+# Notes About Various Syndromes and Conditions
 - [Addiction](Conditions%20and%20Syndromes/Addiction.md)
 - [Aging](Conditions%20and%20Syndromes/Aging.md)
 - [Autism](Conditions%20and%20Syndromes/Autism.md)
@@ -45,10 +46,11 @@ A [transhumanist](https://en.wikipedia.org/wiki/Transhumanism) approach to life.
 - [Schizophrenia](Conditions%20and%20Syndromes/Schizophrenia.md)
 - [Stress](Conditions%20and%20Syndromes/Stress.md)
 
-# Stacks
+# My Stacks
 - [Version 1](Stacks/v1.md)
 - [Version 2](Stacks/v2.md)
 - [Version 3](Stacks/v3.md)
+- [Version 4](Stacks/v4.md)
 
 # Resources
 - [Books](Books.md)
