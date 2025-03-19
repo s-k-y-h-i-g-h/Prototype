@@ -15,6 +15,7 @@ A [transhumanist](https://en.wikipedia.org/wiki/Transhumanism) approach to life.
 ## Method
 - [Develop your stack](Best%20Practices/Develop%20Your%20Stack.md)
 
+
 ### Apply Best Practices
 - [Improve your diet](Food.md)
 - [Avoid pornography](Best%20Practices/Avoid%20Pornography.md)
