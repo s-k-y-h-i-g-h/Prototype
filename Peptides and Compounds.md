@@ -1,0 +1,18 @@
+Peptide and Compound Descriptions 
+
+- **D21 Peptide**: Disrupts the D1-D2 heteromer, increasing dopamine sensitivity. Reported to have antidepressant effects and enhance the effectiveness of stimulant medications. 
+- **DNSP-5**: A peptide derived from GDNF (Glial Cell Line-Derived Neurotrophic Factor), designed to support dopaminergic neuron health. Enhances dopamine function and protects dopamine neurons. 
+- **DNSP-11**: A peptide derived from GDNF, designed to support dopaminergic neuron health. Enhances dopamine function, protects dopamine neurons, and has been reported to produce euphoric effects. 
+- **HER-096**: Derived from Cerebral Dopamine Neurotrophic Factor (CDNF), it protects and repairs dopamine neurons. Currently in clinical trials for Parkinson’s disease. Users report a sense of well-being and improved focus. 
+- **Indolepropiamide**: A mitochondrial antioxidant that has shown robust lifespan extension in rotifers. Increases energy levels similarly to NMN and has potential anti-aging effects. 
+- **KL1333**: A NAD+ booster and redox modulator that enhances mitochondrial function and ATP production. Supports energy metabolism, anti-aging, and cellular repair. May improve fatigue resistance and muscle function. 
+- **SRT2104**: A SIRT1 activator with anti-aging properties. 
+- **Pemoline**: A highly functional stimulant with no burnout or crash. Enhances motivation and mood with a smooth effect profile. 
+- **Thozalinone**: A close analog of Pemoline, producing similar effects. Some users report better mood effects compared to Pemoline. 
+- **Betahistine**: An H3 antagonist with a short half-life, known to increase wakefulness and enhance dopamine and norepinephrine levels. H3 antagonists are being studied for ADHD treatment. 
+- **Muscimol HCl**: A GABA-A agonist derived from Amanita muscaria. Promotes sleep and relaxation, and at higher doses, induces a “drunk-like” sensation. 
+- **2-BFI**: A selective I₂ imidazoline receptor agonist with potential applications in neuroprotection, analgesia, and cognitive enhancement. It has been studied for its role in modulating monoaminergic systems and may have interactions with dopamine, serotonin, and norepinephrine pathways. Additionally, it has potential MAO-A inhibiting properties, which could contribute to its effects on neurotransmitter regulation.
+- **Cyclo(Gly-Leu)**: A C-terminal dipeptide of oxytocin that plays a role in memory processes. Can inhibit opioid tolerance development and modulate dopamine, with reported D2 receptor upregulation. Provides a clear-headed antidepressant effect. 
+- **AAZ-A-154**: A novel isotryptamine derivative that acts as a 5-HT2A receptor agonist. Produces antidepressant effects without psychedelic action. Due to its rapid and enduring neuroplasticity effects, AAZ-A-154 belongs to the class of non-hallucinogenic psychoplastogens.
+- **2-BFI**: A selective I₂ imidazoline receptor agonist with potential applications in neuroprotection, analgesia, and cognitive enhancement. It has been studied for its role in modulating monoaminergic systems and may have interactions with dopamine, serotonin, and norepinephrine pathways. Additionally, it has potential MAO-A inhibiting properties, which could contribute to its effects on neurotransmitter regulation. 
+- **Reduced NMN (Nicotinamide Mononucleotide-H2)**: is a more potent version of NMN, designed for enhanced stability, bioavailability, and NAD⁺ boosting efficiency. As a precursor to NAD⁺ (Nicotinamide Adenine Dinucleotide), it supports cellular energy, DNA repair, and longevity pathways. The reduced form may provide superior absorption and mitochondrial support, making it a promising compound for anti-aging, cognitive enhancement, and metabolic health research.

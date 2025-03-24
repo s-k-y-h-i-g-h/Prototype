@@ -84,4 +84,5 @@ Aburto NJ, Hanson S, Gutierrez H, et al. Effect of increased potassium intake on
 
 # Enhance Your Body and Brain Beyond Their Natural Capabilities
 - [Cognitive enhancement](../Cognitive%20Enhancement.md)
+- [Peptides](../Substances/Peptides.md)
 - [Ageing prevention](../Conditions%20and%20Syndromes/Aging.md)

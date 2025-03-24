@@ -203,10 +203,14 @@ To get it down:
 > This work suggests (1) a potential threshold effect for friends/family visits, (2) that those who live alone with additional concurrent markers of structural isolation may represent a high-risk population, (3) that beneficial associations for some types of social connection might not be felt when other types of social connection are absent
 
 ## Epigenetic Reprogramming
+- [Epigenetic reprogramming as a key to reverse ageing and increase longevity](https://www.sciencedirect.com/science/article/pii/S1568163724000229)
 
 ## Desatanib
 - [Senolytic Treatment with Dasatinib and Quercetin Confirmed to Reduce the Burden of Senescent Cells in Human Patients](https://www.fightaging.org/archives/2019/09/senolytic-treatment-with-dasatinib-and-quercetin-confirmed-to-reduce-the-burden-of-senescent-cells-in-human-patients/)
 > the combination of dasatinib and quercetin is the oldest of the senolytic treatments used in animal studies. Senolytic therapies are those that selectively destroy senescent cells in old tissues in order to produce rejuvenation, turning back the progression of numerous age-related conditions.
+
+# Muscle Loss Research
+- [Scientists pinpoint metabolic failure as the cause of muscle loss in aging](https://www.news-medical.net/news/20250217/Scientists-pinpoint-metabolic-failure-as-the-cause-of-muscle-loss-in-aging.aspx)
 
 # Preventing Grey Hair
 - [The Psychology of Gray Hair](https://www.sciencedirect.com/science/article/pii/S1534580720301040)
