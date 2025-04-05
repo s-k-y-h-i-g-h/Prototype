@@ -209,6 +209,18 @@ To get it down:
 - [Senolytic Treatment with Dasatinib and Quercetin Confirmed to Reduce the Burden of Senescent Cells in Human Patients](https://www.fightaging.org/archives/2019/09/senolytic-treatment-with-dasatinib-and-quercetin-confirmed-to-reduce-the-burden-of-senescent-cells-in-human-patients/)
 > the combination of dasatinib and quercetin is the oldest of the senolytic treatments used in animal studies. Senolytic therapies are those that selectively destroy senescent cells in old tissues in order to produce rejuvenation, turning back the progression of numerous age-related conditions.
 
+## Avoid Sugar
+- [A New Study Shows That Sugar Consumption May Be Related To Faster Aging](https://www.forbes.com/sites/saibala/2024/07/31/a-new-study-shows-that-sugar-consumption-may-be-related-to-faster-aging/)
+
+## Avoid Hot Environments
+- [Ambient outdoor heat and accelerated epigenetic aging among older adults in the US](https://www.science.org/doi/10.1126/sciadv.adr0616)
+
+## Avoid Losing Loved Ones
+- [Losing a loved one makes you age faster, study suggests](https://www.msn.com/en-gb/health/other/losing-a-loved-one-makes-you-age-faster-study-suggests/ar-BB1qPtli)
+
+## Improve Verbal Fluency
+- [Scientists identify specific cognitive skill linked to longer life in older adults](https://www.msn.com/en-gb/health/mindandbody/scientists-identify-specific-cognitive-skill-linked-to-longer-life-in-older-adults/ar-AA1BMb3x)
+
 # Muscle Loss Research
 - [Scientists pinpoint metabolic failure as the cause of muscle loss in aging](https://www.news-medical.net/news/20250217/Scientists-pinpoint-metabolic-failure-as-the-cause-of-muscle-loss-in-aging.aspx)
 

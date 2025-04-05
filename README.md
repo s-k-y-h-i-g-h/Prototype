@@ -17,8 +17,8 @@ A [transhumanist](https://en.wikipedia.org/wiki/Transhumanism) approach to life.
 
 ## Apply Best Practices
 - [Improve your diet](Food.md)
-- [Avoid pornography](Best%20Practices/Avoid%20Pornography.md)
-- [Bacteria prevention](Best%20Practices/Bacteria%20Prevention.md)
+- [Pornography](Best%20Practices/Avoid%20Pornography.md)
+- [Bacteria](Best%20Practices/Bacteria%20Prevention.md)
 - [Breathing techniques](Best%20Practices/Breathing%20Techniques.md)
 - [Dental care](Best%20Practices/Dental%20Care.md)
 - [Exercise](Best%20Practices/Exercise.md)
@@ -27,6 +27,7 @@ A [transhumanist](https://en.wikipedia.org/wiki/Transhumanism) approach to life.
 - [Learning](Best%20Practices/Learning.md)
 - [Managing information](Best%20Practices/Managing%20Information.md)
 - [Meditation](Best%20Practices/Meditation.md)
+- [Microplastics](Best%20Practices/Microplastics.md)
 - [Posture](Best%20Practices/Posture.md)
 - [Self esteem](Best%20Practices/Self%20Esteem.md)
 - [Skin care](Best%20Practices/Skin%20Care.md)
@@ -41,7 +42,14 @@ A [transhumanist](https://en.wikipedia.org/wiki/Transhumanism) approach to life.
 - [Version 4](Stacks/v4.md)
 
 # Resources
-- [Books](Books.md)
+# Books
+- [Medical Improvement of the Cognitive Brain Function by Arushanian](https://cosmicnootropic.com/wp-content/uploads/2022/10/Books-about-Nootropics.-Arushanian.Chapters-1-2-with-the-cover.pdf)
+- [Biohacking Bible - A Neuropharmacology Encyclopedia](https://ryderlefeg.gumroad.com/l/biohackingbible)
+
+# Videos
+- [The Grand Model Of Psychological Evolution - Clare Graves & Spiral Dynamics](https://www.youtube.com/watch?v=23aDNBvn_2g&list=PLJvI_NKL7pNIkcS3bG5b_QFzBkzUM_OU8)
+
+# Websites
 - [Lifespan.io](https://www.lifespan.io/)
 - [Bryan Johnson](https://en.wikipedia.org/wiki/Bryan_Johnson#Project_Blueprint)
 - [Bryan Johnson's Blueprint Protocol](https://protocol.bryanjohnson.com)
