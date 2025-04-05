@@ -47,7 +47,6 @@ A [transhumanist](https://en.wikipedia.org/wiki/Transhumanism) approach to life.
 - [Biohacking Bible - A Neuropharmacology Encyclopedia](https://ryderlefeg.gumroad.com/l/biohackingbible)
 
 # Videos
-- [The Grand Model Of Psychological Evolution - Clare Graves & Spiral Dynamics](https://www.youtube.com/watch?v=23aDNBvn_2g&list=PLJvI_NKL7pNIkcS3bG5b_QFzBkzUM_OU8)
 
 # Websites
 - [Lifespan.io](https://www.lifespan.io/)
