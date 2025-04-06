@@ -11,6 +11,7 @@ A [transhumanist](https://en.wikipedia.org/wiki/Transhumanism) approach to life.
 - **Stack**: A combination of substances which provide various benefits which are taken together. Most substances are consumed daily. Some substances are consumed several times a day.
 - **Essential nutrients**: Nutrients your body needs and cannot produce on its own.
 - **Nootropics**: 
+- **Green Pill/Green Pilled**: A process which dramatically transforms who a person is and what they are capable of. This is like *red pill/red pilled* but more practical and very much unlike *black pill/black pilled* which I won't even explain here because it is so horrible.
 
 # Method
 - [Develop your stack](Best%20Practices/Develop%20Your%20Stack.md)
