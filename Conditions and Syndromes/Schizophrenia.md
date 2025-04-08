@@ -127,6 +127,9 @@
 >  The polyamines are ubiquitous aliphatic molecules comprising ... spermidine 
 
 # Risk Factors
+## Being LGBT (Particularly Trans or Gender Non-Conforming)
+- [Exploring the Dual Challenges Facing LGBTQ+ Individuals with Schizophrenia](https://www.asteroidhealth.com/blog/schizophrenia-in-the-lgbtq-community)
+
 ## Caffeine
 - [Caffeine-Induced Psychosis](https://www.cambridge.org/core/journals/cns-spectrums/article/abs/caffeineinduced-psychosis/2256285A0D03C906380242E1ECCE187B)
 > caffeine affects dopamine transmission and has been reported to worsen psychosis in people with schizophrenia

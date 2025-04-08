@@ -1,4 +1,11 @@
 # Testing on Yourself
+
+## Vitals
+### HR
+### BP
+### Temperature
+### Blood Glucose
+
 ## Logging Your Activities
 
 ## Logging Your Drug Use

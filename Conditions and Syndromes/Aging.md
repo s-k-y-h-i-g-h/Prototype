@@ -221,6 +221,9 @@ To get it down:
 ## Improve Verbal Fluency
 - [Scientists identify specific cognitive skill linked to longer life in older adults](https://www.msn.com/en-gb/health/mindandbody/scientists-identify-specific-cognitive-skill-linked-to-longer-life-in-older-adults/ar-AA1BMb3x)
 
+## Avoid AGEs
+- [Dietary AGE Products Shorten Lifespan On A Calorie Restricted Diet](https://www.youtube.com/watch?v=E9gC1T4gxbE)
+
 # Muscle Loss Research
 - [Scientists pinpoint metabolic failure as the cause of muscle loss in aging](https://www.news-medical.net/news/20250217/Scientists-pinpoint-metabolic-failure-as-the-cause-of-muscle-loss-in-aging.aspx)
 
