@@ -1,1 +1,3 @@
 - High dose L-Tryptophan with SSRI
+- RGPU-95
+- [Emerging Medications for Treatment-Resistant Depression: A Review with Perspective on Mechanisms and Challenges](https://pmc.ncbi.nlm.nih.gov/articles/PMC11853532/)
