@@ -32,3 +32,4 @@
 - [Nootropics Base](https://nootropicsbase.com/)
 - [Innovare Biotech](https://innovare.bio/)
 - [Pillbuys](https://pillbuys.com/)
+- [Hawaii Pharm](https://hawaiipharm.com/)

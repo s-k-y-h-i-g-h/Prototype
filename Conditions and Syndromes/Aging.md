@@ -223,6 +223,7 @@ To get it down:
 
 ## Avoid AGEs
 - [Dietary AGE Products Shorten Lifespan On A Calorie Restricted Diet](https://www.youtube.com/watch?v=E9gC1T4gxbE)
+- Use L-Carnosine and Benfotamine to reduce AGEs
 
 # Muscle Loss Research
 - [Scientists pinpoint metabolic failure as the cause of muscle loss in aging](https://www.news-medical.net/news/20250217/Scientists-pinpoint-metabolic-failure-as-the-cause-of-muscle-loss-in-aging.aspx)
