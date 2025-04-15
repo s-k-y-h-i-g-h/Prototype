@@ -4,7 +4,7 @@ Make sure you are getting RDAs of essential nutrients.
 
 Keep track of what you eat and assess the quantity of essential nutrients in you diet. A lot of people take a high quality multivitamin and other supplements because it is next to impossible to get all of the essential nutrients through diet alone.
 
-Glossary:
+### Glossary
 - **RDA**: Recommended Daily Allowance
 - **UL**: Tolerable Upper Intake Level
 - **Vitamin**: 
@@ -12,6 +12,7 @@ Glossary:
 - **Amino acid**:
 - **Fatty acid**: 
 
+### Table of Nutrients
 - [What are the 90 Essential Nutrients?](https://thewallachrevolution.com/90-essential-nutrients/)
 
 | Name                          | Type       | RDA | UL  | Primary Functions | Sources | Notes |
