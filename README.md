@@ -56,8 +56,12 @@ A [transhumanist](https://en.wikipedia.org/wiki/Transhumanism) approach to life.
 
 # Communities
 - [Reddit Nootropics](https://www.reddit.com/r/Nootropics/)
-- [Biohacking - Neuropharmacology Discord Server](https://discord.gg/BsZSPrve)
 - [LongeCity](https://www.longecity.org/forum/page/index.html)
+
+## Discord
+- [Transformers](https://discord.gg/MrxTZpAg)
+- [Biohacking - Neuropharmacology](https://discord.gg/BsZSPrve)
+- [The Biohacker Lounge](https://discord.gg/2Qm7htGR)
 
 # Tools
 - Me
