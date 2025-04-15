@@ -136,19 +136,31 @@ Glossary:
 - Anti-oxidants
 
 ### Correct Naturally Declining Levels of Important Endogenous Compounds
-| Name                | Amount Needed to Restore Level | Notes |
-| ------------------- | ------------------------------ | ----- |
-| Taurine             |                                |       |
-| CoQ10               |                                |       |
-| Collagen            |                                |       |
-| Melatonin           |                                |       |
-| DHEA                |                                |       |
-| Glutathione         |                                |       |
-| Growth hormone (GH) |                                |       |
-| NAD+                |                                |       |
-| Sex hormones        |                                |       |
-| IGF-1               |                                |       |
-| Glycine             |                                |       |
+(Do these decrease because of the processes of ageing or for other reasons?)
+
+| Name                            | Amount Needed to Restore Level | Notes |
+| ------------------------------- | ------------------------------ | ----- |
+| Taurine                         |                                |       |
+| CoQ10                           |                                |       |
+| Collagen                        |                                |       |
+| Melatonin                       |                                |       |
+| DHEA                            |                                |       |
+| Glutathione                     |                                |       |
+| Growth hormone (GH)             |                                |       |
+| NAD+                            |                                |       |
+| Testosterone                    |                                |       |
+| Estradiol                       |                                |       |
+| Progesterone                    |                                |       |
+| Insulin Growth Factor 1 (IGF-1) |                                |       |
+| Glycine                         |                                |       |
+| Creatine                        |                                |       |
+| β-phenylethylamine              |                                |       |
+| Trigonelline                    |                                |       |
+| Klotho                          |                                |       |
+| Alpha-ketoglutarate (AKG)       |                                |       |
+| Dopamine                        |                                |       |
+| Serotonin                       |                                |       |
+| Glutamate                       |                                |       |
 
 ## Protect Yourself From Common Illnesses and Problems
 - [Addiction](Conditions%20and%20Syndromes/Addiction.md)
