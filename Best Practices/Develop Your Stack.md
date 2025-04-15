@@ -28,23 +28,127 @@ Competes with other amino acids when crossing the BBB. Take this on an empty sto
 ### L-Tyrosine
 Competes with other amino acids when crossing the BBB. Take this on an empty stomach or before eating things which contain protein.
 
+Glossary:
+- **RDA**: Recommended Daily Allowance
+- **UL**: Tolerable Upper Intake Level
+- **Vitamin**: 
+- **Mineral**:
+- **Amino acid**:
+- **Fatty acid**: 
+
+| Name                          | Type       | RDA | UL  | Notes |
+| ----------------------------- | ---------- | --- | --- | ----- |
+| Calcium                       | Mineral    |     |     |       |
+| Magnesium                     | Mineral    |     |     |       |
+| Phosphorus                    | Mineral    |     |     |       |
+| Potassium                     | Mineral    |     |     |       |
+| Sodium                        | Mineral    |     |     |       |
+| Chloride                      | Mineral    |     |     |       |
+| Sulfur                        | Mineral    |     |     |       |
+| Cobalt                        | Mineral    |     |     |       |
+| Copper                        | Mineral    |     |     |       |
+| Aluminum                      | Mineral    |     |     |       |
+| Arsenic                       | Mineral    |     |     |       |
+| Barium                        | Mineral    |     |     |       |
+| Beryllium                     | Mineral    |     |     |       |
+| Boron                         | Mineral    |     |     |       |
+| Bromine                       | Mineral    |     |     |       |
+| Carbon                        | Mineral    |     |     |       |
+| Iodine                        | Mineral    |     |     |       |
+| Iron                          | Mineral    |     |     |       |
+| Manganese                     | Mineral    |     |     |       |
+| Selenium                      | Mineral    |     |     |       |
+| Zinc                          | Mineral    |     |     |       |
+| Cerium                        | Mineral    |     |     |       |
+| Cesium                        | Mineral    |     |     |       |
+| Chromium                      | Mineral    |     |     |       |
+| Dysprosium                    | Mineral    |     |     |       |
+| Erbium                        | Mineral    |     |     |       |
+| Europium                      | Mineral    |     |     |       |
+| Gadolinium                    | Mineral    |     |     |       |
+| Gallium                       | Mineral    |     |     |       |
+| Germanium                     | Mineral    |     |     |       |
+| Gold                          | Mineral    |     |     |       |
+| Hafnium                       | Mineral    |     |     |       |
+| Holmium                       | Mineral    |     |     |       |
+| Hydrogen                      | Mineral    |     |     |       |
+| Lanthanum                     | Mineral    |     |     |       |
+| Lithium                       | Mineral    |     |     |       |
+| Lutetium                      | Mineral    |     |     |       |
+| Molybdenum                    | Mineral    |     |     |       |
+| Neodymium                     | Mineral    |     |     |       |
+| Nickel                        | Mineral    |     |     |       |
+| Niobium                       | Mineral    |     |     |       |
+| Nitrogen                      | Mineral    |     |     |       |
+| Oxygen                        | Mineral    |     |     |       |
+| Praseodymium                  | Mineral    |     |     |       |
+| Rhenium                       | Mineral    |     |     |       |
+| Rubidium                      | Mineral    |     |     |       |
+| Samarium                      | Mineral    |     |     |       |
+| Scandium                      | Mineral    |     |     |       |
+| Silica                        | Mineral    |     |     |       |
+| Silver                        | Mineral    |     |     |       |
+| Strontium                     | Mineral    |     |     |       |
+| Tantalum                      | Mineral    |     |     |       |
+| Terbium                       | Mineral    |     |     |       |
+| Thulium                       | Mineral    |     |     |       |
+| Tin                           | Mineral    |     |     |       |
+| Titanium                      | Mineral    |     |     |       |
+| Vanadium                      | Mineral    |     |     |       |
+| Ytterbium                     | Mineral    |     |     |       |
+| Yttrium                       | Mineral    |     |     |       |
+| Zirconium                     | Mineral    |     |     |       |
+| Vitamin A                     | Vitamin    |     |     |       |
+| Vitamin B1 (Thiamine)         | Vitamin    |     |     |       |
+| Vitamin B2 (Riboflavin)       | Vitamin    |     |     |       |
+| Vitamin B3 (Niacin)           | Vitamin    |     |     |       |
+| Vitamin B5 (Pantothenic Acid) | Vitamin    |     |     |       |
+| Vitamin B6 (Pyridoxine)       | Vitamin    |     |     |       |
+| Vitamin B12 (Cobalamin)       | Vitamin    |     |     |       |
+| Vitamin C                     | Vitamin    |     |     |       |
+| Vitamin D                     | Vitamin    |     |     |       |
+| Vitamin E                     | Vitamin    |     |     |       |
+| Vitamin K                     | Vitamin    |     |     |       |
+| Biotin                        | Vitamin    |     |     |       |
+| Choline                       | Vitamin    |     |     |       |
+| Flavonoids and Bioflavonoids  | Vitamin    |     |     |       |
+| Folic Acid                    | Vitamin    |     |     |       |
+| Inositol                      | Vitamin    |     |     |       |
+| Valine                        | Amino acid |     |     |       |
+| Lysine                        | Amino acid |     |     |       |
+| Threonine                     | Amino acid |     |     |       |
+| Leucine                       | Amino acid |     |     |       |
+| Isoleucine                    | Amino acid |     |     |       |
+| Tryptophan                    | Amino acid |     |     |       |
+| Phenylalanine                 | Amino acid |     |     |       |
+| Methionine                    | Amino acid |     |     |       |
+| Histidine                     | Amino acid |     |     |       |
+| Arginine                      | Amino acid |     |     |       |
+| Taurine                       | Amino acid |     |     |       |
+| Tyrosine                      | Amino acid |     |     |       |
+| Omega 3                       | Fatty acid |     |     |       |
+| Omega 6                       | Fatty acid |     |     |       |
+| Omega 9                       | Fatty acid |     |     |       |
+
 ## Prevent Health From Declining
 ### Non-Essential Supplements
 - Anti-inflmmatories
 - Anti-oxidants
 
 ### Correct Naturally Declining Levels of Important Endogenous Compounds
-- Taurine
-- CoQ10
-- Collagen
-- Melatonin
-- DHEA
-- Glutathione
-- Growth hormone (GH)
-- NAD+
-- Sex hormones
-- IGF-1
-- Glycine
+| Name                | Amount Needed to Restore Level | Notes |
+| ------------------- | ------------------------------ | ----- |
+| Taurine             |                                |       |
+| CoQ10               |                                |       |
+| Collagen            |                                |       |
+| Melatonin           |                                |       |
+| DHEA                |                                |       |
+| Glutathione         |                                |       |
+| Growth hormone (GH) |                                |       |
+| NAD+                |                                |       |
+| Sex hormones        |                                |       |
+| IGF-1               |                                |       |
+| Glycine             |                                |       |
 
 ## Protect Yourself From Common Illnesses and Problems
 - [Addiction](Conditions%20and%20Syndromes/Addiction.md)

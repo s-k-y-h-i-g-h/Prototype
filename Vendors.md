@@ -33,3 +33,8 @@
 - [Innovare Biotech](https://innovare.bio/)
 - [Pillbuys](https://pillbuys.com/)
 - [Hawaii Pharm](https://hawaiipharm.com/)
+- [CHEM LOGIX](https://chemlogix.ca/)
+- [Chemical Collective](https://chemical-collective.com/)
+- [Labs24](https://www.labs24.net/)
+- [Realchems](https://realchems.net/)
+- [indiamart](https://www.indiamart.com/)

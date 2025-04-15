@@ -104,6 +104,10 @@ These are inter-dependent. Fixing one helps fix the others. (source?)
 - [Health benefits attributed to 17α-estradiol, a lifespan-extending compound, are mediated through estrogen receptor α](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7744101/)
 
 ## CoQ10
+- [Jorge Flechas, MD, MPH: PQQ: A New Molecule to Lower Mercury and its other Health Benefits](https://www.youtube.com/watch?v=WHQUpNZgFhI)
+> Synergises with PQQ
+> Dose at 200-400mg
+
 - [Coenzyme Q10 Supplementation in Aging and Disease](https://pmc.ncbi.nlm.nih.gov/articles/PMC5807419/)
 > There is evidence that supplementation positively affects mitochondrial deficiency syndrome and the symptoms of aging
 >  Cardiovascular disease and inflammation are alleviated by the antioxidant effect of CoQ10
@@ -194,6 +198,13 @@ To get it down:
 
 ## Time-Restricted Feeding
 ## Vitamin D
+## PQQ
+- [Jorge Flechas, MD, MPH: PQQ: A New Molecule to Lower Mercury and its other Health Benefits](https://www.youtube.com/watch?v=WHQUpNZgFhI)
+> Likely to be classed as an essential nutrient in the future
+> Induces mitochondrial biogenesis
+> 20-60mg/day
+- Called a longevity vitamin by some (source?)
+
 ## Sleep
 ## Prevent Stress
 ## Exercise
@@ -224,6 +235,11 @@ To get it down:
 ## Avoid AGEs
 - [Dietary AGE Products Shorten Lifespan On A Calorie Restricted Diet](https://www.youtube.com/watch?v=E9gC1T4gxbE)
 - Use L-Carnosine and Benfotamine to reduce AGEs
+- [My Longevtiy Protocol | Dr Greg Fahy Episode 9](https://www.youtube.com/watch?v=RsOQTDFH7VU&t=102s)
+
+## Avoid Low Fat Milk
+- [Study links milk consumption to aging](https://www.foodbusinessnews.net/articles/15235-study-links-milk-consumption-to-aging)
+>  A recent study found people who drink low-fat milk may experience up to several years less biological aging than people who drink high-fat milk
 
 # Muscle Loss Research
 - [Scientists pinpoint metabolic failure as the cause of muscle loss in aging](https://www.news-medical.net/news/20250217/Scientists-pinpoint-metabolic-failure-as-the-cause-of-muscle-loss-in-aging.aspx)

@@ -25,3 +25,7 @@
 # Amphetamine
 
 - [Adderall Makes Me Tired: Causes of the Medication Side Effect (healthline.com)](https://www.healthline.com/health/adderall-makes-me-tired#adderall-crash)
+
+# Sleep Paralysis
+
+- Some research suggests that sleeping on your back might be associated with more episodes (source?)

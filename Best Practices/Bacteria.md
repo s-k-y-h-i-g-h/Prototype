@@ -1,0 +1,1 @@
+- Only use metal straps with watches and smartwatches because bacteria cannot live on metal
