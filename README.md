@@ -59,6 +59,10 @@ A [transhumanist](https://en.wikipedia.org/wiki/Transhumanism) approach to life.
 - [Biohacking - Neuropharmacology Discord Server](https://discord.gg/BsZSPrve)
 - [LongeCity](https://www.longecity.org/forum/page/index.html)
 
+# Tools
+- Me
+- [Biohacker ChatGPT by ryderlefeg](https://chatgpt.com/g/g-FyKt2xBEE-biohacker)
+
 # Vendors
 - [Vendors](Vendors.md)
 
