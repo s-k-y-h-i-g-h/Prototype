@@ -18,7 +18,7 @@
 - [Oxytrex®: an oxycodone and ultra-low-dose naltrexone formulation](https://www.tandfonline.com/doi/abs/10.1517/13543784.16.8.1277)
 
 - restless on Discord
-> Honestly anyone using opioids needs to know about uldn, Agmatine, gb, and sr-17018
+> Honestly anyone using opioids needs to know about uldn, Agmatine, gb, and sr-17018 ... (Supposedly a miracle drug for opioid tolerance and withdrawal, like can essentially eliminate it.)
 
 # Alcohol
 - Benzodiazapines

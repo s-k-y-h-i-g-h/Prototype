@@ -79,7 +79,7 @@ Competes with other amino acids when crossing the BBB. Take this on an empty sto
 Competes with other amino acids when crossing the BBB. Take this on an empty stomach or before eating things which contain protein.
 
 ## Prevent Health From Declining
-### Non-Essential Supplements
+### Non-Essential But Important Supplements
 - Anti-inflmmatories
 - Anti-oxidants
 
@@ -125,15 +125,23 @@ Competes with other amino acids when crossing the BBB. Take this on an empty sto
 
 ### Prevention Via Disease Pathways
 - [Dr. Peter Attia: Supplements for Longevity & Their Efficacy](https://www.youtube.com/watch?v=79p1X_7rAMo)
-> [Prevent the onset of diseases with]
-> - SGLT-2 inhibitors
-> - GLP-1 agonists
-> - PCSK-9 inhibitors
-> - Statins
-> - Bempedoic acid
-> - Sirtuins
-> - Acarbose (caloric restriction mimetic)
-> - [Caloric restriction]
+
+#### SGLT-2 inhibitors
+
+#### GLP-1 agonists
+- [Use of GLP-1 RAs in Cardiovascular Disease Prevention: A Practical Guide](https://www.ahajournals.org/doi/full/10.1161/circulationaha.117.032759
+
+#### PCSK-9 inhibitors
+
+#### Statins
+
+#### Bempedoic acid
+
+#### Sirtuins
+
+#### Acarbose (Caloric Restriction Mimetic)
+
+#### Caloric Restriction
 
 ### Heart Attacks
 - Low dose asprin
@@ -147,6 +155,61 @@ Aburto NJ, Hanson S, Gutierrez H, et al. Effect of increased potassium intake on
 > Another meta-analysis found an inverse relationship between potassium intake and the risk of stroke. The higher potassium intake was associated with a reduced risk of stroke.16 Approximately 3,500 milligrams (mg) of potassium per day were needed to see the reduced risk.
 
 # Enhance Your Body and Brain Beyond Their Natural Capabilities
+
+## Enhance Stress Resistance
+
+## Enhance Cognitive Ability
 - [Cognitive enhancement](../Cognitive%20Enhancement.md)
-- [Peptides](../Substances/Peptides.md)
+
+## Enhance Mood
+
+## Increase Healthspan and Lifespan
 - [Ageing prevention](../Conditions%20and%20Syndromes/Aging.md)
+- [Aging and age‐related diseases: from mechanisms to therapeutic strategies](https://pmc.ncbi.nlm.nih.gov/articles/PMC7838467/)
+- [Molecular mechanisms of aging and anti-ageing strategies](https://biosignaling.biomedcentral.com/articles/10.1186/s12964-024-01663-1)
+
+### Mechanisms of Ageing
+#### Genomic Instability
+Accumulation of DNA damage over time, leading to errors in genetic information.
+
+#### Telomere Shortening
+Telomeres, the protective caps on chromosomes, shorten with each cell division, eventually leading to cellular senescence.
+
+#### Epigenetic Changes
+Alterations in gene expression without changes to the DNA sequence, affecting cellular function.
+
+#### Loss of Proteostasis
+Decline in the ability to maintain protein quality, leading to the accumulation of damaged or misfolded proteins.
+
+#### Mitochondrial Dysfunction
+Reduced efficiency of mitochondria, the cell's energy producers, contributing to cellular ageing.
+
+#### Cellular Senescence
+Cells lose the ability to divide and function, releasing inflammatory signals that affect surrounding tissues.
+
+#### Stem Cell Exhaustion
+Decline in the regenerative capacity of stem cells, impairing tissue repair and maintenance.
+
+#### Deregulated Nutrient Sensing
+Disruption in pathways that regulate energy and metabolism, such as insulin signaling.
+
+#### Altered Intercellular Communication
+Changes in how cells communicate, often leading to chronic inflammation.
+
+#### Accumulation of Cellular Waste
+
+#### NAD+ Loss
+
+#### Inflammation
+
+#### Dysbiosis
+An imbalance in the microbiome—the community of microorganisms living in and on your body. This imbalance can occur in various areas, such as the gut, skin, mouth, or genitals, and it can disrupt the beneficial functions these microbes provide.
+
+#### Disabled Macro-Autophagy
+
+### Strategies
+| Name | Addresses | Dose | ROA        |
+| ---- | --------- | ---- | ---------- |
+| NMN  | NAD+ loss | 1g/d | Oral       |
+| NR   | NAD+ loss |      | Sublingual |
+|      |           |      |            |

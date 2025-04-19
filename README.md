@@ -73,3 +73,6 @@ A [transhumanist](https://en.wikipedia.org/wiki/Transhumanism) approach to life.
 
 # How to Contribute
 Join [our Discord server](https://discord.gg/j43t5jAv).
+
+# Note
+Portions of this project were generated with assistance from Microsoft Copilot, an AI companion developed by Microsoft.
