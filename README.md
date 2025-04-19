@@ -35,6 +35,7 @@ A [transhumanist](https://en.wikipedia.org/wiki/Transhumanism) approach to life.
 - [Sleep](Best%20Practices/Sleep.md)
 - [Test your results](Best%20Practices/Test%20Your%20Results.md)
 - [Video games](Best%20Practices/Video%20Games.md)
+- [Heating](Best%20Practices/Heating.md)
 
 # My Stacks
 - [Version 1](Stacks/v1.md)

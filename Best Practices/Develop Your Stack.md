@@ -13,101 +13,46 @@ Keep track of what you eat and assess the quantity of essential nutrients in you
 - **Fatty acid**: 
 
 ### Table of Nutrients
-- [What are the 90 Essential Nutrients?](https://thewallachrevolution.com/90-essential-nutrients/)
 
-| Name                          | Type       | RDA | UL  | Primary Functions | Sources | Notes |
-| ----------------------------- | ---------- | --- | --- | ----------------- | ------- | ----- |
-| Calcium                       | Mineral    |     |     |                   |         |       |
-| Magnesium                     | Mineral    |     |     |                   |         |       |
-| Phosphorus                    | Mineral    |     |     |                   |         |       |
-| Potassium                     | Mineral    |     |     |                   |         |       |
-| Sodium                        | Mineral    |     |     |                   |         |       |
-| Chloride                      | Mineral    |     |     |                   |         |       |
-| Sulfur                        | Mineral    |     |     |                   |         |       |
-| Cobalt                        | Mineral    |     |     |                   |         |       |
-| Copper                        | Mineral    |     |     |                   |         |       |
-| Aluminum                      | Mineral    |     |     |                   |         |       |
-| Arsenic                       | Mineral    |     |     |                   |         |       |
-| Barium                        | Mineral    |     |     |                   |         |       |
-| Beryllium                     | Mineral    |     |     |                   |         |       |
-| Boron                         | Mineral    |     |     |                   |         |       |
-| Bromine                       | Mineral    |     |     |                   |         |       |
-| Carbon                        | Mineral    |     |     |                   |         |       |
-| Iodine                        | Mineral    |     |     |                   |         |       |
-| Iron                          | Mineral    |     |     |                   |         |       |
-| Manganese                     | Mineral    |     |     |                   |         |       |
-| Selenium                      | Mineral    |     |     |                   |         |       |
-| Zinc                          | Mineral    |     |     |                   |         |       |
-| Cerium                        | Mineral    |     |     |                   |         |       |
-| Cesium                        | Mineral    |     |     |                   |         |       |
-| Chromium                      | Mineral    |     |     |                   |         |       |
-| Dysprosium                    | Mineral    |     |     |                   |         |       |
-| Erbium                        | Mineral    |     |     |                   |         |       |
-| Europium                      | Mineral    |     |     |                   |         |       |
-| Gadolinium                    | Mineral    |     |     |                   |         |       |
-| Gallium                       | Mineral    |     |     |                   |         |       |
-| Germanium                     | Mineral    |     |     |                   |         |       |
-| Gold                          | Mineral    |     |     |                   |         |       |
-| Hafnium                       | Mineral    |     |     |                   |         |       |
-| Holmium                       | Mineral    |     |     |                   |         |       |
-| Hydrogen                      | Mineral    |     |     |                   |         |       |
-| Lanthanum                     | Mineral    |     |     |                   |         |       |
-| Lithium                       | Mineral    |     |     |                   |         |       |
-| Lutetium                      | Mineral    |     |     |                   |         |       |
-| Molybdenum                    | Mineral    |     |     |                   |         |       |
-| Neodymium                     | Mineral    |     |     |                   |         |       |
-| Nickel                        | Mineral    |     |     |                   |         |       |
-| Niobium                       | Mineral    |     |     |                   |         |       |
-| Nitrogen                      | Mineral    |     |     |                   |         |       |
-| Oxygen                        | Mineral    |     |     |                   |         |       |
-| Praseodymium                  | Mineral    |     |     |                   |         |       |
-| Rhenium                       | Mineral    |     |     |                   |         |       |
-| Rubidium                      | Mineral    |     |     |                   |         |       |
-| Samarium                      | Mineral    |     |     |                   |         |       |
-| Scandium                      | Mineral    |     |     |                   |         |       |
-| Silica                        | Mineral    |     |     |                   |         |       |
-| Silver                        | Mineral    |     |     |                   |         |       |
-| Strontium                     | Mineral    |     |     |                   |         |       |
-| Tantalum                      | Mineral    |     |     |                   |         |       |
-| Terbium                       | Mineral    |     |     |                   |         |       |
-| Thulium                       | Mineral    |     |     |                   |         |       |
-| Tin                           | Mineral    |     |     |                   |         |       |
-| Titanium                      | Mineral    |     |     |                   |         |       |
-| Vanadium                      | Mineral    |     |     |                   |         |       |
-| Ytterbium                     | Mineral    |     |     |                   |         |       |
-| Yttrium                       | Mineral    |     |     |                   |         |       |
-| Zirconium                     | Mineral    |     |     |                   |         |       |
-| Vitamin A                     | Vitamin    |     |     |                   |         |       |
-| Vitamin B1 (Thiamine)         | Vitamin    |     |     |                   |         |       |
-| Vitamin B2 (Riboflavin)       | Vitamin    |     |     |                   |         |       |
-| Vitamin B3 (Niacin)           | Vitamin    |     |     |                   |         |       |
-| Vitamin B5 (Pantothenic Acid) | Vitamin    |     |     |                   |         |       |
-| Vitamin B6 (Pyridoxine)       | Vitamin    |     |     |                   |         |       |
-| Vitamin B12 (Cobalamin)       | Vitamin    |     |     |                   |         |       |
-| Vitamin C                     | Vitamin    |     |     |                   |         |       |
-| Vitamin D                     | Vitamin    |     |     |                   |         |       |
-| Vitamin E                     | Vitamin    |     |     |                   |         |       |
-| Vitamin K                     | Vitamin    |     |     |                   |         |       |
-| Biotin                        | Vitamin    |     |     |                   |         |       |
-| Choline                       | Vitamin    |     |     |                   |         |       |
-| Flavonoids and Bioflavonoids  | Vitamin    |     |     |                   |         |       |
-| Folic Acid                    | Vitamin    |     |     |                   |         |       |
-| Inositol                      | Vitamin    |     |     |                   |         |       |
-| Valine                        | Amino acid |     |     |                   |         |       |
-| Lysine                        | Amino acid |     |     |                   |         |       |
-| Threonine                     | Amino acid |     |     |                   |         |       |
-| Leucine                       | Amino acid |     |     |                   |         |       |
-| Isoleucine                    | Amino acid |     |     |                   |         |       |
-| Tryptophan                    | Amino acid |     |     |                   |         |       |
-| Phenylalanine                 | Amino acid |     |     |                   |         |       |
-| Methionine                    | Amino acid |     |     |                   |         |       |
-| Histidine                     | Amino acid |     |     |                   |         |       |
-| Arginine                      | Amino acid |     |     |                   |         |       |
-| Taurine                       | Amino acid |     |     |                   |         |       |
-| Tyrosine                      | Amino acid |     |     |                   |         |       |
-| Omega 3                       | Fatty acid |     |     |                   |         |       |
-| Omega 6                       | Fatty acid |     |     |                   |         |       |
-| Omega 9                       | Fatty acid |     |     |                   |         |       |
+| Name                          | Type          | RDA (Males) | RDA (Females) | UL (Males) | UL (Females) | Primary Functions | Sources | Notes |
+| ----------------------------- | ------------- | ----------- | ------------- | ---------- | ----------- | ----------------- | ------- | ----- |
+| Calcium                       | Mineral       | 1000mg      | 1000mg        |            |             |                   |         |       |
+| Magnesium                     | Mineral       | 420mg       | 320mg         |            |             |                   |         |       |
+| Phosphorus                    | Mineral       | 700mg       | 700mg         |            |             |                   |         |       |
+| Potassium                     | Mineral       | 3,400mg     | 2,600mg       |            |             |                   |         |       |
+| Sodium                        | Mineral       | 1,500mg     | 1,500mg       |            |             |                   |         |       |
+| Chloride                      | Mineral       | 2,300mg     | 2,300mg       |            |             |                   |         |       |
+| Copper                        | Mineral       | 900ug       | 900ug         |            |             |                   |         |       |
+| Iodine                        | Mineral       | 150ug       | 150ug         |            |             |                   |         |       |
+| Iron                          | Mineral       | 18mg        | 8mg           |            |             |                   |         |       |
+| Manganese                     | Mineral       | 2.3mg       | 1.8mg         |            |             |                   |         |       |
+| Selenium                      | Mineral       | 55ug        | 55ug          |            |             |                   |         |       |
+| Zinc                          | Mineral       | 11mg        | 8mg           |            |             |                   |         |       |
+| Chromium                      | Mineral       | 35ug        | 25ug          |            |             |                   |         |       |
+| Molybdenum                    | Mineral       | 45ug        | 45ug          |            |             |                   |         |       |
+| Vitamin A                     | Vitamin       | 900ug       | 700ug         | 3,000ug    | 3,000ug     |                   |         |       |
+| Vitamin B1 (Thiamine)         | Vitamin       | 1.2mg       | 1.1mg         |            |             |                   |         |       |
+| Vitamin B2 (Riboflavin)       | Vitamin       | 1.3mg       | 1.1mg         |            |             |                   |         |       |
+| Vitamin B3 (Niacin)           | Vitamin       | 16mg        | 14mg          |            |             |                   |         |       |
+| Vitamin B5 (Pantothenic Acid) | Vitamin       | 5mg         | 5mg           |            |             |                   |         |       |
+| Vitamin B6 (Pyridoxine)       | Vitamin       | 1.3mg       | 1.3mg         |            |             |                   |         |       |
+| Vitamin B12 (Cobalamin)       | Vitamin       | 2.4ug       | 2.4ug         |            |             |                   |         |       |
+| Vitamin C                     | Vitamin       | 90mg        | 75mg          | 2,000mg    | 2,000mg     |                   |         |       |
+| Vitamin D                     | Vitamin       | 15ug        | 15ug          | 100ug      | 100ug       |                   |         |       |
+| Vitamin E                     | Vitamin       | 15mg        | 15mg          |            |             |                   |         |       |
+| Vitamin K                     | Vitamin       | 120ug       | 90ug          |            |             |                   |         |       |
+| Biotin                        | Vitamin       | 30ug        | 30ug          |            |             |                   |         |       |
+| Choline                       | Vitamin       | 550mg       | 425mg         |            |             |                   |         |       |
+| Foliate                       | Vitamin       | 400ug       | 400ug         |            |             |                   |         |       |
+| Carbohydrate                  | Macronutrient | 130g        | 130g          |            |             |                   |         |       |
+| Fibre                         | Macronutrient | 38g         | 25g           |            |             |                   |         |       |
+| Fat                           | Macronutrient | 85g         | 65g           |            |             |                   |         |       |
+| Protein                       | Macronutrient | 56g         | 46g           |            |             |                   |         |       |
+| Water                         | Macronutrient | 3.7L        | 2.7L          |            |             |                   |         |       |
+| Omega 3                       | Fatty acid    | 1.6g        | 1.1g          |            |             |                   |         |       |
+| Omega 6                       | Fatty acid    | 17g         | 12g           |            |             |                   |         |       |
+
+Note: RDAs here are for adults age 18-70.
 
 ### Recommended Dietary Allowances (RDAs) and Adequate Intakes (AIs)
 - [Diatery reference intakes for elements](https://www.ncbi.nlm.nih.gov/books/NBK545442/table/appJ_tab3/?report=objectonly)

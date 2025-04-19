@@ -8,10 +8,17 @@
 - [Baclofen](https://psychonautwiki.org/wiki/Baclofen)
 > Addiction suppression - Baclofen is also used for alcoholism treatment.
 
-# Opioid Withdrawal
+# Opioid
+## Withdrawal
 - https://www.nature.com/articles/1395592
 > acute morphine administration increases serotonin (5-HT) transmission within the nucleus accumbens and other forebrain region
 > 5-HT transmission is depressed during withdrawal from chronic morphine
+
+## Tolerance Prevention
+- [Oxytrex®: an oxycodone and ultra-low-dose naltrexone formulation](https://www.tandfonline.com/doi/abs/10.1517/13543784.16.8.1277)
+
+- restless on Discord
+> Honestly anyone using opioids needs to know about uldn, Agmatine, gb, and sr-17018
 
 # Alcohol
 - Benzodiazapines
