@@ -129,7 +129,7 @@ Competes with other amino acids when crossing the BBB. Take this on an empty sto
 #### SGLT-2 inhibitors
 
 #### GLP-1 agonists
-- [Use of GLP-1 RAs in Cardiovascular Disease Prevention: A Practical Guide](https://www.ahajournals.org/doi/full/10.1161/circulationaha.117.032759
+- [Use of GLP-1 RAs in Cardiovascular Disease Prevention: A Practical Guide](https://www.ahajournals.org/doi/full/10.1161/circulationaha.117.032759)
 
 #### PCSK-9 inhibitors
 
