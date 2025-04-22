@@ -18,3 +18,6 @@
 
 ## L-Carnosine
 - [https://pubmed.ncbi.nlm.nih.gov/33170378/](Effect of L-Carnosine as adjunctive therapy in the management of children with autism spectrum disorder: a randomized controlled study)
+
+## CBD
+- [Cannabis extract can improve behavior of children and teens with autism spectrum disorder](https://www.news-medical.net/news/20250408/Cannabis-extract-can-improve-behavior-of-children-and-teens-with-autism-spectrum-disorder.aspx)

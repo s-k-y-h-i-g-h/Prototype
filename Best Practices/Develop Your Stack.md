@@ -13,70 +13,51 @@ Keep track of what you eat and assess the quantity of essential nutrients in you
 - **Fatty acid**: 
 
 ### Table of Nutrients
-
-| Name                          | Type          | RDA (Males) | RDA (Females) | UL (Males) | UL (Females) | Primary Functions | Sources | Notes |
-| ----------------------------- | ------------- | ----------- | ------------- | ---------- | ----------- | ----------------- | ------- | ----- |
-| Calcium                       | Mineral       | 1000mg      | 1000mg        |            |             |                   |         |       |
-| Magnesium                     | Mineral       | 420mg       | 320mg         |            |             |                   |         |       |
-| Phosphorus                    | Mineral       | 700mg       | 700mg         |            |             |                   |         |       |
-| Potassium                     | Mineral       | 3,400mg     | 2,600mg       |            |             |                   |         |       |
-| Sodium                        | Mineral       | 1,500mg     | 1,500mg       |            |             |                   |         |       |
-| Chloride                      | Mineral       | 2,300mg     | 2,300mg       |            |             |                   |         |       |
-| Copper                        | Mineral       | 900ug       | 900ug         |            |             |                   |         |       |
-| Iodine                        | Mineral       | 150ug       | 150ug         |            |             |                   |         |       |
-| Iron                          | Mineral       | 18mg        | 8mg           |            |             |                   |         |       |
-| Manganese                     | Mineral       | 2.3mg       | 1.8mg         |            |             |                   |         |       |
-| Selenium                      | Mineral       | 55ug        | 55ug          |            |             |                   |         |       |
-| Zinc                          | Mineral       | 11mg        | 8mg           |            |             |                   |         |       |
-| Chromium                      | Mineral       | 35ug        | 25ug          |            |             |                   |         |       |
-| Molybdenum                    | Mineral       | 45ug        | 45ug          |            |             |                   |         |       |
-| Vitamin A                     | Vitamin       | 900ug       | 700ug         | 3,000ug    | 3,000ug     |                   |         |       |
-| Vitamin B1 (Thiamine)         | Vitamin       | 1.2mg       | 1.1mg         |            |             |                   |         |       |
-| Vitamin B2 (Riboflavin)       | Vitamin       | 1.3mg       | 1.1mg         |            |             |                   |         |       |
-| Vitamin B3 (Niacin)           | Vitamin       | 16mg        | 14mg          |            |             |                   |         |       |
-| Vitamin B5 (Pantothenic Acid) | Vitamin       | 5mg         | 5mg           |            |             |                   |         |       |
-| Vitamin B6 (Pyridoxine)       | Vitamin       | 1.3mg       | 1.3mg         |            |             |                   |         |       |
-| Vitamin B12 (Cobalamin)       | Vitamin       | 2.4ug       | 2.4ug         |            |             |                   |         |       |
-| Vitamin C                     | Vitamin       | 90mg        | 75mg          | 2,000mg    | 2,000mg     |                   |         |       |
-| Vitamin D                     | Vitamin       | 15ug        | 15ug          | 100ug      | 100ug       |                   |         |       |
-| Vitamin E                     | Vitamin       | 15mg        | 15mg          |            |             |                   |         |       |
-| Vitamin K                     | Vitamin       | 120ug       | 90ug          |            |             |                   |         |       |
-| Biotin                        | Vitamin       | 30ug        | 30ug          |            |             |                   |         |       |
-| Choline                       | Vitamin       | 550mg       | 425mg         |            |             |                   |         |       |
-| Foliate                       | Vitamin       | 400ug       | 400ug         |            |             |                   |         |       |
-| Carbohydrate                  | Macronutrient | 130g        | 130g          |            |             |                   |         |       |
-| Fibre                         | Macronutrient | 38g         | 25g           |            |             |                   |         |       |
-| Fat                           | Macronutrient | 85g         | 65g           |            |             |                   |         |       |
-| Protein                       | Macronutrient | 56g         | 46g           |            |             |                   |         |       |
-| Water                         | Macronutrient | 3.7L        | 2.7L          |            |             |                   |         |       |
-| Omega 3                       | Fatty acid    | 1.6g        | 1.1g          |            |             |                   |         |       |
-| Omega 6                       | Fatty acid    | 17g         | 12g           |            |             |                   |         |       |
-
-Note: RDAs here are for adults age 18-70.
-
-### Recommended Dietary Allowances (RDAs) and Adequate Intakes (AIs)
 - [Diatery reference intakes for elements](https://www.ncbi.nlm.nih.gov/books/NBK545442/table/appJ_tab3/?report=objectonly)
 - [Diatery reference intakes for vitamins](https://www.ncbi.nlm.nih.gov/books/NBK56068/table/summarytables.t2/?report=objectonly)
 - [Diatery reference intakes for water and macronutrients](https://www.ncbi.nlm.nih.gov/books/NBK56068/table/summarytables.t4/?report=objectonly)
-
-### Average Requirements
-- [Estimated average requirements](https://www.ncbi.nlm.nih.gov/books/NBK545442/table/appJ_tab1/?report=objectonly)
-
-### Macronutrient Distribution Ranges
-- [Acceptable macronutrient distribution ranges](https://www.ncbi.nlm.nih.gov/books/NBK56068/table/summarytables.t5/?report=objectonly)
-  
-### Upper Intakes
 - [Tolerable upper intake levels for vitamins](https://www.ncbi.nlm.nih.gov/books/NBK56068/table/summarytables.t7/?report=objectonly)
 - [Tolerable upper intake levels for elements](https://www.ncbi.nlm.nih.gov/books/NBK545442/table/appJ_tab9/?report=objectonly)
 
-### Omega-3 and Omega-6
-These need to be consumed in the right ratio. The ideal omega-6 to omega-3 ratio is around 4:1 or lower.
+| Name                          | Type          | RDA (Males) | RDA (Females) | UL (Males) | UL (Females) | Primary Functions | Sources | Notes |
+| ----------------------------- | ------------- | ----------- | ------------- | ---------- | ------------ | ----------------- | ------- | ----- |
+| Calcium                       | Mineral       | 1000mg      | 1000mg        |            |              |                   |         |       |
+| Magnesium                     | Mineral       | 420mg       | 320mg         |            |              |                   |         |       |
+| Phosphorus                    | Mineral       | 700mg       | 700mg         |            |              |                   |         |       |
+| Potassium                     | Mineral       | 3,400mg     | 2,600mg       |            |              |                   |         |       |
+| Sodium                        | Mineral       | 1,500mg     | 1,500mg       |            |              |                   |         |       |
+| Chloride                      | Mineral       | 2,300mg     | 2,300mg       |            |              |                   |         |       |
+| Copper                        | Mineral       | 900ug       | 900ug         |            |              |                   |         |       |
+| Iodine                        | Mineral       | 150ug       | 150ug         |            |              |                   |         |       |
+| Iron                          | Mineral       | 18mg        | 8mg           |            |              |                   |         |       |
+| Manganese                     | Mineral       | 2.3mg       | 1.8mg         |            |              |                   |         |       |
+| Selenium                      | Mineral       | 55ug        | 55ug          |            |              |                   |         |       |
+| Zinc                          | Mineral       | 11mg        | 8mg           |            |              |                   |         |       |
+| Chromium                      | Mineral       | 35ug        | 25ug          |            |              |                   |         |       |
+| Molybdenum                    | Mineral       | 45ug        | 45ug          |            |              |                   |         |       |
+| Vitamin A                     | Vitamin       | 900ug       | 700ug         | 3,000ug    | 3,000ug      |                   |         |       |
+| Vitamin B1 (Thiamine)         | Vitamin       | 1.2mg       | 1.1mg         |            |              |                   |         |       |
+| Vitamin B2 (Riboflavin)       | Vitamin       | 1.3mg       | 1.1mg         |            |              |                   |         |       |
+| Vitamin B3 (Niacin)           | Vitamin       | 16mg        | 14mg          |            |              |                   |         |       |
+| Vitamin B5 (Pantothenic Acid) | Vitamin       | 5mg         | 5mg           |            |              |                   |         |       |
+| Vitamin B6 (Pyridoxine)       | Vitamin       | 1.3mg       | 1.3mg         |            |              |                   |         |       |
+| Vitamin B12 (Cobalamin)       | Vitamin       | 2.4ug       | 2.4ug         |            |              |                   |         |       |
+| Vitamin C                     | Vitamin       | 90mg        | 75mg          | 2,000mg    | 2,000mg      |                   |         |       |
+| Vitamin D                     | Vitamin       | 15ug        | 15ug          | 100ug      | 100ug        |                   |         |       |
+| Vitamin E                     | Vitamin       | 15mg        | 15mg          |            |              |                   |         |       |
+| Vitamin K                     | Vitamin       | 120ug       | 90ug          |            |              |                   |         |       |
+| Biotin                        | Vitamin       | 30ug        | 30ug          |            |              |                   |         |       |
+| Choline                       | Vitamin       | 550mg       | 425mg         |            |              |                   |         |       |
+| Foliate                       | Vitamin       | 400ug       | 400ug         |            |              |                   |         |       |
+| Carbohydrate                  | Macronutrient | 130g        | 130g          |            |              |                   |         |       |
+| Fibre                         | Macronutrient | 38g         | 25g           |            |              |                   |         |       |
+| Fat                           | Macronutrient | 85g         | 65g           |            |              |                   |         |       |
+| Protein                       | Macronutrient | 56g         | 46g           |            |              |                   |         |       |
+| Water                         | Macronutrient | 3.7L        | 2.7L          |            |              |                   |         |       |
+| Omega 3                       | Fatty acid    | 1.6g        | 1.1g          |            |              |                   |         | Omega-3:omega-6 ratio should be 4:1 or lower |
+| Omega 6                       | Fatty acid    | 17g         | 12g           |            |              |                   |         |       |
 
-### L-Tryptophan
-Competes with other amino acids when crossing the BBB. Take this on an empty stomach or before eating things which contain protein.
-
-### L-Tyrosine
-Competes with other amino acids when crossing the BBB. Take this on an empty stomach or before eating things which contain protein.
+Note: RDAs and ULs are more or less for adults age 18-70.
 
 ## Prevent Health From Declining
 ### Non-Essential But Important Supplements
@@ -123,7 +104,7 @@ Competes with other amino acids when crossing the BBB. Take this on an empty sto
 - [Schizophrenia](Conditions%20and%20Syndromes/Schizophrenia.md)
 - [Stress](Conditions%20and%20Syndromes/Stress.md)
 
-### Prevention Via Disease Pathways
+### Disease Prevention Via Disease Pathways
 - [Dr. Peter Attia: Supplements for Longevity & Their Efficacy](https://www.youtube.com/watch?v=79p1X_7rAMo)
 
 #### SGLT-2 inhibitors
@@ -161,10 +142,18 @@ Aburto NJ, Hanson S, Gutierrez H, et al. Effect of increased potassium intake on
 ## Enhance Cognitive Ability
 - [Cognitive enhancement](../Cognitive%20Enhancement.md)
 
+## Enhance Athletic Ability
+
 ## Enhance Mood
+
+## Improve Skin
+
+## Improve Hair
 
 ## Increase Healthspan and Lifespan
 - [Ageing prevention](../Conditions%20and%20Syndromes/Aging.md)
+- [A synopsis on aging—Theories, mechanisms and future prospects](https://pmc.ncbi.nlm.nih.gov/articles/PMC5991498/)
+
 - [Aging and age‐related diseases: from mechanisms to therapeutic strategies](https://pmc.ncbi.nlm.nih.gov/articles/PMC7838467/)
 - [Molecular mechanisms of aging and anti-ageing strategies](https://biosignaling.biomedcentral.com/articles/10.1186/s12964-024-01663-1)
 
@@ -208,8 +197,9 @@ An imbalance in the microbiome—the community of microorganisms living in and o
 #### Disabled Macro-Autophagy
 
 ### Strategies
-| Name | Addresses | Dose | ROA        |
-| ---- | --------- | ---- | ---------- |
-| NMN  | NAD+ loss | 1g/d | Oral       |
-| NR   | NAD+ loss |      | Sublingual |
-|      |           |      |            |
+| Name | Addresses                 | Dose   | ROA        | Notes                                                               |
+| ---- | ------------------------- | ------ | ---------- | ------------------------------------------------------------------- |
+| PQQ  | Mitochondrial dysfunction | 20mg/d | Oral       | Might be classified as an essential vitamin in the future (source?) |
+| NMN  | NAD+ loss                 | 1g/d   | Oral       |                                                                     |
+| NR   | NAD+ loss                 |        | Sublingual |                                                                     |
+|      |                           |        |            |                                                                     |

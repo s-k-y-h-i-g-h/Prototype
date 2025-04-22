@@ -31,6 +31,15 @@
 - [Treating Sleep Problems in Patients with Schizophrenia](https://pubmed.ncbi.nlm.nih.gov/26751571/)
 > sleep problems in schizophrenia should be treated with evidence-based interventions, and that the interventions may have the added benefit of lessening the psychotic experiences
 
+# Low Tyrosine Availability in the Brain
+- [Support for limited brain availability of tyrosine in patients with schizophrenia.](https://psycnet.apa.org/record/2006-03259-012)
+> One line of research suggests that patients with schizophrenia have altered brain levels of the essential amino acid tyrosine, the precursor for the synthesis of dopamine. The most common hypothesis is that less tyrosine is available because of competition with elevated levels of other amino acids. By consequence, the synthesis of dopamine in the brain will decrease. In contrast, another line of evidence suggests a change in the affinity for one of the transport proteins.
+- [Kinetics of tyrosine transport and cognitive functioning in schizophrenia](https://www.academia.edu/18099659/Kinetics_of_tyrosine_transport_and_cognitive_functioning_in_schizophrenia)
+> A lack of tyrosine for dopamine synthesis with impairment of dopaminergic transmission could impair cognitive functioning. Aberrant tyrosine kinetics in patients with schizophrenia might therefore be associated with cognitive dysfunction—a core feature of schizophrenia.
+>  Changes in tyrosine transport probably influence cognitive functioning via the dopamine system.
+- [The transport of tyrosine into the human brain as determined with L-[1-11C]tyrosine and PET](https://www.academia.edu/93194032/The_transport_of_tyrosine_into_the_human_brain_as_determined_with_L_1_11C_tyrosine_and_PET)
+> the net utilization of tyrosine was lower in the patients (0.672nmol/g/min) than in the controls (0.883nmol/g/min) despite similar tissue concentrations of tyrosine
+
 # Treatments
 ## Ginko Biloba
 - [A Systematic Review and Meta-Analysis of Ginkgo biloba in Neuropsychiatric Disorders: From Ancient Tradition to Modern-Day Medicine](https://onlinelibrary.wiley.com/doi/10.1155/2013/915691)

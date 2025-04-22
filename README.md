@@ -37,7 +37,51 @@ A [transhumanist](https://en.wikipedia.org/wiki/Transhumanism) approach to life.
 - [Video games](Best%20Practices/Video%20Games.md)
 - [Heating](Best%20Practices/Heating.md)
 
-# My Stacks
+# Stacks
+## Modular Stacks
+Instead of coming up with one huge stack, we have broken things down into smaller goal orientated stacks. Some modules come in several flavours. If two stacks contain the same thing then only take that thing once - remove duplicates from the final stack that you are going to use.
+
+| Module Name          | Description                                                            |
+| -------------------- | ---------------------------------------------------------------------- |
+| [RDA](Stacks/Modules/RDA.md)   | Ensures that you are getting RDAs of essential nutrients               |
+| General Health       | Non-specific general body and brain health improvements                |
+| Longevity            | Substances which prevent/slow down the mechanisms of ageing            |
+| Cognition            | Improves cognitive ability                                             |
+| Memory               | Improves memory formation and recall                                   |
+| Mood                 | Reduces anxiety and depression, increases motivation and enhances mood |
+| Physical Performance | Improves athletic ability, stamina, physical power                     |
+| Skin                 | Reduces/prevents wrinkles, skin sagging and reduces blemishes          |
+| Hair                 | Prevents hair loss, helps hair regrowth, prevents grey hair            |
+| Stress Resistance    | Improves ability to deal with stress                                   |
+| Illness Prevention   | Reduces the risk of developing common illnesses                        |
+| Schizophrenia        | Reduces the symptoms of schizophreia                                   |
+| Autism               | Reduces the symptoms of autism                                         |
+| Anxiety              | Reduces social and general anxiety                                     |
+| Depression           | Reduces depression                                                     |
+
+```
+CatVader — 22:40
+Longevity - Biolab + Crispr. Stem cell renewal (step 1).
+for slowing down aging otherwise. matrix enhancement exercises is great.
+mainly. Nei gung tai chi.
+CatVader — 22:46
+also. matrix enhancement increases physical performance by alot...
+
+ijustwantyoutofeelsomething — 23:43
+so here's the genes you can target for longevity:
+TERT (telomerase reverse transcriptase): keeps telomeres long
+FOXO3a: controls stress resistance + longevity
+Klotho: neuroprotection, age delay
+SIRT1–7: sirtuins = mitochondrial integrity + DNA repair
+P53: tumor suppressor, but it’s a double edged blade, too active = early death, not enough = cancer buffet
+Yamanaka factors (OCT4, SOX2, KLF4, c-MYC): cellular reprogramming back to stem cell mode
+partial expression = rejuvenation
+full expression = congrats you’re a tumor now
+
+and yes people have done this look up Elizabeth Parrish (BioViva CEO): used gene therapy on herself in 2015 (TERT + myostatin inhibitor). Claimed telomere extension
+```
+
+## My Stacks
 - [Version 1](Stacks/v1.md)
 - [Version 2](Stacks/v2.md)
 - [Version 3](Stacks/v3.md)
