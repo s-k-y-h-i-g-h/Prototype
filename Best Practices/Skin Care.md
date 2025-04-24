@@ -21,6 +21,19 @@ It is much cheaper to buy lotion and mix in stuff like DMAE than it is to buy DM
 ## Galactose (Milk)
 - [Galactose-Induced Skin Aging: The Role of Oxidative Stress](https://pmc.ncbi.nlm.nih.gov/articles/PMC7317321/)
 
+## The Sun
+- Always use sunscreen outside to prevent DNA damage.
+
+> **MS Co-pilot**:
+> Yes, using sunscreen year-round is a smart move for skin protection! Even when it’s cloudy or cold, UV rays are still present and can cause premature aging, hyperpigmentation, and even skin cancer. Here’s why it makes sense:  
+> - **UV Exposure Happens Every Day** – Up to 80% of UV rays can penetrate clouds, meaning your skin is still at risk even in winter.  
+> - **Prevents Premature Aging** – UV rays break down collagen and elastin, leading to wrinkles and fine lines over time.  
+> - **Reduces Skin Cancer Risk** – Consistent sunscreen use has been shown to lower the risk of melanoma and other skin cancers.  
+> - **Protects Against Hyperpigmentation** – If you have acne scars, melasma, or age spots, sunscreen helps prevent them from darkening.  
+> - **Even Indoors, UVA Can Reach You** – UVA rays can penetrate windows, meaning you’re still exposed even when working inside.  
+> 
+> If you’re using retinoids or exfoliants, sunscreen is even more important, as these ingredients can make your skin more sensitive to UV damage.  
+
 # Temporary
 SeanRazz1212 — 24/03/2025 16:50
 Here are some of my targeted supplements for Skin Anti Aging - I can do a summary of why I take each one if people are interested:

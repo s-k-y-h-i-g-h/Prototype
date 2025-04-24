@@ -1,4 +1,6 @@
 # Start With the Basics
+**Remember to use AI to check your stack for interactions, stress on organs, toxicity and neurotoxicity. Do this every time you change it. Double check what it tells you in case it is hallucinating.**
+
 ## Essential Nutrients
 Make sure you are getting RDAs of essential nutrients.
 

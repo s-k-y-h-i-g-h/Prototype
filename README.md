@@ -41,23 +41,23 @@ A [transhumanist](https://en.wikipedia.org/wiki/Transhumanism) approach to life.
 ## Modular Stacks
 Instead of coming up with one huge stack, we have broken things down into smaller goal orientated stacks. Some modules come in several flavours. If two stacks contain the same thing then only take that thing once - remove duplicates from the final stack that you are going to use.
 
-| Module Name          | Description                                                            |
-| -------------------- | ---------------------------------------------------------------------- |
-| [RDA](Stacks/Modules/RDA.md)   | Ensures that you are getting RDAs of essential nutrients               |
-| General Health       | Non-specific general body and brain health improvements                |
-| Longevity            | Substances which prevent/slow down the mechanisms of ageing            |
-| Cognition            | Improves cognitive ability                                             |
-| Memory               | Improves memory formation and recall                                   |
-| Mood                 | Reduces anxiety and depression, increases motivation and enhances mood |
-| Physical Performance | Improves athletic ability, stamina, physical power                     |
-| Skin                 | Reduces/prevents wrinkles, skin sagging and reduces blemishes          |
-| Hair                 | Prevents hair loss, helps hair regrowth, prevents grey hair            |
-| Stress Resistance    | Improves ability to deal with stress                                   |
-| Illness Prevention   | Reduces the risk of developing common illnesses                        |
-| Schizophrenia        | Reduces the symptoms of schizophreia                                   |
-| Autism               | Reduces the symptoms of autism                                         |
-| Anxiety              | Reduces social and general anxiety                                     |
-| Depression           | Reduces depression                                                     |
+| Module Name                  | Description                                                            |
+| ---------------------------- | ---------------------------------------------------------------------- |
+| [RDA](Stacks/Modules/RDA.md) | Ensures that you are getting RDAs of essential nutrients               |
+| General Health               | Non-specific general body and brain health improvements                |
+| Longevity                    | Substances which prevent/slow down the mechanisms of ageing            |
+| Cognition                    | Improves cognitive ability                                             |
+| Memory                       | Improves memory formation and recall                                   |
+| Mood                         | Reduces anxiety and depression, increases motivation and enhances mood |
+| Physical Performance         | Improves athletic ability, stamina, physical power                     |
+| Skin                         | Reduces/prevents wrinkles, skin sagging and reduces blemishes          |
+| Hair                         | Prevents hair loss, helps hair regrowth, prevents grey hair            |
+| Stress Resistance            | Improves ability to deal with stress                                   |
+| Illness Prevention           | Reduces the risk of developing common illnesses                        |
+| Schizophrenia                | Reduces the symptoms of schizophreia                                   |
+| Autism                       | Reduces the symptoms of autism                                         |
+| Anxiety                      | Reduces social and general anxiety                                     |
+| Depression                   | Reduces depression                                                     |
 
 ```
 CatVader — 22:40
@@ -79,6 +79,15 @@ partial expression = rejuvenation
 full expression = congrats you’re a tumor now
 
 and yes people have done this look up Elizabeth Parrish (BioViva CEO): used gene therapy on herself in 2015 (TERT + myostatin inhibitor). Claimed telomere extension
+
+SkyHigh — 13:37
+which substances would you use if you were trying to become a world leader?
+srs question
+chinito — 13:50
+None
+ijustwantyoutofeelsomething — 13:54
+srs question deserves a srs answer so we'll need something for surviving the pressure of being Atlas while smiling at cameras things like: modafinil, low dose LSD or microdosed psilocybin, phenylpiracetam,  ashwagandha + rhodiola rosea, alpha GPC + uridine monophosphate, propranolol, selegiline (low dose), NAD+ precursors (like NMN) 
+and if the world’s gonna worship or hate you you need something that keeps your ego in check while amplifying vision Ibogaine or 5-MeO-DMT once or twice in your life just to see yourself die come back and remember why you're leading in the first place
 ```
 
 ## My Stacks
