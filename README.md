@@ -12,6 +12,7 @@ A [transhumanist](https://en.wikipedia.org/wiki/Transhumanism) approach to life.
 - **Essential nutrients**: Nutrients your body needs and cannot produce on its own.
 - **Nootropics**: 
 - **Green Pill/Green Pilled**: A process which dramatically transforms who a person is and what they are capable of. This is like *red pill/red pilled* but more practical and very much unlike *black pill/black pilled* which I won't even explain here because it is so horrible.
+- **Wakespan**: how much of the time that you are alive you spend being awake
 
 # Method
 - [Develop your stack](Best%20Practices/Develop%20Your%20Stack.md)
@@ -41,23 +42,24 @@ A [transhumanist](https://en.wikipedia.org/wiki/Transhumanism) approach to life.
 ## Modular Stacks
 Instead of coming up with one huge stack, we have broken things down into smaller goal orientated stacks. Some modules come in several flavours. If two stacks contain the same thing then only take that thing once - remove duplicates from the final stack that you are going to use.
 
-| Module Name                  | Description                                                            |
-| ---------------------------- | ---------------------------------------------------------------------- |
-| [RDA](Stacks/Modules/RDA.md) | Ensures that you are getting RDAs of essential nutrients               |
-| General Health               | Non-specific general body and brain health improvements                |
-| Longevity                    | Substances which prevent/slow down the mechanisms of ageing            |
-| Cognition                    | Improves cognitive ability                                             |
-| Memory                       | Improves memory formation and recall                                   |
-| Mood                         | Reduces anxiety and depression, increases motivation and enhances mood |
-| Physical Performance         | Improves athletic ability, stamina, physical power                     |
-| Skin                         | Reduces/prevents wrinkles, skin sagging and reduces blemishes          |
-| Hair                         | Prevents hair loss, helps hair regrowth, prevents grey hair            |
-| Stress Resistance            | Improves ability to deal with stress                                   |
-| Illness Prevention           | Reduces the risk of developing common illnesses                        |
-| Schizophrenia                | Reduces the symptoms of schizophreia                                   |
-| Autism                       | Reduces the symptoms of autism                                         |
-| Anxiety                      | Reduces social and general anxiety                                     |
-| Depression                   | Reduces depression                                                     |
+| Module Name                                                                      | Description                                                            |
+| -------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| [RDA](Stacks/Modules/RDA.md)                                                     | Ensures that you are getting RDAs of essential nutrients               |
+| General Health                                                                   | Non-specific general body and brain health improvements                |
+| Longevity                                                                        | Substances which prevent/slow down the mechanisms of ageing            |
+| Cognition                                                                        | Improves cognitive ability                                             |
+| Memory                                                                           | Improves memory formation and recall                                   |
+| Mood                                                                             | Reduces anxiety and depression, increases motivation and enhances mood |
+| Physical Performance                                                             | Improves athletic ability, stamina, physical power                     |
+| Skin                                                                             | Reduces/prevents wrinkles, skin sagging and reduces blemishes          |
+| Hair                                                                             | Prevents hair loss, helps hair regrowth, prevents grey hair            |
+| Stress Resistance                                                                | Improves ability to deal with stress                                   |
+| Illness Prevention                                                               | Reduces the risk of developing common illnesses                        |
+| [Schizophrenia](Stacks/Modules/Schizophrenia.md)                                 | Reduces the symptoms of schizophreia                                   |
+| [Schizophrenia (Experimental)](Stacks/Modules/Schizophrenia%20(Experimental).md) | Reduces the symptoms of schizophreia using experimental treatments     |
+| Autism                                                                           | Reduces the symptoms of autism                                         |
+| Anxiety                                                                          | Reduces social and general anxiety                                     |
+| Depression                                                                       | Reduces depression                                                     |
 
 ```
 CatVader — 22:40
