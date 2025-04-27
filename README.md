@@ -40,7 +40,7 @@ A [transhumanist](https://en.wikipedia.org/wiki/Transhumanism) approach to life.
 - [Heating](Best%20Practices/Heating.md)
 
 # Stacks
-## Modular Stacks
+## Modular Stack
 Instead of coming up with one huge stack, we have broken things down into smaller goal orientated stacks. Some modules come in several flavours. If two stacks contain the same thing then only take that thing once - remove duplicates from the final stack that you are going to use.
 
 | Module Name                                                                      | Description                                                            |
