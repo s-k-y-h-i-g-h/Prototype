@@ -1,4 +1,5 @@
-# Oxidative Stress
+# Characteristics
+## Oxidative Stress
 
 - [Oxidative stress in schizophrenia: An integrated approach - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0149763410001727)
 > Recent clinical studies have shown antioxidant treatment to be effective in ameliorating schizophrenic symptoms.
@@ -7,7 +8,7 @@
 - [Antioxidant treatments for schizophrenia - PubMed (nih.gov)](https://pubmed.ncbi.nlm.nih.gov/26848926/)
 - [Antioxidants | Free Full-Text | Schizophrenia Synaptic Pathology and Antipsychotic Treatment in the Framework of Oxidative and Mitochondrial Dysfunction: Translational Highlights for the Clinics and Treatment (mdpi.com)](https://www.mdpi.com/2076-3921/12/4/975)
 
-# Stress
+## Stress
 
 - [Could Stress Cause Psychosis in Individuals Vulnerable to Schizophrenia? - PMC (nih.gov)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2774708/)
 - [Patterns of stress in schizophrenia - PMC (nih.gov)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2487675/)
@@ -16,11 +17,11 @@
 - [Stress in Schizophrenics and Normals | The British Journal of Psychiatry | Cambridge Core](https://www.cambridge.org/core/journals/the-british-journal-of-psychiatry/article/abs/stress-in-schizophrenics-and-normals/B82AC4C80AA52DDAC35008F4C8D5B2AF)
 - [JCM | Free Full-Text | Cognitive Stress Regulation in Schizophrenia Patients and Healthy Individuals: Brain and Behavior (mdpi.com)](https://www.mdpi.com/2077-0383/12/7/2749)
 
-# Autonomic Dysfunction
+## Autonomic Dysfunction
 - [Autonomic nervous system dysfunction in schizophrenia: impact on cognitive and metabolic health - PMC (nih.gov)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8076312/)
 - [Early Signs of Schizophrenia and Autonomic Nervous System Dysregulation: A Literature Review - PMC (nih.gov)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8662712/)
 
-# Sleep
+## Sleep
 - [Targeting sleep oscillations to improve memory in schizophrenia](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7316628/)
 > Increasing spindles or sigma power (12-15 Hz), which corresponds to the spindle frequency band, either pharmacologically via zolpidem ... improves sleep-dependent memory consolidation
 - [Therapeutic use of melatonin in schizophrenia: A systematic review](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8394692/)
@@ -31,7 +32,7 @@
 - [Treating Sleep Problems in Patients with Schizophrenia](https://pubmed.ncbi.nlm.nih.gov/26751571/)
 > sleep problems in schizophrenia should be treated with evidence-based interventions, and that the interventions may have the added benefit of lessening the psychotic experiences
 
-# Low Tyrosine Availability in the Brain
+## Low Tyrosine Availability in the Brain
 - [Support for limited brain availability of tyrosine in patients with schizophrenia.](https://psycnet.apa.org/record/2006-03259-012)
 > One line of research suggests that patients with schizophrenia have altered brain levels of the essential amino acid tyrosine, the precursor for the synthesis of dopamine. The most common hypothesis is that less tyrosine is available because of competition with elevated levels of other amino acids. By consequence, the synthesis of dopamine in the brain will decrease. In contrast, another line of evidence suggests a change in the affinity for one of the transport proteins.
 - [Kinetics of tyrosine transport and cognitive functioning in schizophrenia](https://www.academia.edu/18099659/Kinetics_of_tyrosine_transport_and_cognitive_functioning_in_schizophrenia)
@@ -39,6 +40,11 @@
 >  Changes in tyrosine transport probably influence cognitive functioning via the dopamine system.
 - [The transport of tyrosine into the human brain as determined with L-[1-11C]tyrosine and PET](https://www.academia.edu/93194032/The_transport_of_tyrosine_into_the_human_brain_as_determined_with_L_1_11C_tyrosine_and_PET)
 > the net utilization of tyrosine was lower in the patients (0.672nmol/g/min) than in the controls (0.883nmol/g/min) despite similar tissue concentrations of tyrosine
+
+## Cytokine Alterations
+- [Cytokine Alterations in Schizophrenia: An Updated Review](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2019.00892/full)
+- [The Role of Cytokines in the Pathogenesis of Schizophrenia](https://www.mdpi.com/2077-0383/10/17/3849)
+- [Cytokine Imbalance in Schizophrenia. From Research to Clinic: Potential Implications for Treatment](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2021.536257/full)
 
 # Treatments
 ## Ginko Biloba
@@ -85,6 +91,7 @@
 ## Glycine
 
 ## Omega-3 Fatty Acids
+Reduce pro-inflammatory cytokines.
 
 ## Probiotics
 
@@ -97,6 +104,7 @@
 ## D-Alanine
 
 ## Melatonin
+Reduces pro-inflammatory cytokines.
 - [Therapeutic use of melatonin in schizophrenia: A systematic review](https://pubmed.ncbi.nlm.nih.gov/34513608/)
 > Adjunctive melatonin therapy has some positive outcomes for sleep, metabolic profile and tardive dyskinesia in patients with schizophrenia. No beneficial effect of melatonin was observed on outcomes of cognition or benzodiazepine discontinuation.
 - [Melatonin: an overlooked factor in schizophrenia and in the inhibition of anti-psychotic side effects](https://link.springer.com/article/10.1007/s11011-012-9307-9)
@@ -105,6 +113,35 @@
 ## Selegiline
 - [Selegiline in the treatment of negative symptoms of schizophrenia](https://www.cambridge.org/core/books/abs/progress-in-neurotherapeutics-and-neuropsychopharmacology/selegiline-in-the-treatment-of-negative-symptoms-of-schizophrenia/C719A20BB87FC348E20380D10906ECC5)
 > potential of selegiline to alleviate some of the parkinsonian-like emotional deficits of schizo-phrenics
+
+## Corticosteroids
+Reduce pro-inflammatory cytokines.
+
+## Statins
+Reduce pro-inflammatory cytokines.
+
+## Metformin
+Reduces pro-inflammatory cytokines.
+
+## Ashwagandha
+Reduces pro-inflammatory cytokines.
+
+## Bacopa Monnieri
+Reduces pro-inflammatory cytokines.
+
+## Citicholine
+Reduces pro-inflammatory cytokines.
+
+## Quercetine
+Reduces pro-inflammatory cytokines.
+- [18 Best Supplements to Reduce Cytokine Storm: Advanced Guide](https://onedaymd.aestheticsadvisor.com/2020/04/immune-nutrients-to-calm-cytokine-storm.html)
+
+## Curcumin
+Reduces pro-inflammatory cytokines.
+- [Can Nootropics Protect Against Neuroinflammation? Understanding the Role of Anti-Inflammatory Supplements](https://verybigbrain.com/nootropics/can-nootropics-protect-against-neuroinflammation-understanding-the-role-of-anti-inflammatory-supplements/)
+
+## NSAIDS
+Reduces pro-inflammatory cytokines.
 
 ## Other
 - [Will New Antipsychotics for Schizophrenia Be Game Changers?](https://www.psychologytoday.com/intl/blog/psych-unseen/202309/will-new-antipsychotics-for-schizophrenia-be-game-changers)
