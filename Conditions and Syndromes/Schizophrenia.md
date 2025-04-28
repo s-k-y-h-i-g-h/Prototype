@@ -1,6 +1,5 @@
 # Characteristics
 ## Oxidative Stress
-
 - [Oxidative stress in schizophrenia: An integrated approach - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0149763410001727)
 > Recent clinical studies have shown antioxidant treatment to be effective in ameliorating schizophrenic symptoms.
 > supplementation of omega-3 poly unsaturated fatty acids in combination with ascorbic acid and α-tocopherol is effective in improving psychopathology
@@ -9,7 +8,6 @@
 - [Antioxidants | Free Full-Text | Schizophrenia Synaptic Pathology and Antipsychotic Treatment in the Framework of Oxidative and Mitochondrial Dysfunction: Translational Highlights for the Clinics and Treatment (mdpi.com)](https://www.mdpi.com/2076-3921/12/4/975)
 
 ## Stress
-
 - [Could Stress Cause Psychosis in Individuals Vulnerable to Schizophrenia? - PMC (nih.gov)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2774708/)
 - [Patterns of stress in schizophrenia - PMC (nih.gov)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2487675/)
 - [Stress in schizophrenia: an integrative view - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0014299900005677)`
