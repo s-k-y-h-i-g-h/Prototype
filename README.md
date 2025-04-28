@@ -38,6 +38,7 @@ A [transhumanist](https://en.wikipedia.org/wiki/Transhumanism) approach to life.
 - [Test your results](Best%20Practices/Test%20Your%20Results.md)
 - [Video games](Best%20Practices/Video%20Games.md)
 - [Heating](Best%20Practices/Heating.md)
+- [Philosophy](Best%20Practices/Philosophy.md)
 
 # Stacks
 ## Modular Stack
