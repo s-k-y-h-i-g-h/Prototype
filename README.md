@@ -24,7 +24,7 @@ A [transhumanist](https://en.wikipedia.org/wiki/Transhumanism) approach to life.
 - [Bacteria](Best%20Practices/Bacteria%20Prevention.md)
 - [Breathing techniques](Best%20Practices/Breathing%20Techniques.md)
 - [Dental care](Best%20Practices/Dental%20Care.md)
-- [Exercise](Best%20Practices/Exercise.md)
+- [Fitness](Best%20Practices/Fitness.md)
 - [Hair care](Best%20Practices/Hair%20Care.md)
 - [Healthy BMI](Best%20Practices/Healthy%20BMI.md)
 - [Learning](Best%20Practices/Learning.md)
