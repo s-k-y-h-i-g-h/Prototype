@@ -118,9 +118,9 @@ and if the world’s gonna worship or hate you you need something that keeps you
 - [LongeCity](https://www.longecity.org/forum/page/index.html)
 
 ## Discord
-- [Transformers](https://discord.gg/MrxTZpAg)
-- [Biohacking - Neuropharmacology](https://discord.gg/BsZSPrve)
-- [The Biohacker Lounge](https://discord.gg/2Qm7htGR)
+- [Transformers](https://discord.gg/RxUeQuGc2e)
+- [Biohacking - Neuropharmacology](https://discord.gg/aymRwSBh)
+- [The Biohacker Lounge](https://discord.gg/c8dsgUuH)
 
 # Tools
 - Me
