@@ -31,7 +31,6 @@ A [transhumanist](https://en.wikipedia.org/wiki/Transhumanism) approach to life.
 - [Managing information](Best%20Practices/Managing%20Information.md)
 - [Meditation](Best%20Practices/Meditation.md)
 - [Microplastics](Best%20Practices/Microplastics.md)
-- [Posture](Best%20Practices/Posture.md)
 - [Self esteem](Best%20Practices/Self%20Esteem.md)
 - [Skin care](Best%20Practices/Skin%20Care.md)
 - [Sleep](Best%20Practices/Sleep.md)
@@ -39,6 +38,7 @@ A [transhumanist](https://en.wikipedia.org/wiki/Transhumanism) approach to life.
 - [Video games](Best%20Practices/Video%20Games.md)
 - [Heating](Best%20Practices/Heating.md)
 - [Philosophy](Best%20Practices/Philosophy.md)
+- [Security](Best%20Practices/Security.md)
 
 # Stacks
 ## Modular Stack

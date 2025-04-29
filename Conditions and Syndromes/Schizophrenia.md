@@ -168,6 +168,10 @@ Reduces pro-inflammatory cytokines.
 - [Acupuncture for schizophrenia](https://www.cochrane.org/CD005475/SCHIZ_acupuncture-for-schizophrenia)
 > This reviews looks at the effectiveness of various types of acupuncture as treatment for people with schizophrenia. An update search for studies was carried out in 2012 and found 30 studies that randomised **participants who were receiving antipsychotic medication to receive additional acupuncture** or standard care.
 
+## Speculative
+### Bromantane
+- Because it lowers cytokines and modulates dopamin
+
 # Treatments Under Investigation
 ## Polyamines and Spermidine
 - [ Implication of the polyamine system in mental disorders](https://www.jpn.ca/content/jpn/33/2/102.full.pdf?form=MG0AV3)

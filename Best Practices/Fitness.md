@@ -4,6 +4,14 @@ You want to do all of the things mentioned below, not just one or two of them. T
 - Effects on ageing
 - https://www.youtube.com/watch?v=OTrTqs9FLq0
 
+# Posture
+- https://medlineplus.gov/guidetogoodposture.html
+- https://ccp.net.au/upright-posture-and-mood
+
+## Things to Avoid
+### Sitting
+- Consider using a height-adjustable table
+
 # Stretching
 ## Benefits
 
