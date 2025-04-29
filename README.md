@@ -1,6 +1,6 @@
 # Introduction
 
-A [transhumanist](https://en.wikipedia.org/wiki/Transhumanism) approach to life.
+A [transhumanist](https://en.wikipedia.org/wiki/Transhumanism) [biohackers](https://www.biohacking.wiki/Main_Page) approach to life.
 
 ## Glossary
 - **Trans·hu·man·ism**  
@@ -111,6 +111,7 @@ and if the world’s gonna worship or hate you you need something that keeps you
 - [Lifespan.io](https://www.lifespan.io/)
 - [Bryan Johnson](https://en.wikipedia.org/wiki/Bryan_Johnson#Project_Blueprint)
 - [Bryan Johnson's Blueprint Protocol](https://protocol.bryanjohnson.com)
+- [Biohacking.wiki](https://www.biohacking.wiki/Main_Page)
 
 # Communities
 - [Reddit Nootropics](https://www.reddit.com/r/Nootropics/)
