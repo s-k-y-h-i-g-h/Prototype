@@ -7,13 +7,14 @@ Make sure you are getting RDAs of essential nutrients.
 Keep track of what you eat and assess the quantity of essential nutrients in you diet. A lot of people take a high quality multivitamin and other supplements because it is next to impossible to get all of the essential nutrients through diet alone.
 
 ### Glossary
-- **RDA**: Recommended Daily Allowance
-- **UL**: Tolerable Upper Intake Level
-- **ADMR**: Acceptable Macronutrient Distribution Range
+- **RDA**: Recommended daily allowance
+- **UL**: Tolerable upper intake level
+- **ADMR**: Acceptable macronutrient distribution range
 - **Vitamin**: 
 - **Mineral**:
 - **Amino acid**:
 - **Fatty acid**: 
+- **ROA**: Route of administration
 
 
 ### Table of Nutrients
@@ -175,48 +176,58 @@ Aburto NJ, Hanson S, Gutierrez H, et al. Effect of increased potassium intake on
 - [Molecular mechanisms of aging and anti-ageing strategies](https://biosignaling.biomedcentral.com/articles/10.1186/s12964-024-01663-1)
 
 ### Mechanisms of Ageing
-#### Genomic Instability
+#### Genomic Instability (GI)
 Accumulation of DNA damage over time, leading to errors in genetic information.
 
-#### Telomere Shortening
+#### Telomere Shortening (TS)
 Telomeres, the protective caps on chromosomes, shorten with each cell division, eventually leading to cellular senescence.
 
-#### Epigenetic Changes
+#### Epigenetic Changes (EC)
 Alterations in gene expression without changes to the DNA sequence, affecting cellular function.
 
-#### Loss of Proteostasis
+#### Loss of Proteostasis (LoP)
 Decline in the ability to maintain protein quality, leading to the accumulation of damaged or misfolded proteins.
 
-#### Mitochondrial Dysfunction
+#### Mitochondrial Dysfunction (MD)
 Reduced efficiency of mitochondria, the cell's energy producers, contributing to cellular ageing.
 
-#### Cellular Senescence
+#### Cellular Senescence (CS)
 Cells lose the ability to divide and function, releasing inflammatory signals that affect surrounding tissues.
 
-#### Stem Cell Exhaustion
+#### Stem Cell Exhaustion (SCE)
 Decline in the regenerative capacity of stem cells, impairing tissue repair and maintenance.
 
-#### Deregulated Nutrient Sensing
+#### Deregulated Nutrient Sensing (DNS)
 Disruption in pathways that regulate energy and metabolism, such as insulin signaling.
 
-#### Altered Intercellular Communication
+#### Altered Intercellular Communication (AIC)
 Changes in how cells communicate, often leading to chronic inflammation.
 
-#### Accumulation of Cellular Waste
+#### Accumulation of Cellular Waste (AoCW)
 
-#### NAD+ Loss
+#### NAD+ Loss (NL)
 
-#### Inflammation
+#### Inflammation (I)
 
-#### Dysbiosis
+#### Dysbiosis (D)
 An imbalance in the microbiome—the community of microorganisms living in and on your body. This imbalance can occur in various areas, such as the gut, skin, mouth, or genitals, and it can disrupt the beneficial functions these microbes provide.
 
-#### Disabled Macro-Autophagy
+#### Disabled Macro-Autophagy (DMA)
 
 ### Strategies
-| Name | Addresses                 | Dose   | ROA        | Notes                                                               |
-| ---- | ------------------------- | ------ | ---------- | ------------------------------------------------------------------- |
-| PQQ  | Mitochondrial dysfunction | 20mg/d | Oral       | Might be classified as an essential vitamin in the future (source?) |
-| NMN  | NAD+ loss                 | 1g/d   | Oral       |                                                                     |
-| NR   | NAD+ loss                 |        | Sublingual |                                                                     |
-|      |                           |        |            |                                                                     |
+| Name        | Dose         | ROA  | GI  | TS  | EC  | LoP | MD  | CS  | SCE | DNS | AIC | AoW | NL  | I   | D   | DMA | Notes          |
+| ----------- | ------------ | ---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | -------------- |
+| PQQ         | 20mg/d       | Oral | -   | -   | -   | -   | X   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -              |
+| NMN         | 1g/d         | Oral | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | X   | -   | -   | -   | NAD precusor   |
+| NR          | 1g/d         | Oral | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | X   | -   | -   | -   | NAD precursor  |
+| L-Carnosine | 500-2000mg/d | Oral | -   | X   | -   | X   | X   | X   | X   | -   | X   | -   | -   | -   | -   | -   | mTOR inhibitor |
+| Rapamycin   |              | Oral | -   | X   | -   | X   | X   | X   | X   | -   | X   | -   | -   | -   | -   | -   | mTOR inhibitor |
+| Sirolimus   |              | Oral | -   | X   | -   | X   | X   | X   | X   | -   | X   | -   | -   | -   | -   | -   | mTOR inhibitor |
+| Metformin   |              | Oral | X   | -   | -   | X   | X   | X   | -   | -   | X   | -   | -   | -   | -   | -   | -              |
+| Resveratrol |              | Oral | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -              |
+| Klotho      |              | Oral | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -              |
+| Taurine     |              | Oral | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -              |
+
+```
+| Template    |              | Oral | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -              |
+```
