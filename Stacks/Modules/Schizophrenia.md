@@ -20,7 +20,7 @@
 | N-Acetyl-Cysteine (NAC)                             | 666mg  | Breakfast | Oral | Anti-oxidant, anti-inflammatory                                                                  |                 |
 | Taurine                                             | 1g     | Breakfast | Oral | Enhances cholinergic activity, anti-inflammatory, anti-oxidant, modulates dopamine and serotonin |                 |
 | Sarcosine                                           | 666mg  | Lunch     | Oral | Enhance NMDA activity, anti-oxidant, anti-inflammatory                                           |                 |
-| N-Acetyl-Cysteine (NAC)                             | 666mg  | Breakfast | Oral | Anti-oxidant, anti-inflammatory                                                                  |                 |
+| N-Acetyl-Cysteine (NAC)                             | 666mg  | Lunch  | Oral | Anti-oxidant, anti-inflammatory                                                                  |                 |
 | Ginko biloba 50:1 extract                           | 120mg  | Dinner    | Oral | Anti-oxidant, cognitive enhancer, modulates dopamine and serotonin                               |                 |
 | Sarcosine                                           | 666mg  | Dinner    | Oral | Enhance NMDA activity, anti-oxidant, anti-inflammatory                                           |                 |
 | N-Acetyl-Cysteine (NAC)                             | 666mg  | Breakfast | Oral | Anti-oxidant, anti-inflammatory                                                                  |                 |
