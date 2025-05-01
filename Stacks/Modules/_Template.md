@@ -1,5 +1,3 @@
-# Notes
-
 # Targets
 - e.g. increase serotonin level
 
@@ -11,3 +9,5 @@
 # Practices
 
 # Treatments
+
+# Notes
