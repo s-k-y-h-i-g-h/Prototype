@@ -32,7 +32,7 @@ Olanzapine alone did not silence the voices I was hearing but this stack did (ev
 # Practices
 Avoid meditation practices which demand a lot of concentration. Some types of meditation can worsen psychosis.
 
-- **Mindfulness* meditation.
+- Mindfulness meditation.
 - Yoga Nidra.
 - Loving-kindness meditation.
 
