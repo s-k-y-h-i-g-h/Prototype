@@ -12,7 +12,7 @@ A [transhumanist](https://en.wikipedia.org/wiki/Transhumanism) [biohackers](http
 - **Essential nutrients**: Nutrients your body needs and cannot produce on its own.
 - **Nootropics**: 
 - **Green pill/green pilled**: A process which dramatically transforms who a person is and what they are capable of. This is like *red pill/red pilled* but more practical and very much unlike *black pill/black pilled* which I won't even explain here because it is so horrible.
-- **Wakespan**: how much of the time that you are alive you spend being awake.
+- **Wakespan**: How much of the time that you are alive you spend being awake.
 - **Mass manslaughter**: Cutting funding for disease prevention programs.
 
 # Method
