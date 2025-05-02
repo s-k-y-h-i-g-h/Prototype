@@ -2,6 +2,11 @@
 
 [Neurobiological Consequences of Sleep Deprivation - PMC (nih.gov)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3648777/)
 
+# Blue Light
+- Blue light suppresses melatonin production (the hormone which sends you to sleep)
+- Turn "night light" mode on on all of your devices at night
+- Use red LED lights everywhere (or multicoloured LED lights set to red/amber but this is not as good as using red LEDs)
+
 # Meditation
 
 - [Meditation and Its Regulatory Role on Sleep - PMC (nih.gov)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3328970/)

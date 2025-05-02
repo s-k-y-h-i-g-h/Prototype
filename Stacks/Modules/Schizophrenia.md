@@ -28,6 +28,7 @@
 
 Add whatever anti-psychotic you have been prescribed. Adjust magnesium dosage as needed after analysing your diet.
 
+## Anecdotal Report
 I experimented with lower doses after I had been on this stack for a while. My personal experience is that I need less Olanzapine (1/4 my prescribed dose) when taking this stack. YMMV.
 
 Olanzapine alone did not silence the voices I was hearing but this stack did (even when devoid of Olanzapine). I still take Olanzapine because the stack has not fixed the delusions.
