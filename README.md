@@ -63,37 +63,6 @@ Instead of coming up with one huge stack, we have broken things down into smalle
 | Anxiety                                                                          | Reduces social and general anxiety                                     |
 | Depression                                                                       | Reduces depression                                                     |
 
-```
-CatVader — 22:40
-Longevity - Biolab + Crispr. Stem cell renewal (step 1).
-for slowing down aging otherwise. matrix enhancement exercises is great.
-mainly. Nei gung tai chi.
-CatVader — 22:46
-also. matrix enhancement increases physical performance by alot...
-
-ijustwantyoutofeelsomething — 23:43
-so here's the genes you can target for longevity:
-TERT (telomerase reverse transcriptase): keeps telomeres long
-FOXO3a: controls stress resistance + longevity
-Klotho: neuroprotection, age delay
-SIRT1–7: sirtuins = mitochondrial integrity + DNA repair
-P53: tumor suppressor, but it’s a double edged blade, too active = early death, not enough = cancer buffet
-Yamanaka factors (OCT4, SOX2, KLF4, c-MYC): cellular reprogramming back to stem cell mode
-partial expression = rejuvenation
-full expression = congrats you’re a tumor now
-
-and yes people have done this look up Elizabeth Parrish (BioViva CEO): used gene therapy on herself in 2015 (TERT + myostatin inhibitor). Claimed telomere extension
-
-SkyHigh — 13:37
-which substances would you use if you were trying to become a world leader?
-srs question
-chinito — 13:50
-None
-ijustwantyoutofeelsomething — 13:54
-srs question deserves a srs answer so we'll need something for surviving the pressure of being Atlas while smiling at cameras things like: modafinil, low dose LSD or microdosed psilocybin, phenylpiracetam,  ashwagandha + rhodiola rosea, alpha GPC + uridine monophosphate, propranolol, selegiline (low dose), NAD+ precursors (like NMN) 
-and if the world’s gonna worship or hate you you need something that keeps your ego in check while amplifying vision Ibogaine or 5-MeO-DMT once or twice in your life just to see yourself die come back and remember why you're leading in the first place
-```
-
 ## My Stacks
 - [Version 1](Stacks/v1.md)
 - [Version 2](Stacks/v2.md)
@@ -131,6 +100,3 @@ and if the world’s gonna worship or hate you you need something that keeps you
 
 # How to Contribute
 Join [our Discord server](https://discord.gg/j43t5jAv).
-
-# Note
-Portions of this project were generated with assistance from Microsoft Copilot, an AI companion developed by Microsoft.

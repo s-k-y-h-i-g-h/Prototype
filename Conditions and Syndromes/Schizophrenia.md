@@ -172,6 +172,9 @@ Reduces pro-inflammatory cytokines.
 ### Bromantane
 - Because it lowers cytokines and modulates dopamin
 
+## Nefiracetam
+- Might reverse NMDA deficits
+
 # Treatments Under Investigation
 ## Polyamines and Spermidine
 - [ Implication of the polyamine system in mental disorders](https://www.jpn.ca/content/jpn/33/2/102.full.pdf?form=MG0AV3)
