@@ -17,6 +17,9 @@
 # Face/Body Lotions
 It is much cheaper to buy lotion and mix in stuff like DMAE than it is to buy DMAE containing lotions.
 
+# HBOT
+- [India's Air Pollution + Hyperbaric Oxygen Therapy | Don’t Die Podcast #2](https://www.youtube.com/watch?v=XVJaqRSrEZA)
+
 # Avoid
 ## Galactose (Milk)
 - [Galactose-Induced Skin Aging: The Role of Oxidative Stress](https://pmc.ncbi.nlm.nih.gov/articles/PMC7317321/)

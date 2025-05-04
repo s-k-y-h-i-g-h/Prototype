@@ -1,8 +1,3 @@
-TL;DR - breathe slowly to relax. People use so many fucking words to explain something so simple just skip the rest of this document tbh.
-
-Does sitting in a quiet room with your eyes closed make you aware of your breath or does reading that you should focus on your breath make you focus on your breath or does "focusing" on your breath make you aware of your breath? Which muscle are you using when you focus on a particular part of your body?
-
-# Do Not Read This
 - https://www.lung.org/blog/you-might-be-breathing-wrong
 
 > Proper breathing starts in the nose and then moves to the stomach as your diaphragm contracts, the belly expands and your lungs fill with air. "It is the most efficient way to breathe, as it pulls down on the lungs, creating negative pressure in the chest, resulting in air flowing into your lungs.”
