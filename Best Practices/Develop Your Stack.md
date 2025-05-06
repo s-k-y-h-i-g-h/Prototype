@@ -1,6 +1,8 @@
 # Start With the Basics
 **Remember to use AI to check your stack for interactions, stress on organs, toxicity and neurotoxicity. Do this every time you change it. Double check what it tells you in case it is hallucinating.**
 
+Check how long each substance lasts and figure out how often you should dose it for it to always be active in your body.
+
 ## Essential Nutrients
 Make sure you are getting RDAs of essential nutrients.
 
@@ -28,7 +30,7 @@ Keep track of what you eat and assess the quantity of essential nutrients in you
 - [Overview on Tolerable Upper Intake Levels as derived by the Scientific Committee on Food (SCF) and the EFSA Panel on Dietetic Products, Nutrition and Allergies (NDA)](https://www.efsa.europa.eu/sites/default/files/2024-05/ul-summary-report.pdf)
 - [Technical guidance on nutrition labelling](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/595961/Nutrition_Technical_Guidance.pdf)
 
-| Name                          | Type          | RDA (Males) | RDA (Females) | UL (Males)                | UL (Females)              | Primary Functions | Sources | Notes                                        |
+| Name                          | Type          | RDA (Males) | RDA (Females) | UL (Males)                     | UL (Females)                   | Primary Functions | Sources | Notes                                        |
 | ----------------------------- | ------------- | ----------- | ------------- | ------------------------------ | ------------------------------ | ----------------- | ------- | -------------------------------------------- |
 | Calcium                       | Mineral       | 1000mg      | 1000mg        | 2,500mg                        | 2,500mg                        |                   |         |                                              |
 | Magnesium                     | Mineral       | 420mg       | 320mg         | 350mg                          | 350mg                          |                   |         |                                              |
@@ -72,8 +74,6 @@ Keep track of what you eat and assess the quantity of essential nutrients in you
 | Fibre        | Macronutrient | 38g         | 25g           | N/A                      |                   |         |                                              |
 | Fat          | Macronutrient | 85g         | 65g           | 20-35% of total calories |                   |         |                                              |
 | Protein      | Macronutrient | 56g         | 46g           | 10-35% of total calories |                   |         |                                              |
-
-
 
 Note: RDAs and ULs are more or less for adults age 18-70.
 
