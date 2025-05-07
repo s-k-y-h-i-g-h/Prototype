@@ -155,14 +155,21 @@ Aburto NJ, Hanson S, Gutierrez H, et al. Effect of increased potassium intake on
 
 # Enhance Your Body and Brain Beyond Their Natural Capabilities
 
-## Enhance Stress Resistance
+## Braaaaains
+- **Memory (M)**
+- **Concentration (C)**
+- **Mood (Mo)**
+- **Motivation (Mot)**
+- **Anxiety (A)**
+- **Depression (D)**
+- **Stress resistance (S)**
+- **Creativity (C)**
 
-## Enhance Cognitive Ability
-- [Cognitive enhancement](../Cognitive%20Enhancement.md)
+| Name | M   | C   | Mo  | Mot | A   | D   | S   | C   | Dose | Solubility | Mechanisms |
+| ---- | --- | --- | --- | --- | --- | --- | --- | --- | ---- | ---------- | ---------- |
+|      |     |     |     |     |     |     |     |     |      |            |            |
 
-## Enhance Athletic Ability
-
-## Enhance Mood
+## Body (Athletic Performance)
 
 ## Improve Skin
 

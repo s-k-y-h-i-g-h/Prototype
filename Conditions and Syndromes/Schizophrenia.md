@@ -45,6 +45,10 @@
 - [Cytokine Imbalance in Schizophrenia. From Research to Clinic: Potential Implications for Treatment](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2021.536257/full)
 
 # Treatments
+## PQQ
+- [Modulating NMDA receptors to treat MK-801-induced schizophrenic cognition deficit: effects of clozapine combining with PQQ treatment and possible mechanisms of action](https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-020-02509-z)
+> Results indicated that clozapine and PQQ combination therapy can improve MK801-induced schizophrenia behavior including stereotyped behavior, locomotor hyperactivity and cognitive impairment. Furthermore, we found that modulating NMDA receptors could ameliorate the memory impairments in Mk-801 induced schizophrenia rats by reducing the expression of NMDAR1 and MGLUR3, decreasing hippocampal tau hyperphosphorylation and inhibiting apoptosis through Akt /GSK-3β signaling pathway.
+
 ## Ginko Biloba
 - [A Systematic Review and Meta-Analysis of Ginkgo biloba in Neuropsychiatric Disorders: From Ancient Tradition to Modern-Day Medicine](https://onlinelibrary.wiley.com/doi/10.1155/2013/915691)
 > [Ginko Biloba] treatment reduced positive symptoms in patients with schizophrenia and improved cognitive function and activities of daily living in patients with dementia.  

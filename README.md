@@ -39,6 +39,7 @@ A [transhumanist](https://en.wikipedia.org/wiki/Transhumanism) [biohackers](http
 - [Heating](Best%20Practices/Heating.md)
 - [Philosophy](Best%20Practices/Philosophy.md)
 - [Security](Best%20Practices/Security.md)
+- [Blinking](Best%20Practices/Blinking.md)
 
 # Stacks
 ## Modular Stack
