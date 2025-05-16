@@ -1,0 +1,1 @@
+Feminised body, feminised + masculinised brain: Darolutamide + TRT + HRT

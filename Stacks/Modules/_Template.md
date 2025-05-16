@@ -2,9 +2,9 @@
 - e.g. increase serotonin level
 
 # Stack
-| Substance | Amount | When? | ROA | Purpose | Example Product |
-| --------- | ------ | ----- | --- | ------- | --------------- |
-|           |        |       |     |         |                 |
+| Substance | Amount | When? | ROA | Purpose |
+| --------- | ------ | ----- | --- | ------- |
+|           |        |       |     |         |
 
 # Practices
 
