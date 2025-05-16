@@ -1,1 +1,1 @@
-Feminised body, feminised + masculinised brain: Darolutamide + TRT + HRT
+Feminised body, feminised + masculinised brain: Darolutamide + TRT + HRT (Darolutamide does not cross the BBB)
