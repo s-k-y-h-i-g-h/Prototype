@@ -172,12 +172,20 @@ Reduces pro-inflammatory cytokines.
 - [Acupuncture for schizophrenia](https://www.cochrane.org/CD005475/SCHIZ_acupuncture-for-schizophrenia)
 > This reviews looks at the effectiveness of various types of acupuncture as treatment for people with schizophrenia. An update search for studies was carried out in 2012 and found 30 studies that randomised **participants who were receiving antipsychotic medication to receive additional acupuncture** or standard care.
 
+## Experimental
+### JRT
+- [Molecular design of a therapeutic LSD analogue with reduced hallucinogenic potential](https://www.pnas.org/doi/full/10.1073/pnas.2416106122)
+> JRT, an exceptionally potent analogue of LSD with lower hallucinogenic potential, improved pharmacological selectivity, and the ability to produce a wide range of therapeutic effects. 
+
 ## Speculative
 ### Bromantane
-- Because it lowers cytokines and modulates dopamin
+- Because it lowers cytokines and modulates dopamine
 
 ## Nefiracetam
 - Might reverse NMDA deficits
+
+## Tabernathalog
+- Psychoplastogen like JRT
 
 # Treatments Under Investigation
 ## Polyamines and Spermidine
