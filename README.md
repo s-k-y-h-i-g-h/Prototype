@@ -48,7 +48,7 @@ Instead of coming up with one huge stack, we have broken things down into smalle
 | Module Name                                                                      | Description                                                            |
 | -------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
 | [RDAs](Stacks/Modules/RDA.md)                                                     | Ensures that you are getting RDAs of essential nutrients               |
-| [Essentials](Stacks/Modules/Essential.md)                                         | Non-specific general body and brain health improvements                |
+| [Essentials](Stacks/Modules/Essentials.md)                                         | Non-specific general body and brain health improvements                |
 | [Restoration Essentials](Stacks/Modules/Restoration%20Essentials.md)             | Restores normal levels of various things which decrease with age       |
 | Longevity                                                                        | Substances which prevent/slow down the mechanisms of ageing            |
 | Cognition                                                                        | Improves cognitive ability                                             |
