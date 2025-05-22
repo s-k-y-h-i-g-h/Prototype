@@ -70,6 +70,7 @@ Instead of coming up with one huge stack, we have broken things down into smalle
 - [Version 2](Stacks/v2.md)
 - [Version 3](Stacks/v3.md)
 - [Version 4](Stacks/v4.md)
+- [Version 5](Stacks/v5.md)
 
 # Resources
 # Books
