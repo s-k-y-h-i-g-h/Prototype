@@ -1,4 +1,12 @@
 # Start With the Basics
+I think that software development methodologies and techniques can successfully be used when you are developing a stack. You want to utilise iterative development. You want to log things like how productive you are, your mood, how much of each thing you are taking and when you are taking it (like using logs in software dev to aid debugging and metrics in product development to know which direction to take the product in). You want to decide on which recurring tasks are essential for your life and use adherence to or absence from them as "unit tests" which tell you if you are achieving what you need or if "the website is down".
+
+I am trying to teach people how to think when they are biohacking.
+
+I think this discipline is still in it's early days and like when software engineering was still new it lacks "industry" best practices. 
+
+Writing good clean code when you are working on yourself isn't just essential - it may well save your life.
+
 **Remember to use AI to check your stack for interactions, stress on organs, toxicity and neurotoxicity. Do this every time you change it. Double check what it tells you in case it is hallucinating.**
 
 Check how long each substance lasts and figure out how often you should dose it for it to always be active in your body.

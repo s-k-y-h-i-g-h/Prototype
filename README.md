@@ -47,8 +47,8 @@ Instead of coming up with one huge stack, we have broken things down into smalle
 
 | Module Name                                                                      | Description                                                            |
 | -------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
-| [RDAs](Stacks/Modules/RDA.md)                                                     | Ensures that you are getting RDAs of essential nutrients               |
-| [Essentials](Stacks/Modules/Essentials.md)                                         | Non-specific general body and brain health improvements                |
+| [RDAs](Stacks/Modules/RDA.md)                                                    | Ensures that you are getting RDAs of essential nutrients               |
+| [Essentials](Stacks/Modules/Essentials.md)                                       | Non-specific general body and brain health improvements                |
 | [Restoration Essentials](Stacks/Modules/Restoration%20Essentials.md)             | Restores normal levels of various things which decrease with age       |
 | Longevity                                                                        | Substances which prevent/slow down the mechanisms of ageing            |
 | Cognition                                                                        | Improves cognitive ability                                             |
@@ -84,6 +84,7 @@ Instead of coming up with one huge stack, we have broken things down into smalle
 - [Bryan Johnson](https://en.wikipedia.org/wiki/Bryan_Johnson#Project_Blueprint)
 - [Bryan Johnson's Blueprint Protocol](https://protocol.bryanjohnson.com)
 - [Biohacking.wiki](https://www.biohacking.wiki/Main_Page)
+- [NootropicsDAO](https://nootropicsdao.com/)
 
 # Communities
 - [Reddit Nootropics](https://www.reddit.com/r/Nootropics/)
@@ -93,6 +94,7 @@ Instead of coming up with one huge stack, we have broken things down into smalle
 - [Transformers](https://discord.gg/RxUeQuGc2e)
 - [Biohacking - Neuropharmacology](https://discord.gg/aymRwSBh)
 - [The Biohacker Lounge](https://discord.gg/c8dsgUuH)
+- [NootropicsDAO](https://discord.gg/s2pqvpJd)
 
 # Tools
 - Me

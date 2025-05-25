@@ -38,3 +38,4 @@
 - [Labs24](https://www.labs24.net/)
 - [Realchems](https://realchems.net/)
 - [indiamart](https://www.indiamart.com/)
+- [CAROLINA CHEMICAL](https://carolinachemical.com/)
