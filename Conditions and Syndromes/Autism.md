@@ -27,3 +27,7 @@
 ## Oxytocin
 
 ## LIT-001
+
+## Speculative
+- [Hormone Supplementation in Rhesus Monkeys Shows Potential for Autism Treatment](https://www.msn.com/en-gb/health/other/hormone-supplementation-in-rhesus-monkeys-shows-potential-for-autism-treatment/ar-AA1FtnlF)
+> Some rhesus monkeys naturally exhibit low-social tendencies, similar to individuals with autism spectrum disorder. Scientists found that these monkeys had lower vasopressin levels in their cerebrospinal fluid. By administering nebulized vasopressin, researchers observed significant improvements in social interactions, including increased engagement and recognition of familiar faces.
