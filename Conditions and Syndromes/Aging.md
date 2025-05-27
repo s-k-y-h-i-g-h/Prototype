@@ -223,6 +223,12 @@ To get it down:
 - [Senolytic Treatment with Dasatinib and Quercetin Confirmed to Reduce the Burden of Senescent Cells in Human Patients](https://www.fightaging.org/archives/2019/09/senolytic-treatment-with-dasatinib-and-quercetin-confirmed-to-reduce-the-burden-of-senescent-cells-in-human-patients/)
 > the combination of dasatinib and quercetin is the oldest of the senolytic treatments used in animal studies. Senolytic therapies are those that selectively destroy senescent cells in old tissues in order to produce rejuvenation, turning back the progression of numerous age-related conditions.
 
+## Genistein
+- [New Study: Dietary Genistein Extends Mouse Healthspan and Lifespan by 10%](https://www.nmn.com/news/new-study-dietary-genistein-extends-mouse-healthspan-and-lifespan-by-10?utm_source=chatgpt.com)
+> - Genistein-fed mice demonstrated a 9.2% increase in maximum lifespan and a 10.0% increase in mean lifespan. 
+> - Genistein decreased the incidence and severity of aging phenotypes and delayed morbidity. 
+> - Microbiota from genistein-fed mice rejuvenated the aging gut and extended the lifespan of prematurely aging (progeroid) mice. 
+
 ## Avoid Sugar
 - [A New Study Shows That Sugar Consumption May Be Related To Faster Aging](https://www.forbes.com/sites/saibala/2024/07/31/a-new-study-shows-that-sugar-consumption-may-be-related-to-faster-aging/)
 
