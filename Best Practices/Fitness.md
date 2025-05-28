@@ -8,6 +8,12 @@ You want to do all of the things mentioned below, not just one or two of them. T
 - https://medlineplus.gov/guidetogoodposture.html
 - https://ccp.net.au/upright-posture-and-mood
 
+# Breathing
+- [If You Aren’t Breathing Like This, You’re Sabotaging Your Workout](https://www.healthline.com/health/fitness-exercise/when-to-inhale-and-exhale-during-exercise)
+> The general rule of thumb is to inhale through your nose, so the air enters your belly, right before the eccentric (muscle-lengthening) part of the motion.
+> 
+> Exhale during the concentric (muscle-shortening) part of the motion completely through your mouth.
+
 ## Things to Avoid
 ### Sitting
 - Consider using a height-adjustable table
