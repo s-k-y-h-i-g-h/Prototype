@@ -4,7 +4,7 @@
 # Vendors
 - [Umbrella Labs](https://umbrellalabs.is/)
 - [NONSENSIA](https://modafinil.pl/)
-- [PCT Zone](https://pct.zone)
+- [PCT.ZONE](https://pctzone.ru/)
 - [Kratom Bird](https://www.kratombird.com/)
 - [BUY-PHARMA.MD](https://www.buy-pharma.md/)
 - [BIONOOTROPICS](https://bionootropics.com/)

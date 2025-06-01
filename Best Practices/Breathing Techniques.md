@@ -9,7 +9,7 @@
 
 # Techniques
 ## General
-- (Five Ways You Might Be Breathing Wrong)[https://www.lung.org/blog/you-might-be-breathing-wrong]
+- [Five Ways You Might Be Breathing Wrong](https://www.lung.org/blog/you-might-be-breathing-wrong)
 > Proper breathing starts in the nose and then moves to the stomach as your diaphragm contracts, the belly expands and your lungs fill with air. "It is the most efficient way to breathe, as it pulls down on the lungs, creating negative pressure in the chest, resulting in air flowing into your lungs.”
 
 ## Pursed Lip Breathing
@@ -65,3 +65,12 @@
 
 ## Circular Breathing
 - [Decreased CO2 saturation during circular breathwork supports emergence of altered states of consciousness](https://www.nature.com/articles/s44271-025-00247-0)
+
+# Benefits
+## Stress Reduction
+- [Effect of breathwork on stress and mental health: A meta-analysis of randomised-controlled trials](https://www.nature.com/articles/s41598-022-27247-y)
+> The random-effects analysis yielded a significant small-to-medium mean effect size, g = − 0.35 [95% CI − 0.55, − 0.14], z = 3.32, p = 0.0009, showing breathwork was associated with lower levels of stress than control conditions
+
+## Mental Health Improvement
+- [Effect of breathwork on stress and mental health: A meta-analysis of randomised-controlled trials](https://www.nature.com/articles/s41598-022-27247-y)
+> Meta-analyses for secondary outcomes of self-reported/subjective anxiety (k = 20) and depressive symptoms (k = 18) showed ... significant effect sizes: g = − 0.32, p < 0.0001, and g = − 0.40, p < 0.0001, respectively.
