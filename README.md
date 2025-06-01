@@ -11,7 +11,7 @@ A [transhumanist](https://en.wikipedia.org/wiki/Transhumanism) [biohackers](http
 - **Stack**: A combination of substances which provide various benefits which are taken together. Most substances are consumed daily. Some substances are consumed several times a day.
 - **Essential nutrients**: Nutrients your body needs and cannot produce on its own.
 - **Nootropics**: 
-- **Green pill/green pilled**: A process which dramatically transforms who a person is and what they are capable of. This is like *red pill/red pilled* but more practical and very much unlike *black pill/black pilled* which I won't even explain here because it is so horrible.
+- **Green pill/green pilled**: This is like *red pill/red pilled* except that it refers to knowledge and use of biohacking. *Green* pill - *bio*hacking.
 - **Wakespan**: How much of the time that you are alive you spend being awake.
 
 # Method
@@ -40,6 +40,23 @@ A [transhumanist](https://en.wikipedia.org/wiki/Transhumanism) [biohackers](http
 - [Philosophy](Best%20Practices/Philosophy.md)
 - [Security](Best%20Practices/Security.md)
 - [Blinking](Best%20Practices/Blinking.md)
+
+## Fix Specific Issues
+- [Addiction](Conditions/Addiction.md)
+- [Ageing](Conditions/Ageing.md)
+- [Anxiety](Conditions/Anxiety.md)
+- [Autism](Conditions/Autism.md)
+- [Borderline Personality Disorder (BPD)](Conditions/Borderline%20Personality%20Disorder.md)
+- [Depression](Conditions/Depression.md)
+- [Diabetes](Conditions/Diabetes.md)
+- [Drug neurotoxicity](Conditions/Drug%20Neurotoxicity.md)
+- [Gender Dysphoria](Conditions/Gender%20Dysphoria.md)
+- [Heart attacks](Conditions/Heart%20Attacks.md)
+- [Herpes Simplex](Conditions/Herpes%20Simplex.md)
+- [Obesity](Conditions/Obesity.md)
+- [Schizophrenia](Conditions/Schizophrenia.md)
+- [Stress](Conditions/Stress.md)
+- [Strokes](Conditions/Strokes.md)
 
 # Stacks
 ## Modular Stack

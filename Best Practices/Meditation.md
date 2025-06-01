@@ -15,7 +15,7 @@
 ## Mantra
 
 ## Yoga Nidra
-
+- Use a blindfold to make it more effective
 - [Increased dopamine tone during meditation-induced change of consciousness - PubMed (nih.gov)](https://pubmed.ncbi.nlm.nih.gov/11958969/)
 
 ## Sant Mat
