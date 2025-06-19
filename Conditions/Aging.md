@@ -98,6 +98,10 @@ These are inter-dependent. Fixing one helps fix the others. (source?)
 ## Rapamycin
 - [Rapamycin for longevity: opinion article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6814615/)
 
+## Trametinib
+- [A triple drug combination targeting components of the nutrient-sensing network maximizes longevity](https://pmc.ncbi.nlm.nih.gov/articles/PMC6800352/)
+> the mitogen-activated protein kinase kinase (MEK) inhibitor trametinib, the mTOR complex 1 (mTORC1) inhibitor rapamycin, and the glycogen synthase kinase-3 (GSK-3) inhibitor lithium act additively to increase longevity in Drosophila. Remarkably, the triple drug combination increased lifespan by 48%
+
 ## Magnolia Officinalis Extract (Honokiol)
 - [Identification of senescence rejuvenation mechanism of Magnolia officinalis extract including honokiol as a core ingredient](https://pubmed.ncbi.nlm.nih.gov/39992207/)
 

@@ -74,3 +74,6 @@
 ## Mental Health Improvement
 - [Effect of breathwork on stress and mental health: A meta-analysis of randomised-controlled trials](https://www.nature.com/articles/s41598-022-27247-y)
 > Meta-analyses for secondary outcomes of self-reported/subjective anxiety (k = 20) and depressive symptoms (k = 18) showed ... significant effect sizes: g = − 0.32, p < 0.0001, and g = − 0.40, p < 0.0001, respectively.
+
+# Videos
+- [The Neuroscience of Breath: How to Use Breathing to Control Emotions](https://www.youtube.com/watch?v=rPXuhXndOZc)

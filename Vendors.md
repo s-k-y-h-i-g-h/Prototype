@@ -39,3 +39,4 @@
 - [Realchems](https://realchems.net/)
 - [indiamart](https://www.indiamart.com/)
 - [CAROLINA CHEMICAL](https://carolinachemical.com/)
+- [SEMAX POLSKA](https://semaxpolska.com/)
