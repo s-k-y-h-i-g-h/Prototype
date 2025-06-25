@@ -151,9 +151,13 @@ These are inter-dependent. Fixing one helps fix the others. (source?)
 ## Heterochronic Hematopoietic Stem Cell Replacement
 - [Combining rejuvenation interventions in rodents: a milestone in biomedical gerontology whose time has come](https://www.tandfonline.com/doi/pdf/10.1080/14728222.2024.2330425)
 
-## NMN and NR
+## NMNH/NMN/NR
 - [Dr. David Sinclair: The Biology of Slowing & Reversing Aging](https://www.youtube.com/watch?v=n9IxomBusuw&t=3s)
 > [take 1-2g NMN/day]
+
+Bioavailablity is best with NMNH, ok with NMN, bad with NR. Liposomal NMNH has the highest bioavailablity.
+
+- [Reduced nicotinamide mononucleotide is a new and potent NAD+ precursor in mammalian cells and mice](https://pubmed.ncbi.nlm.nih.gov/33724555/)
 
 ### Risks
 - [Metabolite accumulation from oral NMN supplementation drives aging-specific kidney inflammation](https://pubmed.ncbi.nlm.nih.gov/38645109/)
@@ -161,6 +165,8 @@ These are inter-dependent. Fixing one helps fix the others. (source?)
 ## Resveratrol
 - [Dr. David Sinclair: The Biology of Slowing & Reversing Aging](https://www.youtube.com/watch?v=n9IxomBusuw&t=3s)
 > [1000mg/day with food]
+
+Liposomal resveratrol has better bioavailability.
 
 ## Oleic acid
 - [Is fat a key to longevity?](https://www.nature.com/articles/nrm.2017.45)
@@ -186,6 +192,8 @@ To get it down:
 ## Fisetin
 - [How does fisetin improve longevity?](https://longevity.technology/lifestyle/how-does-fisetin-improve-longevity)
 > Many research studies on longevity and antiaging have included fisetin as a potential substance from plants to prolong lifespan. Fisetin can potentially increase lifespan by 10 percent by reversing aging’s natural process and preventing diseases related to aging. 
+
+Use liposomal fisetin for better bioavailability.
 
 ## Phytoene
 - [Food Compound May Extend Lifespan and Reduce Alzheimer’s Symptoms](https://neurosciencenews.com/phytoene-longevity-alzheimers-27695/)

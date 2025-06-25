@@ -1,0 +1,1 @@
+- [Vaping is more toxic than smoking, research now suggests](https://www.msn.com/en-gb/health/medical/vaping-is-more-toxic-than-smoking-research-now-suggests/ar-AA1HoEwr)

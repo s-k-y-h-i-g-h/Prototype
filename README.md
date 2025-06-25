@@ -40,6 +40,8 @@ A [transhumanist](https://en.wikipedia.org/wiki/Transhumanism) [biohackers](http
 - [Philosophy](Best%20Practices/Philosophy.md)
 - [Security](Best%20Practices/Security.md)
 - [Blinking](Best%20Practices/Blinking.md)
+- [Diet](Best%20Practices/Diet.md)
+- [Vaping](Best%20Practices/Vaping.md)
 
 ## Fix Specific Issues
 - [Addiction](Conditions/Addiction.md)
