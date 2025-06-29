@@ -23,7 +23,18 @@
 
 These are inter-dependent. Fixing one helps fix the others. (source?)
 
+- [Hallmarks of aging: An expanding universe](https://www.cell.com/cell/fulltext/S0092-8674(22)01377-0)
+This adds three more hallmarks:
+- Disabled macroautophagy
+- Chronic inflammation
+- Dysbiosis
+
 - [Israeli study links blood sugar levels, brain aging process](https://www.ynetnews.com/health_science/article/sygjvxrzje)
+
+## Information Theory of Ageing
+- [David Sinclair: DNA Tagging, rather than DNA Damage, Drives Aging and Is Reversible](https://www.nad.com/news/harvard-professor-david-sinclairs-information-theory-of-aging)
+- [Loss of Epigenetic Information Can Drive Aging, Restoration Can Reverse It](https://hms.harvard.edu/news/loss-epigenetic-information-can-drive-aging-restoration-can-reverse)
+- [David Sinclair: Epigenetic Info Loss Is a Cause of Aging](https://www.lifespan.io/news/david-sinclair-epigenetic-info-loss-is-a-cause-of-aging/)
 
 # Longevity Treatments
 | Name | Dose Range | Mechanisms | Restores declining levels? | Notes |
@@ -95,6 +106,13 @@ These are inter-dependent. Fixing one helps fix the others. (source?)
 > - Lithium
 > - Next-generation rapalogs
 
+## The Interventions Testing Program (ITP)
+- [About the ITP](https://www.nia.nih.gov/research/dab/interventions-testing-program-itp/about-itp)
+> The ITP started in 2002, with the DCC added in 2019. In that time, the ITP has identified twelve agents that significantly increase median lifespan — acarbose (Harrison 2014, Strong 2016, Harrison 2019), aspirin (Strong 2008), astaxanthin (Harrison 2024), canagliflozin (Miller 2020), captopril (Strong, 2022), glycine (Miller 2019), meclizine (Harrison 2024), nordihydroguaiaretic acid (NDGA) (Strong 2008, Strong 2016), Protandim® (Strong 2016), rapamycin (Harrison 2009, Miller 2011, Wilkinson 2012, Miller 2014), 16-hydroxyestriol (Miller 2024), and 17α-estradiol (Harrison 2014, Strong 2016, Harrison 2021).
+
+## Epigenetic Reprogramming
+- [Harvard Prof Reveals Age-Reversing Science to Look & Feel Younger w/ David Sinclair](https://www.youtube.com/watch?v=1l3lGy07Fgo&t=2057s)
+
 ## Rapamycin
 - [Rapamycin for longevity: opinion article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6814615/)
 
@@ -165,6 +183,8 @@ Bioavailablity is best with NMNH, ok with NMN, bad with NR. Liposomal NMNH has t
 ## Resveratrol
 - [Dr. David Sinclair: The Biology of Slowing & Reversing Aging](https://www.youtube.com/watch?v=n9IxomBusuw&t=3s)
 > [1000mg/day with food]
+
+- [Resveratrol: A Review of Human Clinical Trials](https://renuebyscience.com/blogs/research/unlocking-the-benefits-of-resveratrol-a-review-of-human-clinical-trials)
 
 Liposomal resveratrol has better bioavailability.
 

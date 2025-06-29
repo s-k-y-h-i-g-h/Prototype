@@ -1,0 +1,2 @@
+- [Effects of NMDA receptor channel blockers, dizocilpine and memantine, on the development of opiate analgesic tolerance induced by repeated morphine exposures or social defeats in mice ](https://www.academia.edu/3815642/Effects_of_NMDA_receptor_channel_blockers_dizocilpine_and_memantine_on_the_development_of_opiate_analgesic_tolerance_induced_by_repeated_morphine_exposures_or_social_defeats_in_mice)
+> memantine [is] effective in preventing the development of repeated morphine-induced tolerance to acute morphine analgesia.

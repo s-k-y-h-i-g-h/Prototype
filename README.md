@@ -42,6 +42,7 @@ A [transhumanist](https://en.wikipedia.org/wiki/Transhumanism) [biohackers](http
 - [Blinking](Best%20Practices/Blinking.md)
 - [Diet](Best%20Practices/Diet.md)
 - [Vaping](Best%20Practices/Vaping.md)
+- [Laughing](Best%20Practices/Laughing.md)
 
 ## Fix Specific Issues
 - [Addiction](Conditions/Addiction.md)
@@ -95,6 +96,7 @@ Instead of coming up with one huge stack, we have broken things down into smalle
 # Books
 - [Medical Improvement of the Cognitive Brain Function by Arushanian](https://cosmicnootropic.com/wp-content/uploads/2023/08/Books-about-Nootropics.-Arushanian_final-with-the-cover.pdf)
 - [Biohacking Bible - A Neuropharmacology Encyclopedia](https://ryderlefeg.gumroad.com/l/biohackingbible)
+- [Lifespan: The Revolutionary Science of Why We Ageand Why We Don't Have to](https://www.amazon.co.uk/Lifespan-Revolutionary-Science-Ageand-Dont/dp/1982135875)
 
 # Videos
 

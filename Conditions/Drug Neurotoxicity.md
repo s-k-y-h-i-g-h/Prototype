@@ -39,3 +39,9 @@
 
 # Opioid Neurotoxicity
 - https://www.sciencedirect.com/science/article/abs/pii/S0079612315001107
+
+## Kratom
+- [Kratom Neurotoxicity](https://www.ajnr.org/ajnr-case-collections-diagnosis/kratom-neurotoxicity)
+> Long-term misuse of kratom may present with nonfocal neuropathies, seizures, hepatotoxicity, and rhabdomyolysis.
+> Presenting symptoms reported in the literature include nondermatomal sensory and motor neuropathies, ataxia, seizures, hepatotoxicity, and rhabdomyolysis.
+> Symptoms are more frequent and severe with higher doses of kratom abuse and typically gradually improve following cessation.

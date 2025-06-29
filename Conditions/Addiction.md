@@ -8,7 +8,7 @@
 - [Baclofen](https://psychonautwiki.org/wiki/Baclofen)
 > Addiction suppression - Baclofen is also used for alcoholism treatment.
 
-# Opioid
+# Opioids
 ## Withdrawal
 - https://www.nature.com/articles/1395592
 > acute morphine administration increases serotonin (5-HT) transmission within the nucleus accumbens and other forebrain region
@@ -20,7 +20,25 @@
 - restless on Discord
 > Honestly anyone using opioids needs to know about uldn, Agmatine, gb, and sr-17018 ... (Supposedly a miracle drug for opioid tolerance and withdrawal, like can essentially eliminate it.)
 
+## Depenence Prevention
+- [Effects of NMDA receptor channel blockers, dizocilpine and memantine, on the development of opiate analgesic tolerance induced by repeated morphine exposures or social defeats in mice](https://www.academia.edu/3815642/Effects_of_NMDA_receptor_channel_blockers_dizocilpine_and_memantine_on_the_development_of_opiate_analgesic_tolerance_induced_by_repeated_morphine_exposures_or_social_defeats_in_mice)
+>  [memantine attenuates] establishment and/or expression of morphine ... dependence
+
 # Alcohol
 - Benzodiazapines
 - [Baclofen for the Treatment of Alcohol Use Disorder](https://www.aafp.org/pubs/afp/issues/2023/0500/mbtn-alcohol-use-disorder.html)
 - [Baclofen Side Effects & Uses in Addiction Treatment](https://americanaddictioncenters.org/addiction-medications/baclofen)
+
+## Depenence Prevention
+- [Effects of NMDA receptor channel blockers, dizocilpine and memantine, on the development of opiate analgesic tolerance induced by repeated morphine exposures or social defeats in mice](https://www.academia.edu/3815642/Effects_of_NMDA_receptor_channel_blockers_dizocilpine_and_memantine_on_the_development_of_opiate_analgesic_tolerance_induced_by_repeated_morphine_exposures_or_social_defeats_in_mice)
+>  [memantine attenuates] establishment and/or expression of ... ethanol ... dependence
+
+# Barbituates
+- [Effects of NMDA receptor channel blockers, dizocilpine and memantine, on the development of opiate analgesic tolerance induced by repeated morphine exposures or social defeats in mice](https://www.academia.edu/3815642/Effects_of_NMDA_receptor_channel_blockers_dizocilpine_and_memantine_on_the_development_of_opiate_analgesic_tolerance_induced_by_repeated_morphine_exposures_or_social_defeats_in_mice)
+## Depenence Prevention
+>  [memantine attenuates] establishment and/or expression of ... barbiturate ... dependence
+
+# Benzodiazapines
+- [Effects of NMDA receptor channel blockers, dizocilpine and memantine, on the development of opiate analgesic tolerance induced by repeated morphine exposures or social defeats in mice](https://www.academia.edu/3815642/Effects_of_NMDA_receptor_channel_blockers_dizocilpine_and_memantine_on_the_development_of_opiate_analgesic_tolerance_induced_by_repeated_morphine_exposures_or_social_defeats_in_mice)
+## Depenence Prevention
+>  [memantine attenuates] establishment and/or expression of ... barbiturate ... dependence
