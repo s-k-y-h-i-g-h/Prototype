@@ -74,3 +74,9 @@ Paulas Choice Youth Extending Hydrating Fluid SPF 50 (Reapply every 2 hrs in sun
 Panama Jack SPF 40 Lip Balm
 Wide Rimmed 99% UV Protective Spy Optic Glasses
 (Avoid sun when possible, especially during high UV times)
+
+# HRT
+Pregnancy-range hormone levels are known to:
+> - Preserve skin thickness
+> - Enhance collagen synthesis
+> - Reduce transepidermal water loss
