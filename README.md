@@ -43,6 +43,7 @@ A [transhumanist](https://en.wikipedia.org/wiki/Transhumanism) [biohackers](http
 - [Diet](Best%20Practices/Diet.md)
 - [Vaping](Best%20Practices/Vaping.md)
 - [Laughing](Best%20Practices/Laughing.md)
+- [Conditioning](Best%20Practices/Conditioning.md)
 
 ## Fix Specific Issues
 - [Addiction](Conditions/Addiction.md)
