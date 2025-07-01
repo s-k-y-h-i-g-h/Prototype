@@ -1,0 +1,1 @@
+- social isolation is bad for health

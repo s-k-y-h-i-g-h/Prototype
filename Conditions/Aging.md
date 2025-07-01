@@ -23,6 +23,7 @@
 
 These are inter-dependent. Fixing one helps fix the others. (source?)
 
+This is an update to the paper above:
 - [Hallmarks of aging: An expanding universe](https://www.cell.com/cell/fulltext/S0092-8674(22)01377-0)
 This adds three more hallmarks:
 - Disabled macroautophagy
@@ -32,6 +33,7 @@ This adds three more hallmarks:
 - [Israeli study links blood sugar levels, brain aging process](https://www.ynetnews.com/health_science/article/sygjvxrzje)
 
 ## Information Theory of Ageing
+- [The Information Theory of Aging](https://www.nature.com/articles/s43587-023-00527-6.epdf)
 - [David Sinclair: DNA Tagging, rather than DNA Damage, Drives Aging and Is Reversible](https://www.nad.com/news/harvard-professor-david-sinclairs-information-theory-of-aging)
 - [Loss of Epigenetic Information Can Drive Aging, Restoration Can Reverse It](https://hms.harvard.edu/news/loss-epigenetic-information-can-drive-aging-restoration-can-reverse)
 - [David Sinclair: Epigenetic Info Loss Is a Cause of Aging](https://www.lifespan.io/news/david-sinclair-epigenetic-info-loss-is-a-cause-of-aging/)
@@ -157,6 +159,9 @@ This adds three more hallmarks:
 
 ## Navitoclax
 - [Combining rejuvenation interventions in rodents: a milestone in biomedical gerontology whose time has come](https://www.tandfonline.com/doi/pdf/10.1080/14728222.2024.2330425)
+
+## Oxytocin
+- [How Stress Alters DNA Methylation to Accelerate Biological Age — and How Oxytocin May Modulate This Epigenetic Pathway](https://gethealthspan.com/science/article/stress-and-the-epigenome)
 
 ## Telomerase
 ### Meditation
