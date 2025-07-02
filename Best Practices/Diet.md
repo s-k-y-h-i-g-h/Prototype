@@ -1,3 +1,5 @@
+- [Dietary Patterns Associated With Healthy Aging](https://www.lifespan.io/news/dietary-patterns-associated-with-healthy-aging/)
+
 # One Meal A Day (OMAD)
 ## Increased Risk of CVD (Unconfirmed)
 - [8-hour time-restricted eating linked to a 91% higher risk of cardiovascular death](https://newsroom.heart.org/news/8-hour-time-restricted-eating-linked-to-a-91-higher-risk-of-cardiovascular-death)

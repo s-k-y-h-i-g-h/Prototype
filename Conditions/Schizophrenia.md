@@ -177,6 +177,12 @@ Reduces pro-inflammatory cytokines.
 - [Acupuncture for schizophrenia](https://www.cochrane.org/CD005475/SCHIZ_acupuncture-for-schizophrenia)
 > This reviews looks at the effectiveness of various types of acupuncture as treatment for people with schizophrenia. An update search for studies was carried out in 2012 and found 30 studies that randomised **participants who were receiving antipsychotic medication to receive additional acupuncture** or standard care.
 
+## Low Dose Memantine
+- helps with negative symptoms and cognitive deficits
+
+## Keeping Stress Level Consistently Low
+- through behavioral and chemical interventions
+
 ## Experimental
 ### JRT
 - [Molecular design of a therapeutic LSD analogue with reduced hallucinogenic potential](https://www.pnas.org/doi/full/10.1073/pnas.2416106122)

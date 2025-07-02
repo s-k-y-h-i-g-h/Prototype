@@ -38,10 +38,6 @@ This adds three more hallmarks:
 - [Loss of Epigenetic Information Can Drive Aging, Restoration Can Reverse It](https://hms.harvard.edu/news/loss-epigenetic-information-can-drive-aging-restoration-can-reverse)
 - [David Sinclair: Epigenetic Info Loss Is a Cause of Aging](https://www.lifespan.io/news/david-sinclair-epigenetic-info-loss-is-a-cause-of-aging/)
 
-# Longevity Treatments
-| Name | Dose Range | Mechanisms | Restores declining levels? | Notes |
-| ---- | ---------- | ---------- | --------------------------- | ---- |
-
 # Increasing Longevity
 - [DNAm aging biomarkers are responsive: Insights from 51 longevity interventional studies in humans](https://pubmed.ncbi.nlm.nih.gov/39484592/)
 - [Climbing the longevity pyramid: overview of evidence-driven healthcare prevention strategies for human longevity](https://www.frontiersin.org/journals/aging/articles/10.3389/fragi.2024.1495029/full?form=MG0AV3)
@@ -121,6 +117,10 @@ This adds three more hallmarks:
 ## Trametinib
 - [A triple drug combination targeting components of the nutrient-sensing network maximizes longevity](https://pmc.ncbi.nlm.nih.gov/articles/PMC6800352/)
 > the mitogen-activated protein kinase kinase (MEK) inhibitor trametinib, the mTOR complex 1 (mTORC1) inhibitor rapamycin, and the glycogen synthase kinase-3 (GSK-3) inhibitor lithium act additively to increase longevity in Drosophila. Remarkably, the triple drug combination increased lifespan by 48%
+
+## Cycloatragenol
+- [Cycloastragenol](https://en.wikipedia.org/wiki/Cycloastragenol)
+> Cycloastragenol is a triterpenoid isolated from various legume species in the genus Astragalus that is purported to have telomerase activation activity. A preliminary in vitro study on human CD4 and CD8 T cells found that cycloastragenol may moderately increase telomerase activity and inhibit the onset of cellular senescence.
 
 ## Magnolia Officinalis Extract (Honokiol)
 - [Identification of senescence rejuvenation mechanism of Magnolia officinalis extract including honokiol as a core ingredient](https://pubmed.ncbi.nlm.nih.gov/39992207/)
