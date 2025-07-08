@@ -11,6 +11,9 @@ Writing good clean code when you are working on yourself isn't just essential - 
 
 Check how long each substance lasts and figure out how often you should dose it for it to always be active in your body.
 
+## Regularly Measure Your Vitals
+- [Sleep as a vital sign](https://sleep.biomedcentral.com/articles/10.1186/s41606-023-00085-1)
+
 ## Essential Nutrients
 Make sure you are getting RDAs of essential nutrients.
 

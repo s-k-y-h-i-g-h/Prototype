@@ -17,6 +17,28 @@ A [transhumanist](https://en.wikipedia.org/wiki/Transhumanism) [biohackers](http
 # Method
 - [Develop your stack](Best%20Practices/Develop%20Your%20Stack.md)
 
+tl;dr:
+You need to fix:
+- Sleep quality (ensure duration of SWS and REM are about equal and are about 2 hours each). Don't consume stimulants like coffee and modafinil after 10am-noon. Don't eat or supplement amino acids after 4pm.
+- Meditate at least once a day
+- Do yoga nidra a couple of times a day
+- At least 10 mins jogging or cycling every day, 1 hour of either every other day
+- At least 1 set of moderately heavy weights (core exercise like deadlift or squats) every other day, with sundays off
+- Make sure you are getting all your RDAs. Ask AI to tally up how much potassium, sodium, etc the food you have eaten during the day and supplement with potassium bicarbonate and table salt, for example
+- Listen to music you like - it's good for you
+- Steam your food (to eliminate AGEs from your diet) and only eat whole food. Don't eat things like cured meats. Don't eat food with sugar (unless naturally present) or milk in it. Use artificial sweetener.
+- Use nootropics and non-toxic drugs to get yourself into the state you want to be in
+- Fight the mechanisms of ageing with supplements and meds
+- Log what you do every day and how you feel at various points. Compare today to the previous days. Keep changing stuff until you get the right results. Use iterative development to figure out the right order and timing.
+- Ask AI about the mechanisms of the things you take, what effects they have on the problems you are dealing with (e.g. depression) and understand what you are working with in detail
+- Write down what you really want to be working on (e.g. having a business) and have your notes in front of you while you just sit there and look at them. Ideas about how to get there will spontaneously occur. Write down every idea.
+- Write down every good idea you have and put it into a project management app like Jira. Create projects for various concerns (like one for your business). When I say every good idea I mean every good idea. Some ideas are once in a lifetime. Structuring your ideas into tasks inside of projects facilitates making your ideas a reality.
+- This is the only chance you get. Once you've implemented all the above things you will be capable of taking steps towards doing what you want to do and spending your time how you want to spend it.
+- Make enough money for longevity treatments, supplements, meds and drugs
+- Do something to speed up longevity research. Get involved or raise funds and donate them.
+- Buy supplements and meds for friends/family who can't afford them. Upgrade your team.
+- Monitor your vitals regularly to detect problems early
+
 ## Apply Best Practices
 - [Improve your diet](Food.md)
 - [Pornography](Best%20Practices/Avoid%20Pornography.md)

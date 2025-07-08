@@ -214,6 +214,8 @@ Reduces pro-inflammatory cytokines.
 >  The polyamines are ubiquitous aliphatic molecules comprising ... spermidine 
 
 # Risk Factors
+## Social Stress Contagion
+
 ## Being LGBT (Particularly Trans or Gender Non-Conforming)
 - [Exploring the Dual Challenges Facing LGBTQ+ Individuals with Schizophrenia](https://www.asteroidhealth.com/blog/schizophrenia-in-the-lgbtq-community)
 
