@@ -30,6 +30,8 @@ This adds three more hallmarks:
 - Chronic inflammation
 - Dysbiosis
 
+- [Aging and aging-related diseases: from molecular mechanisms to interventions and treatments](https://pmc.ncbi.nlm.nih.gov/articles/PMC9755275/)
+> Overall, the existing evidence indicates that the hallmarks of aging are the common drivers of aging-related diseases. However, the diverse aging-related diseases in different organs and systems have their own combinations of molecular hallmarks of aging. Mitochondrial dysfunction (Fig. 5), defective autophagy, loss of proteostasis (Fig. 6), induction of cellular senescence and alteration of intercellular communication by the SASP (Fig. 7) are common causes of various aging-related diseases. Moreover, numerous aging-related diseases are associated with a chronic inflammatory status, which is frequently attributable to the long-term accumulation of senescent cells in various tissues. Other hallmarks of aging, such as genomic instability, epigenetic alteration, telomere attrition, deregulation of nutrient sensing, and dysbiosis of the gut microbiota, are also related to many major aging-related diseases, including cardiovascular diseases, neurodegenerative diseases, metabolic diseases, and chronic respiratory diseases.
 - [Israeli study links blood sugar levels, brain aging process](https://www.ynetnews.com/health_science/article/sygjvxrzje)
 
 ## Information Theory of Ageing
@@ -114,6 +116,8 @@ This adds three more hallmarks:
 ## Rapamycin
 - [Rapamycin for longevity: opinion article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6814615/)
 
+## Urolithin A
+
 ## Trametinib
 - [A triple drug combination targeting components of the nutrient-sensing network maximizes longevity](https://pmc.ncbi.nlm.nih.gov/articles/PMC6800352/)
 > the mitogen-activated protein kinase kinase (MEK) inhibitor trametinib, the mTOR complex 1 (mTORC1) inhibitor rapamycin, and the glycogen synthase kinase-3 (GSK-3) inhibitor lithium act additively to increase longevity in Drosophila. Remarkably, the triple drug combination increased lifespan by 48%
@@ -129,6 +133,9 @@ This adds three more hallmarks:
 - [17a-estradiol](https://en.wikipedia.org/wiki/17%CE%B1-Estradiol)
 > Supplementation with 17α-Estradiol increases the median lifespan of male mice by 19%, while not affecting female lifespan. This treatment does not lead to feminization of male mice. 17α-Estradiol furthermore alleviates age-related metabolic and inflammatory dysfunction and improves glucose tolerance in male mice. The exact reason for this sex-specific increase in lifespan is unknown, however, the effect on male lifespan is gone in castrated mice, suggesting that the metabolic response to 17α-Estradiol requires the presence of male gonadal hormones. Whether these results are translatable to humans is currently unknown.
 - [Health benefits attributed to 17α-estradiol, a lifespan-extending compound, are mediated through estrogen receptor α](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7744101/)
+
+## Psilocybin
+- [https://pmc.ncbi.nlm.nih.gov/articles/PMC12238350/pdf/41514_2025_Article_244.pdf](Psilocybin treatment extends cellular lifespan and improves survival of aged mice)
 
 ## CoQ10
 - [Jorge Flechas, MD, MPH: PQQ: A New Molecule to Lower Mercury and its other Health Benefits](https://www.youtube.com/watch?v=WHQUpNZgFhI)
@@ -146,6 +153,9 @@ This adds three more hallmarks:
 ## Reading
 - [Reading Skills: How Many Pages Should You Read per Hour?](https://selfimprovepublishing.com/reading-skills-how-many-pages-should-you-read-per-hour/)
 > According to Bustle, who quotes a study, the sweet spot is 30 minutes of reading each day to live longer than those who read less. This means roughly 20 pages each day will be beneficial.
+
+## Learning to Play/Playing an Instrument (e.g. Piano)
+- [Effects of music learning and piano practice on cognitive function, mood and quality of life in older adults](https://pmc.ncbi.nlm.nih.gov/articles/PMC3814522/)
 
 ## Telomere Lengthening
 - [Scientists find way to increase length of human telomeres](https://www.medicalnewstoday.com/articles/288515#New-method-increased-telomere-length-by-up-to-10)

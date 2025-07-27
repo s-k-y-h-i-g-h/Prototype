@@ -15,6 +15,7 @@ A [transhumanist](https://en.wikipedia.org/wiki/Transhumanism) [biohackers](http
 - **Wakespan**: How much of the time that you are alive you spend being awake.
 
 # Method
+- [Hacking the Brain: Dimensions of Cognitive Enhancement](https://pmc.ncbi.nlm.nih.gov/articles/PMC6429408/)
 - [Develop your stack](Best%20Practices/Develop%20Your%20Stack.md)
 
 tl;dr:
@@ -130,6 +131,7 @@ Instead of coming up with one huge stack, we have broken things down into smalle
 - [Bryan Johnson's Blueprint Protocol](https://protocol.bryanjohnson.com)
 - [Biohacking.wiki](https://www.biohacking.wiki/Main_Page)
 - [NootropicsDAO](https://nootropicsdao.com/)
+- [Longevity.Technology](https://longevity.technology/)
 
 # Communities
 - [Reddit Nootropics](https://www.reddit.com/r/Nootropics/)
