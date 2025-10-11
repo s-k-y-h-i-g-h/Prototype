@@ -4,4 +4,7 @@
 - [We Tried To Cure Her Depression (In 5 Days)](https://www.youtube.com/watch?v=FWF_aWdTWAs)
 > My Blueprint co-founder Kate has had depression for about 4 years. Not wanting to start anti-depressants, she tried a groundbreaking new 5-day TMS protocol called SAINT.
 - [New neuroscience research reveals brain antioxidant deficit in depression](https://www.msn.com/en-gb/health/other/new-neuroscience-research-reveals-brain-antioxidant-deficit-in-depression/ar-AA1HbWor)
-NAC helps with depression.
+- NAC helps with depression.
+
+## Insomnia
+- [Johnson & Johnson’s investigational seltorexant shows numerically higher response in patients with depression with insomnia symptoms, with fewer side effects compared to quetiapine XR](https://www.jnj.com/media-center/press-releases/johnson-johnsons-investigational-seltorexant-shows-numerically-higher-response-in-patients-with-depression-with-insomnia-symptoms-with-fewer-side-effects-compared-to-quetiapine-xr)
