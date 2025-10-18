@@ -12,6 +12,11 @@
 > Increased plasma cortisol/ dehydroepiandrosterone-sulphate ratio is evident in ASD, and is significantly decreased by serotonin precursor administration
 > Overall serotonin is relevant to ASD etiology and course and for some may be an important treatment target.
 
+- [The serotonin system in autism spectrum disorder: from biomarker to animal models](https://pmc.ncbi.nlm.nih.gov/articles/PMC4824539/)
+- [The Role of Serotonin in Autism: What You Need to Know](https://www.advancedautism.com/post/serotonin-and-autism)
+- [Autism Is More Than One Condition, Study of Over 45,000 People Finds](https://www.sciencealert.com/autism-is-more-than-one-condition-study-of-over-45000-people-finds)
+"Autism" is more than one condition and this is evident if you look at things like serotonin level in autistic people because some autists have elevated serotonin and some have too little. Serotonin is also tied to sound sensitivity so it's not surprising that there are autists with high serotonin levels and autists with too much sound sensitivity and it's not surprising that there is a lot of variation in the autistic population's sound sensitivities.
+
 # Treatment
 - [https://pmc.ncbi.nlm.nih.gov/articles/PMC3964746/](Redox Regulation and the Autistic Spectrum: Role of Tryptophan Catabolites, Immuno-inflammation, Autoimmunity and the Amygdala)
 > many studies have shown efficacy of antioxidant and anti-inflammatory treatments, as well as treatment targeted to amygdala functioning, including hydrogen, oxytocin and NAD+, vitamin and mineral supplementation, naltrexone, DSMA metal detoxification, GSH and N-acetylcysteine. It should be noted that many of the pharmaceutical used to treat ASD are also powerful antioxidants and anti-inflammatories, including antidepressants
