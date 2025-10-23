@@ -40,3 +40,4 @@
 - [indiamart](https://www.indiamart.com/)
 - [CAROLINA CHEMICAL](https://carolinachemical.com/)
 - [SEMAX POLSKA](https://semaxpolska.com/)
+- [United Pharmacies UK](https://www.unitedpharmacies-uk.md/)
