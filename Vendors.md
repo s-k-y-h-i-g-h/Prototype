@@ -41,3 +41,5 @@
 - [CAROLINA CHEMICAL](https://carolinachemical.com/)
 - [SEMAX POLSKA](https://semaxpolska.com/)
 - [United Pharmacies UK](https://www.unitedpharmacies-uk.md/)
+- [Martin Overseas](https://www.indiamart.com/martin-overseas/)
+- [Aventis Globals](https://www.genericglobalpharmacy.com/)

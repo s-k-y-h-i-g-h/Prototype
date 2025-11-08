@@ -1,4 +1,7 @@
 # Characteristics
+
+- [Beyond the dopamine hypothesis of schizophrenia to three neural networks of psychosis: dopamine, serotonin, and glutamate](https://www.cambridge.org/core/journals/cns-spectrums/article/beyond-the-dopamine-hypothesis-of-schizophrenia-to-three-neural-networks-of-psychosis-dopamine-serotonin-and-glutamate/3E9E50ED717219011DD1B570365010E8)
+
 ## Oxidative Stress
 - [Oxidative stress in schizophrenia: An integrated approach - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0149763410001727)
 > Recent clinical studies have shown antioxidant treatment to be effective in ameliorating schizophrenic symptoms.
@@ -209,6 +212,9 @@ Reduces pro-inflammatory cytokines.
 
 ## KarXT
 - [Sumitomo's novel schizophrenia drug flunks phase 3 test](https://pharmaphorum.com/news/sumitomos-novel-schizophrenia-drug-flunks-phase-3-test)
+
+## L-Theanine
+- [The effects of L-theanine supplementation on the outcomes of patients with mental disorders: a systematic review](https://pmc.ncbi.nlm.nih.gov/articles/PMC11616108/)
 
 # Treatments Under Investigation
 ## Polyamines and Spermidine
