@@ -20,6 +20,12 @@ It is much cheaper to buy lotion and mix in stuff like DMAE than it is to buy DM
 # HBOT
 - [India's Air Pollution + Hyperbaric Oxygen Therapy | Don’t Die Podcast #2](https://www.youtube.com/watch?v=XVJaqRSrEZA)
 
+# Bathing
+- Higher risk of infection, rashes and skin irritation if not done every 1-2 days
+
+## Bath Towels
+- Wash every use
+
 # Avoid
 ## Galactose (Milk)
 - [Galactose-Induced Skin Aging: The Role of Oxidative Stress](https://pmc.ncbi.nlm.nih.gov/articles/PMC7317321/)

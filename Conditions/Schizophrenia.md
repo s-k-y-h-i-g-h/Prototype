@@ -184,10 +184,14 @@ Reduces pro-inflammatory cytokines.
 > This reviews looks at the effectiveness of various types of acupuncture as treatment for people with schizophrenia. An update search for studies was carried out in 2012 and found 30 studies that randomised **participants who were receiving antipsychotic medication to receive additional acupuncture** or standard care.
 
 ## Low Dose Memantine
-- helps with negative symptoms and cognitive deficits
+- Helps with negative symptoms and cognitive deficits
+- [Is Memantine Effective as an NMDA-Receptor Antagonist in Adjunctive Therapy for Schizophrenia?](https://pubmed.ncbi.nlm.nih.gov/32751985/)
+
+### High Dose
+- Also works, anecdotally.
 
 ## Keeping Stress Level Consistently Low
-- through behavioral and chemical interventions
+- Through behavioral and chemical interventions
 
 ## Experimental
 ### JRT
