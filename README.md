@@ -46,6 +46,7 @@ A [transhumanist](https://en.wikipedia.org/wiki/Transhumanism) [biohackers](http
 - [Laughing](Best%20Practices/Laughing.md)
 - [Conditioning](Best%20Practices/Conditioning.md)
 - [Socialising](Best%20Practices/Socialising.md)
+- [LL-37, the master antimicrobial peptide, its multifaceted role from combating infections to cancer immunity](https://www.sciencedirect.com/science/article/abs/pii/S0924857924003145)
 
 ## Fix Specific Issues
 - [Addiction](Conditions/Addiction.md)
